@@ -1,2 +1,7 @@
-# quarto-site-template
-Example quarto site without R or Python.
+# NMFS Openscapes fall 2022
+
+* AFSC
+* SEFSC
+* SWFSC
+* PIFSC
+* NWFSC
