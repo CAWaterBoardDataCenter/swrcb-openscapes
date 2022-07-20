@@ -1,35 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/Openscapes/nmfs-openscapes-fall-2022/quarto-workflows/rstudio.html</loc>
-    <lastmod>2022-07-07T23:04:13.876Z</lastmod>
+    <loc>https://github.com/Openscapes/nmfs-openscapes/cohorts/NMFS-fall2021.html</loc>
+    <lastmod>2022-07-20T21:34:32.316Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/Openscapes/nmfs-openscapes-fall-2022/quarto-workflows/jupyter.html</loc>
-    <lastmod>2022-07-07T23:04:15.228Z</lastmod>
+    <loc>https://github.com/Openscapes/nmfs-openscapes/cohorts/NMFS-fall2022.html</loc>
+    <lastmod>2022-07-20T21:34:33.952Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/Openscapes/nmfs-openscapes-fall-2022/quarto-workflows/index.html</loc>
-    <lastmod>2022-07-07T23:04:15.748Z</lastmod>
+    <loc>https://github.com/Openscapes/nmfs-openscapes/cohorts/AFSC-win2021.html</loc>
+    <lastmod>2022-07-20T21:34:34.532Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/Openscapes/nmfs-openscapes-fall-2022/quarto-workflows/browser.html</loc>
-    <lastmod>2022-07-07T23:04:16.172Z</lastmod>
+    <loc>https://github.com/Openscapes/nmfs-openscapes/cohorts/SEFSC-sum2022.html</loc>
+    <lastmod>2022-07-20T21:34:35.104Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/Openscapes/nmfs-openscapes-fall-2022/explore.html</loc>
-    <lastmod>2022-07-07T23:04:16.676Z</lastmod>
+    <loc>https://github.com/Openscapes/nmfs-openscapes/cohorts/NWFSC-spr2021.html</loc>
+    <lastmod>2022-07-20T21:34:35.440Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/Openscapes/nmfs-openscapes-fall-2022/index.html</loc>
-    <lastmod>2022-07-07T23:04:17.084Z</lastmod>
+    <loc>https://github.com/Openscapes/nmfs-openscapes/cohorts/FDD-fall2021.html</loc>
+    <lastmod>2022-07-20T21:34:35.764Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/Openscapes/nmfs-openscapes-fall-2022/learning-more.html</loc>
-    <lastmod>2022-07-07T23:04:17.456Z</lastmod>
+    <loc>https://github.com/Openscapes/nmfs-openscapes/cohorts/index.html</loc>
+    <lastmod>2022-07-20T21:34:36.136Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/Openscapes/nmfs-openscapes-fall-2022/transition-from-rmarkdown.html</loc>
-    <lastmod>2022-07-07T23:04:17.868Z</lastmod>
+    <loc>https://github.com/Openscapes/nmfs-openscapes/media.html</loc>
+    <lastmod>2022-07-20T21:34:36.504Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Openscapes/nmfs-openscapes/about-openscapes.html</loc>
+    <lastmod>2022-07-20T21:34:36.852Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Openscapes/nmfs-openscapes/about-nmfs-openscapes.html</loc>
+    <lastmod>2022-07-20T21:34:37.256Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Openscapes/nmfs-openscapes/index.html</loc>
+    <lastmod>2022-07-20T21:34:37.592Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Openscapes/nmfs-openscapes/contact.html</loc>
+    <lastmod>2022-07-20T21:34:37.936Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Openscapes/nmfs-openscapes/mentors.html</loc>
+    <lastmod>2022-07-20T21:34:38.280Z</lastmod>
   </url>
 </urlset>

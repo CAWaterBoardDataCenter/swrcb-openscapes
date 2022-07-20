@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Openscapes/nmfs-openscapes-fall-2022/sitemap.xml
+Sitemap: https://github.com/Openscapes/nmfs-openscapes/sitemap.xml
