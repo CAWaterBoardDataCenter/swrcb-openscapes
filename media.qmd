@@ -1,0 +1,21 @@
+---
+title: "Presentations, Publications and Medio"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Presentations
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Openscapes approach to helping organizations transition to Open Science workflows and new tools](https://www.youtube.com/watch?v=TuqgE2jc2ZQ) Presented to the High-level Group for the Modernisation of Statistical Production & Services (HLG-MOS), United Nations Economic Commission for Europe (UNECE). May 4, 2022: Lowndes and Holmes.
+
+## Blog Posts
+ 
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [AFSC Winter Cohort Report](https://www.openscapes.org/blog/2022/04/07/afsc-supportive-forum/) - April 7, 2022: Markowitz, London, Siple.
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/>   [3 Takeways for planning for the year of Open Science](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/) - February 17, 2022: Friesz, Fenwick, Holmes, Holder, Steiker, Robinson, Lowndes
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/>   [Identifying common approaches and needs for fisheries dependent data](https://www.openscapes.org/blog/2021/11/12/fdd-champions/) - November 12, 2021: Fay, Jones, Holder and Lowndes
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/>   [Strengthening scientific workflow and team collaboration at NOAA Fisheries](https://www.openscapes.org/blog/2021/11/12/noaa-nmfs-champions/) - November 12, 2021: Holmes, Ward, Scalliet, Clatterbuck and Lowndes

@@ -1,35 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/transition-from-rmarkdown.html</loc>
-    <lastmod>2022-06-09T20:31:05.410Z</lastmod>
+    <loc>https://openscapes.github.io/nmfs-openscapes/contact.html</loc>
+    <lastmod>2022-07-20T21:20:40.051Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/index.html</loc>
-    <lastmod>2022-06-09T20:31:05.769Z</lastmod>
+    <loc>https://openscapes.github.io/nmfs-openscapes/about-openscapes.html</loc>
+    <lastmod>2022-07-20T21:20:40.521Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/learning-more.html</loc>
-    <lastmod>2022-06-09T20:31:06.148Z</lastmod>
+    <loc>https://openscapes.github.io/nmfs-openscapes/about-nmfs-openscapes.html</loc>
+    <lastmod>2022-07-20T21:20:40.943Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/explore.html</loc>
-    <lastmod>2022-06-09T20:31:06.591Z</lastmod>
+    <loc>https://openscapes.github.io/nmfs-openscapes/index.html</loc>
+    <lastmod>2022-07-20T21:20:41.298Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/browser.html</loc>
-    <lastmod>2022-06-09T20:31:06.924Z</lastmod>
+    <loc>https://openscapes.github.io/nmfs-openscapes/cohorts/NMFS-fall2021.html</loc>
+    <lastmod>2022-07-20T21:20:41.627Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/jupyter.html</loc>
-    <lastmod>2022-06-09T20:31:07.279Z</lastmod>
+    <loc>https://openscapes.github.io/nmfs-openscapes/cohorts/index.html</loc>
+    <lastmod>2022-07-20T21:20:41.949Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/index.html</loc>
-    <lastmod>2022-06-09T20:31:07.609Z</lastmod>
+    <loc>https://openscapes.github.io/nmfs-openscapes/cohorts/NMFS-fall2022.html</loc>
+    <lastmod>2022-07-20T21:20:42.345Z</lastmod>
   </url>
   <url>
-    <loc>https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/rstudio.html</loc>
-    <lastmod>2022-06-09T20:31:08.031Z</lastmod>
+    <loc>https://openscapes.github.io/nmfs-openscapes/cohorts/NWFSC-spr2021.html</loc>
+    <lastmod>2022-07-20T21:20:42.685Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/nmfs-openscapes/cohorts/AFSC-win2021.html</loc>
+    <lastmod>2022-07-20T21:20:43.005Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/nmfs-openscapes/cohorts/SEFSC-sum2022.html</loc>
+    <lastmod>2022-07-20T21:20:43.306Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/nmfs-openscapes/cohorts/FDD-fall2021.html</loc>
+    <lastmod>2022-07-20T21:20:43.619Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/nmfs-openscapes/media.html</loc>
+    <lastmod>2022-07-20T21:20:44.703Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/nmfs-openscapes/mentors.html</loc>
+    <lastmod>2022-07-20T21:20:45.640Z</lastmod>
   </url>
 </urlset>
