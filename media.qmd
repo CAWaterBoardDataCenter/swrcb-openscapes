@@ -2,10 +2,6 @@
 title: "Presentations, Publications and Medio"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Presentations
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Openscapes approach to helping organizations transition to Open Science workflows and new tools](https://www.youtube.com/watch?v=TuqgE2jc2ZQ) Presented to the High-level Group for the Modernisation of Statistical Production & Services (HLG-MOS), United Nations Economic Commission for Europe (UNECE). May 4, 2022: Lowndes and Holmes.
