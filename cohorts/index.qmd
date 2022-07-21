@@ -7,14 +7,15 @@ title: NMFS Champions Cohorts
 
 NMFS Openscapes Champions program is a mentorship and professional development opportunity for individuals and research teams in NOAA Fisheries.
 
-## Upcoming NMFS Openscapes Cohorts
+## Upcoming Cohorts
 
-* Summer 2022 SEFSC
+<img src="../images/fall2022openscapes.png" alt="hands together" style="float:right;width:30%;">
+
+* [Summer 2022 SEFSC](SEFSC-sum2022.html)
 
 * Oct-Dec 2022 cohorts will be happening concurrently at AFSC, NWFSC, SWFSC, and SEFSC with participation by PIFSC, WCRO and SERO staff. 
 
-
-## Past NMFS Openscapes Cohorts
+## Past Cohorts
 
 **NWFSC Spring 2021** Champions cohort of 30+ scientists at the Northwest Fisheries Science Center.
 
@@ -22,13 +23,7 @@ NMFS Openscapes Champions program is a mentorship and professional development o
 
 **[NMFS Fall 2021](https://github.com/Openscapes/2021-nmfs)** This was a Champions cohort of scientists across 4 science centers: AFSC, NWFSC, NEFSC and SEFSC.
 
-**AFSC Winter 2022** Champions cohort at the Alaska Fisheries Science Center.
-
-
-
-<center>
-    <img src="images/logo-transparent-crop.png" width="300px">
-</center>
+**[AFSC Winter 2022](AFSC-win2021.html)** Champions cohort at the Alaska Fisheries Science Center.
 
 
 
