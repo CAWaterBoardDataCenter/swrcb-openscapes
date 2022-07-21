@@ -14,6 +14,8 @@ Julia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Affle
 
 Julia S. Stewart Lowndes. 2019. [Open software mean kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science). Scientific American.
 
+Julia S. Stewart Lowndes et al. 2019. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) Nature Career Column. 31 October 2019
+
 ## Learn more
 
 * [Our story](https://www.openscapes.org/about/)
