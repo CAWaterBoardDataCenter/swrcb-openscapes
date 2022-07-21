@@ -6,7 +6,7 @@ title: "Mentors"
 
 The Openscapes Mentor group is a cross-NMFS mentor community. Each science center and regional office participating in the Openscapes cohorts has 1-4 mentors that help organize the local cohorts, spearhead communication with with their local leadership, act as a point-person for interested local staff, help identify local needs, and help communicate, or potentially organize, teaching resources for their local staff.
 
-Openscapes organizes training and co-working sessions for the mentor group. 
+Openscapes organizes training and co-working sessions for the mentor group, so that we can all learn from each other's experiences and learn new skills together.  
 
 ## Mentors
 
@@ -18,7 +18,7 @@ Organizers
 Center-Level Mentor group
 
 * AFSC: Emily Markowitz, Josh London, Megsie Siple
-* NEFSC: Andy Jones
+* NEFSC: Andy Jones, Scott Large
 * NWFSC: Eli Holmes, Eric Ward
 * PIFSC: Amanda Bradford
 * SEFSC: Adyan Rios, Molly Stevens
@@ -34,6 +34,11 @@ Center-Level Mentor group
 
 The NMFS Openscapes mentor group is meeting bi-weekly. Current focus is on activities surrounding the summer cohorts at SEFSC and Cal EPA.
 
-### January
+### Spring 
 
-The NMFS Openscapes is in the planning stages for an Openscapes Mentor cohort to begin working together in 2022. Contact Eli Holmes @ NOAA for information.
+Mentors and other interested folks across science centers and regional offices met several times to plan and give presentations about NMFS Openscapes efforts to individual science centers and the NMFS Science Board.
+
+### January-March
+
+The AFSC Mentors met bi-weekly during the 2022-noaa-afsc cohort. 
+
