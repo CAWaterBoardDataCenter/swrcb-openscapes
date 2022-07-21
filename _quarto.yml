@@ -13,6 +13,7 @@ website:
     left: "&copy; CC-By Openscapes, 2022"
     
   sidebar:
+    background: "#D9E3E4"
     logo: "images/logo-transparent-crop.png"
     pinned: true
     align: center
