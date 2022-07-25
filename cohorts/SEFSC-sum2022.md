@@ -13,7 +13,7 @@ SEFSC supported XX teams from across the center in the 2022 Summer Openscapes Co
 4) developing open communities and coding strategies, and 
 5) preparing a team pathway document to guide their open data science journey after the training. 
 
-The teams are focusing their energy on a range of important research issues supporting the SEFSC mission including... The teams consist of XX SEFSC employees from XX SEFSC divisions, AOML, the Southeast Regional Office. All of the teams are developing their skills for... All of this is achieved within the context of a growing expansion of open science within NOAA and the greater scientific community. 
+The teams are focusing their energy on a range of important research issues supporting the SEFSC mission including... The teams consist of 37 SEFSC employees across 7 SEFSC divisions, along with 4 employees from AOML. All of the teams are developing their skills to cultivate innovation and establish best practices in their own work.  All of this is achieved within the context of a growing expansion of open science within NOAA and the greater scientific community. 
 
 
 # Teams and their achievements
