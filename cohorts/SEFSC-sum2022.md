@@ -2,7 +2,7 @@
 title: Summer 2022 SEFSC
 ---
 
-<img src="../images/sefsc-surf-sessions.png" alt="hands together" style="float:right;width:40%;">
+<img src="../images/sefsc-surf-sessions.png" alt="SEFSC staff working together on workflow." style="width:100%">
 
 The Southeast Fisheries Science Center (SEFSC) has undergone a massive realignment, where tasks are still being transitioned within and among Divisions.  This training is directly related to SEFSC strategic initiative I7: Implement an innovation and best practice management process. Bringing the Openscapes Champions Program to SEFSC in FY22 will empower staff with the tools and skills to lead innovation and establish best practices in their own work. 
 

@@ -36,3 +36,9 @@ Since 2020, individual science centers have organized 6 cohorts with the Opensca
 
 We are working on securing support for a 3-year national-level program modeled off of the 3-year NASA Openscapes program. Supporting Openscapes at a national level would enable sustainable adoption of Open Science workflows and more efficient NMFS teams trained in modern data science tools and team management.
 
+### Why Openscapes?
+
+[NOAA Fisheries](https://www.fisheries.noaa.gov/about-us) is responsible for the stewardship of the nation's ocean resources and their habitat. We provide vital services for the nation, all backed by sound science and an ecosystem-based approach to management. NOAA promotes Open Science in its work towards its mission: [NOAA Data Strategy for open and transparent data and analyses](https://sciencecouncil.noaa.gov/Portals/0/2020%20Data%20Strategy.pdf?ver=2020-09-17-150024-997).
+
+Openscapes' long-term goal is to enable robust, inclusive, and enduring science- and data-driven solutions to global and time-sensitive challenges. They approach open science as a spectrum, as a behavior change, and as a movement. Data analysis and stewardship are entryways to meet scientists where they are, helping them develop new skill sets and mindsets while empowering them as leaders. The Openscapes Framework is team-based and particularly suited to the type of big team projects that we work on. Openscapes training is helping NMFS teams change their scientific workflows to work more openly, reproducibly, efficiently and robustly, to advance NOAA Fisheries' mission.
+
