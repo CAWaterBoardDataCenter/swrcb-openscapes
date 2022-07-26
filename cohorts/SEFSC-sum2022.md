@@ -2,9 +2,7 @@
 title: Summer 2022 SEFSC
 ---
 
-# *Under construction*
-
-# Summary
+<img src="../images/sefsc-surf-sessions.png" alt="hands together" style="float:right;width:40%;">
 
 The Southeast Fisheries Science Center (SEFSC) has undergone a massive realignment, where tasks are still being transitioned within and among Divisions.  This training is directly related to SEFSC strategic initiative I7: Implement an innovation and best practice management process. Bringing the Openscapes Champions Program to SEFSC in FY22 will empower staff with the tools and skills to lead innovation and establish best practices in their own work. 
 
@@ -17,6 +15,8 @@ There are 36 people from SEFSC and 4 people from AOML participating in the 2022 
 5) preparing a team pathway document to guide their open data science journey after the training. 
 
 The teams are focusing their energy on a range of important research issues supporting the SEFSC mission including... The teams consist of 37 SEFSC employees across 7 SEFSC divisions, along with 4 employees from AOML. All of the teams are developing their skills to cultivate innovation and establish best practices in their own work.  All of this is achieved within the context of a growing expansion of open science within NOAA and the greater scientific community. 
+
+*SEFSC Openscapes Summer 2022 planning team:*  Adyan Rios;, Molly Stevens, James Primrose, Erica Rule. 
 
 
 # Teams

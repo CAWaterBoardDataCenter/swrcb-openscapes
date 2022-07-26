@@ -5,7 +5,7 @@ title: NMFS Champions Cohorts
 
 ## Champions Cohorts
 
-NMFS Openscapes Champions program is a mentorship and professional development opportunity for individuals and research teams in NOAA Fisheries. Read [blog posts](https://www.openscapes.org/tags/noaa-fisheries/) about each NMFS cohort and other NMFS Openscapes activities.
+NMFS Openscapes Champions program is a mentorship and professional development opportunity for individuals and research teams in NOAA Fisheries. Read [blog posts](https://www.openscapes.org/tags/noaa-fisheries/) about each NMFS Champions Cohort and other NMFS Openscapes activities.
 
 
 ## Upcoming Cohorts
@@ -14,17 +14,17 @@ NMFS Openscapes Champions program is a mentorship and professional development o
 
 * [Summer 2022 SEFSC](SEFSC-sum2022.html)
 
-* Oct-Dec 2022 cohorts will be happening concurrently at AFSC, NWFSC, SWFSC, and SEFSC with participation by PIFSC, WCRO and SERO staff. 
+* During Oct-Dec 2022, four Champions Cohorts will be happening concurrently at AFSC, NWFSC, SWFSC, and SEFSC with participation by PIFSC, WCRO and SERO staff. 
 
 ## Past Cohorts
 
-**NWFSC Spring 2021** Champions cohort of 30+ scientists at the Northwest Fisheries Science Center.
+**NWFSC Spring 2021** Champions Cohort of 30+ scientists at the Northwest Fisheries Science Center.
 
-**[FDD Fall 2021](https://github.com/Openscapes/2021-fdd)** This was a Champions cohort for Fisheries Dependent Data users (FDD).
+**[FDD Fall 2021](https://github.com/Openscapes/2021-fdd)** This was a Champions Cohort for Fisheries Dependent Data users (FDD).
 
-**[NMFS Fall 2021](https://github.com/Openscapes/2021-nmfs)** This was a Champions cohort of scientists across 4 science centers: AFSC, NWFSC, NEFSC and SEFSC.
+**[NMFS Fall 2021](https://github.com/Openscapes/2021-nmfs)** This was a Champions Cohort of scientists across 4 science centers: AFSC, NWFSC, NEFSC and SEFSC.
 
-**[AFSC Winter 2022](AFSC-win2021.html)** Champions cohort at the Alaska Fisheries Science Center.
+**[AFSC Winter 2021-2022](AFSC-win2021.html)** Champions Cohort at the Alaska Fisheries Science Center.
 
 
 

@@ -4,7 +4,7 @@ title: Fall 2022 NMFS
 
 <img src="../images/fall2022openscapes.png" alt="hands together" style="float:right;width:40%;">
 
-October to December 2022, we will have four cohorts involving teams and staff from five science centers and two regional offices: AFSC, NWFSC, PIFSC, SEFSC, SERO, SWFSC and WCRO.
+October to December 2022, we will have four Champions Cohorts involving teams and staff from five science centers and two regional offices: AFSC, NWFSC, PIFSC, SEFSC, SERO, SWFSC and WCRO.
 
 ::: {.callout-note icon=false}
 

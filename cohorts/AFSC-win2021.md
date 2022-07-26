@@ -3,6 +3,7 @@ title: Winter 2021-2022 AFSC
 ---
 
 # Summary
+
 AFSC supported 8 teams from across the center in the 2022 Winter Openscapes Cohort of the Openscapes Champions training program. This cohort training took place over 5 remote calls from January 28 to March 11, 2022. Cohort calls covered: 
 1) setting the open science mindset and discussing psychological safety, 
 2) an introduction to publishing and project management on GitHub, 
@@ -15,6 +16,8 @@ The teams focussed their energy on a range of important research issues supporti
 For each of the teams, the Openscapes training was just the beginning of a longer process. It is essential that AFSC leadership, division directors, and supervisors continue to offer the support, time, space, and enthusiasm as teams continue to develop skills and implement meaningful new practices. Participants in the training also recognize the need for additional training in specific skills and technologies (e.g., R, Python, Git and GitHub, advanced Google Workspace, reproducible analysis, collaborative writing). The AFSC can provide support for these needs by both identifying and funding training opportunities, and by encouraging scientists to allocate work time for expanding knowledge and expertise through free resources and self-directed training.
 
 Participants from the AFSC Openscapes cohort found the training transformative for their professional development. The training created a supportive forum for continued learning and collaboration across programs and divisions. As mentors for the AFSC Openscapes cohort we are committed to the community of support and active learning environment established during the training. We feel confident in stating AFSC’s continued investment in Openscapes will establish AFSC scientists as leaders in open science, enhance collaborations across divisions and centers, ensure continuity of long-term research efforts, and improve scientific communication to all stakeholders. Everyone involved in the cohort looks forward to expanded Openscapes training opportunities in the near future.
+
+*AFSC Openscapes Winter 2021-2022 planning team:*  Josh London, Em Markowitz, Megsie Siple
 
 # Teams and their achievements
 **The EcoFOCI Ecosystem Indicators Team** Aimed to streamline, document, and standardize survey data analysis and annual reporting of EcoFOCI ecosystem indicators for ESRs and ESPs. Before openscapes, the team felt that tight timelines forced the team to work “quickly; not always carefully” and that the Openscapes training gave them space to explore easier, faster, and more consistent ways to prepare results. They created a [GitHub organization](https://github.com/afsc-ecofoci) to help them codify data and code, and more importantly, invest in culture change. The team heavily discussed establishing a culture of modeling openness, sharing early code, and asking for expertise. The team aptly phrased the latter as “hidden expertise,” as the expertise may exist, but on local computers and unbeknownst to their peers, forcing others to reinvent workflows and processes that were already established. 

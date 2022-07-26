@@ -6,7 +6,7 @@ title: "Mentors"
 
 The Openscapes Mentor group is a cross-NMFS mentor community. Each science center and regional office participating in the Openscapes cohorts has 1-4 mentors that help organize the local cohorts, spearhead communication with with their local leadership, act as a point-person for interested local staff, help identify local needs, and help communicate, or potentially organize, teaching resources for their local staff.
 
-Openscapes organizes training and co-working sessions for the mentor group, so that we can all learn from each other's experiences and learn new skills together.  
+Openscapes organizes training and co-working sessions for the mentor group, so that we can all learn from each others experiences and learn new skills together.  
 
 ## Mentors
 
@@ -40,5 +40,5 @@ Mentors and other interested folks across science centers and regional offices m
 
 ### January-March
 
-The AFSC Mentors met bi-weekly during the 2022-noaa-afsc cohort. 
+The AFSC Mentors met bi-weekly during the 2021-2022 AFSC cohort. 
 

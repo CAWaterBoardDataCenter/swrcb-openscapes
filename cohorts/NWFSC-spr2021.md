@@ -2,4 +2,4 @@
 title: Spring 2021 NWFSC
 ---
 
-Under construction
+*NMFS Openscapes Fall 2021 planning team:*  Eric Ward and Helene Scalliet. 

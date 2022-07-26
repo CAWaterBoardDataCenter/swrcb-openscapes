@@ -2,4 +2,5 @@
 title: Fall 2021 NMFS
 ---
 
-Under construction
+*NMFS Openscapes Fall 2021 planning team:*  Eli Holmes, Eric Ward, Helene Scalliet. 
+
