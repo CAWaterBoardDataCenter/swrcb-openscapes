@@ -4,9 +4,9 @@ title: Summer 2022 SEFSC
 
 <img src="../images/sefsc-surf-sessions.png" alt="SEFSC staff working together on workflow." style="width:100%">
 
-The Southeast Fisheries Science Center (SEFSC) has undergone a massive realignment, where tasks are still being transitioned within and among Divisions.  This training is directly related to SEFSC strategic initiative I7: Implement an innovation and best practice management process. Bringing the Openscapes Champions Program to SEFSC in FY22 will empower staff with the tools and skills to lead innovation and establish best practices in their own work. 
+In recent years, the Southeast Fisheries Science Center (SEFSC) completed a functional realignment. New divisons, branches, and matixed teams have been established, giving rise to unique opportunities for redefining work culture and workflows. 
 
-There are 36 people from SEFSC and 4 people from AOML participating in the 2022 Summer Openscapes Cohort of the Openscapes Champions training program.  This includes 5 (of 6) people who previously participated in Fall 2022 participating again to help lead the teams in this second cohort. There are 9 supervisors participating, 8 from SEFSC and 1 from AOML.  Within SEFSC, there's a large group from the Sustainable Fisheries Division, with 100% of staff from 3 branches: Caribbean, Gulf, and Data Analysis & Assessment Support.  There are 4 SEFSC participants from Operations, Management and Information (OMI), who will strengthen their ability to support SEFSC and strengthen their relationships and understanding of science workflows SEFSC-wide.  This cohort training is taking place over 5 remote calls from June 30 to August 25, 2022. Cohort calls will cover: 
+There are 36 people from SEFSC and 4 people from AOML participating in the 2022 Summer Openscapes Cohort of the Openscapes Champions training program.  This includes 5 people who previously participated in Fall 2022 and are now helping to lead the teams in this second cohort. There are 9 supervisors participating, 8 from SEFSC and 1 from AOML.  Within SEFSC, there's a large group from the Sustainable Fisheries Division, with 100% of staff from 3 branches: Caribbean, Gulf, and Data Analysis & Assessment Support.  There are 4 SEFSC participants from Operations, Management and Information, who will strengthen their own workflows while gaining an increased understanding of current (and future) science workflows at SEFSC.  This cohort training is taking place over 5 remote calls from June 30 to August 25, 2022. Cohort calls will cover: 
 
 1) setting the open science mindset and discussing psychological safety, 
 2) an introduction to publishing and project management on GitHub, 
@@ -14,7 +14,7 @@ There are 36 people from SEFSC and 4 people from AOML participating in the 2022 
 4) developing open communities and coding strategies, and 
 5) preparing a team pathway document to guide their open data science journey after the training. 
 
-The teams are focusing their energy on a range of important research issues supporting the SEFSC mission including... The teams consist of 37 SEFSC employees across 7 SEFSC divisions, along with 4 employees from AOML. All of the teams are developing their skills to cultivate innovation and establish best practices in their own work.  All of this is achieved within the context of a growing expansion of open science within NOAA and the greater scientific community. 
+In direct alignment with SEFSC strategic initiatives, the Summer SEFS Openscapes cohort is advancing innovation and operational best practice processes. The teams are focusing their energy on a range of important research issue while developing their skills to cultivate innovation and establish best practices in their own work.  All of this is achieved within the context of a growing expansion of open science within NOAA and the greater scientific community. 
 
 *SEFSC Openscapes Summer 2022 planning team:*  Adyan Rios;, Molly Stevens, James Primrose, Erica Rule. 
 
