@@ -6,7 +6,9 @@ title: Summer 2022 SEFSC
 
 In recent years, the Southeast Fisheries Science Center (SEFSC) completed a functional realignment. New divisons, branches, and matixed teams have been established, giving rise to unique opportunities for redefining work culture and workflows. 
 
-There are 36 people from SEFSC and 4 people from AOML participating in the 2022 Summer Openscapes Cohort of the Openscapes Champions training program.  This includes 5 people who previously participated in the Fall 2021 NMFS Cohort who are now helping to lead the teams in this second cohort. There are 9 supervisors participating, 8 from SEFSC and 1 from AOML.  Within SEFSC, there's a large group from the Sustainable Fisheries Division, with 100% of staff from 3 branches: Caribbean, Gulf, and Data Analysis & Assessment Support.  There are 4 SEFSC participants from Operations, Management and Information, who will strengthen their own workflows while gaining an increased understanding of current (and future) science workflows at SEFSC.  This cohort training is taking place over 5 remote calls from June 30 to August 25, 2022. Cohort calls will cover: 
+There are 36 people from SEFSC and 4 people from AOML participating in the 2022 SEFSC Summer Cohort of the Openscapes Champions training program.  This includes 5 people who previously participated in the Fall 2021 NMFS Cohort who are now helping to lead teams in the current cohort. There are 9 supervisors participating, 8 from SEFSC and 1 from AOML.  Within SEFSC, there's a large group from the Sustainable Fisheries Division, with 100% of staff from 3 branches: Caribbean, Gulf, and Data Analysis & Assessment Support.  There are 4 SEFSC participants from Operations, Management and Information, who will strengthen their own workflows while gaining an increased understanding of current (and future) science workflows at SEFSC.
+
+This cohort training is taking place over 5 remote calls from June 30 to August 25, 2022. Cohort calls will cover: 
 
 1) setting the open science mindset and discussing psychological safety, 
 2) an introduction to publishing and project management on GitHub, 
