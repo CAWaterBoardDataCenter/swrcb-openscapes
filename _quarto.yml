@@ -15,6 +15,7 @@ website:
   sidebar:
     background: "#D9E3E4"
     logo: "images/logo-transparent-crop.png"
+    favicon: images/openscapes_hex.png
     pinned: true
     align: center
     tools: 
@@ -51,7 +52,6 @@ website:
       - href: media.qmd
         text: Presentations and Media
       - contact.qmd
-
 
 format:
   html:
