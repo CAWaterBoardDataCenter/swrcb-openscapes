@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Openscapes/nmfs-openscapes/sitemap.xml
+Sitemap: https://github.com/nmfs-openscapes/nmfs-openscapes.github.io/sitemap.xml
