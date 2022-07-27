@@ -1,9 +1,3 @@
-# NMFS Openscapes fall 2022
+# NMFS Openscapes
 
-* AFSC
-* SEFSC
-* SWFSC
-* PIFSC
-* NWFSC
-* WCRO
-* SERO
+nmfs-openscapes.github.io
