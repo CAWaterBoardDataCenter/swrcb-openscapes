@@ -4,14 +4,14 @@ project:
 website: 
   page-navigation: true
   title: "NMFS Openscapes" 
-  site-url: "https://openscapes.github.io/nmfs-openscapes" 
-  repo-url: https://github.com/openscapes/nmfs-openscapes
+  site-url: "https://nmfs-openscapes.github.io" 
+  repo-url: https://github.com/nmfs-openscapes
   repo-actions: [edit, issue]
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; CC-By Openscapes, 2022"
-    
+  
   sidebar:
     background: "#D9E3E4"
     logo: "images/logo-transparent-crop.png"
@@ -23,7 +23,7 @@ website:
         href: https://openscapes.org
         text: "Openscapes.org"
       - icon: github
-        href: https://github.com/openscapes/nmfs-openscapes
+        href: https://github.com/nmfs-openscapes
         text: "NMFS Openscapes"
       - icon: twitter
         href: https://twitter.com/openscapes
@@ -48,7 +48,8 @@ website:
           - cohorts/AFSC-win2021.md 
           - cohorts/SEFSC-sum2022.md 
           - cohorts/NMFS-fall2022.md 
-      - mentors.qmd
+      - href: mentors.qmd
+        text: Mentors
       - href: media.qmd
         text: Presentations and Media
       - contact.qmd

@@ -2,8 +2,6 @@
 title: "Openscapes"
 ---
 
-## Openscapes
-
 [Openscapes](https://openscapes.org) champions open, inclusive practices in environmental and Earth science to help uncover data-intensive solutions faster. We do this through our flagship Champions mentorship program, as well as through community organizing, training, and coaching, leveraging existing resources from open communities along with our own.
 
 Our [flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) shows our approach to engaging, empowering, and amplifying research communities in open data science --- how we describe kinder, better science in less time.
