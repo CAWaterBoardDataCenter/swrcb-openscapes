@@ -42,12 +42,12 @@ website:
       - section: cohorts/index.qmd
         text: Champions Cohorts
         contents: 
-          - cohorts/NWFSC-spr2021.md
-          - cohorts/FDD-fall2021.md
-          - cohorts/NMFS-fall2021.md 
-          - cohorts/AFSC-win2021.md 
-          - cohorts/SEFSC-sum2022.md 
           - cohorts/NMFS-fall2022.md 
+          - cohorts/SEFSC-sum2022.md 
+          - cohorts/AFSC-win2021.md 
+          - cohorts/NMFS-fall2021.md 
+          - cohorts/FDD-fall2021.md
+          - cohorts/NWFSC-spr2021.md
       - href: mentors.qmd
         text: Mentors
       - href: media.qmd

@@ -2,11 +2,9 @@
 title: Fall 2021 NMFS
 ---
 
-## Summary
+*NMFS Openscapes Fall 2021 planning team:* Eli Holmes (NWFSC), Eric Ward (NWFSC), Helene Scalliet (NWFSC).
 
-* blog post on the cohort: https://www.openscapes.org/blog/2021/11/12/noaa-nmfs-champions/ by BY Eli Holmes, Eric Ward, Helene Scalliet, Corey Clatterbuck, Julie Lowndes
-
-*from the blog post*
+*from the [Openscapes blog post](https://www.openscapes.org/blog/2021/11/12/noaa-nmfs-champions/)*
 
 This cohort was an opportunity for NOAA staff to explore and practice open data science approaches, but it was also an opportunity to meet and build relationships with staff from different fisheries science centers. It was exciting to see participants discuss common pain points and learn from each other about strategies that could be reused across centers. Discussion topics included strategies to help diverse teams develop strategies for using GitHub together and organizing R code, as well as articulating differences between final NOAA products vs ongoing work/projects and how open science relates to both.
 
@@ -35,5 +33,3 @@ Many topics/themes that resonated with the 2021 NOAA NMFS Cohort overlapped and 
 **The NEFSC Team** in part collects fisheries dependent data in collaboration with the fishing industry. These data can be underutilized, in part due to their complex nature, and this complexity creates challenges for their use in reproducible research products. The team is interested in strengthening open science approaches to increase the value of these data by opening the door to new users who have previously been unable to use the data sets due to their complex nature.
 
 *Openscapes cohort leads:* [Julie Lowndes](http://jules32.github.io/), Openscapes founder and co-director, NCEAS, UCSB, lead; [Eli Holmes](http://eeholmes.github.io/), NWFSC Mathematical Biology and Systems Monitoring Program, co-lead; [Corey Clatterbuck](https://www.coreyclatterbuck.com/), Seagrant Fellow at the California Water Boards Office of Information Management and Analysis, assisting
-
-*NMFS Openscapes Fall 2021 planning team:* Eli Holmes (NWFSC), Eric Ward (NWFSC), Helene Scalliet (NWFSC).

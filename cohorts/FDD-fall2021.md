@@ -2,14 +2,13 @@
 title: Fall 2021 FDD
 ---
 
+*FDD Fall 2021 planning team:* Gavin Fay (UMass Dartmouth), Andy Jones (NEFSC)
+
 * [Cohort Webpage](https://openscapes.github.io/2021-fdd/)
 * [Blog Post](https://www.openscapes.org/blog/2021/11/12/fdd-champions/)
 * [Fay Lab Manual](https://thefaylab.github.io/lab-manual/) Project of one of the teams. Widely used now as an example of a 'Code of Conduct' and on-boarding document for a team.
 
 In September-October 2021, Openscapes led a 2-month Champions Cohort with Fisheries Dependent Data (FDD) Users, with over 30 fisheries scientists across academia and NOAA. These scientists were interested in exploring new approaches to working with FDD, which represents a complex mix of data and information collected to facilitate managing the region’s living marine resources. In the US Northeast, data flow from individual businesses and/or scientific samplers to the region’s scientific and management organizations. This web of data and information can be difficult to access as much of the content is confidential in its raw form. Further, many of the codes and systems used to store these data can be poorly documented, and even routine analyses are not commonly shared among data users. The FDD Openscapes Cohort was interested in learning ways to explore the potential to leverage FDD in new and innovative ways. It was part of ongoing efforts to provide access, documentation, and cultivate a community of practice that focuses on using these data and associated resources to their full potential.
-
-*FDD Openscapes Fall 2021 planning team:*  Gavin Fay (UMass), Andy Jones (NEFSC)
-
 
 
 # What did the participants achieve?
