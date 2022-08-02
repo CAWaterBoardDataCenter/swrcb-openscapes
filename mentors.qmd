@@ -1,8 +1,6 @@
 ---
-title: "Mentors"
+title: "NMFS Openscapes Mentors"
 ---
-
-# NMFS Openscapes Mentors
 
 The Openscapes Mentor group is a cross-NMFS mentor community. Each science center and regional office participating in the Openscapes cohorts has 1-4 mentors that help organize the local cohorts, spearhead communication with with their local leadership, act as a point-person for interested local staff, help identify local needs, and help communicate, or potentially organize, teaching resources for their local staff.
 
