@@ -47,7 +47,7 @@ website:
           - cohorts/AFSC-win2021.md 
           - cohorts/NMFS-fall2021.md 
           - cohorts/FDD-fall2021.md
-          - cohorts/NWFSC-spr2021.md
+          - cohorts/NEFSC-spr2020.md
       - href: mentors.qmd
         text: Mentors
       - href: media.qmd
