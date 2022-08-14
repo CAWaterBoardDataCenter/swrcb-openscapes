@@ -5,7 +5,7 @@ website:
   page-navigation: true
   title: "NMFS Openscapes" 
   site-url: "https://nmfs-openscapes.github.io" 
-  repo-url: https://github.com/nmfs-openscapes.github.io
+  repo-url: https://github.com/nmfs-openscapes/nmfs-openscapes.github.io
   repo-actions: [edit, source, issue]
   favicon: images/openscapes_hex.png  
   
