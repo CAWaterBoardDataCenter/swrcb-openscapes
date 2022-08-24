@@ -2,7 +2,7 @@
 title: "About NMFS Openscapes"
 ---
 
-NMFS Openscapes is a multi-year collaboration between NOAA Fisheries science centers and [Openscapes](https://www.openscapes.org/) to provide team-based training in reproducible scientific workflows and platforms. We have had six Openscapes Champions Cohorts in 2020-2020 and have an upcoming agency-wide training with four Cohorts across multiple centers and regional offices in fall of 2022. Read [blog posts](https://www.openscapes.org/tags/noaa-fisheries/) about past NMFS Cohorts and other NMFS Openscapes activities.
+NMFS Openscapes is a multi-year collaboration between NOAA Fisheries science centers and [Openscapes](https://www.openscapes.org/) to provide team-based training in reproducible scientific workflows and platforms. We have had six Openscapes Champions Cohorts in 2020-2022 and have an upcoming agency-wide training with four Cohorts across multiple centers and regional offices in fall of 2022. Read [blog posts](https://www.openscapes.org/tags/noaa-fisheries/) about past NMFS Cohorts and other NMFS Openscapes activities.
 
 ## A plan to modernize NMFS teams with Open Science
 
