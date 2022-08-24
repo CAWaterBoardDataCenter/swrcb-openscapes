@@ -28,6 +28,20 @@
     "text": "Quarto workflow for collaborating on government reports Eli Holmes (NOAA Northwest Fisheries Science Center) presented during the SEFSC Openscapes Champions Cohort about how a team might collaborate on a Quarto report using GitHub and RStudio (+ Zotero for citations). Aug 11, 2022. Another version of the talk focused on the Quarto structure and A shorter version just on the collaboration part\n Openscapes approach to helping organizations transition to Open Science workflows and new tools Presented to the High-level Group for the Modernisation of Statistical Production & Services (HLG-MOS), United Nations Economic Commission for Europe (UNECE). May 4, 2022: Lowndes and Holmes.\n Open Science Adoption with Organizations: Lessons for individuals from theories about technology adoption Dr. Eli Holmes gave a talk on using theory concerning technology adoption to help plan activities for the Year of Open Science. ESIP Panel on “Better Science for Future Us: Planning for the Year of Open Science” organized by Erin Robinson and Julie Lowndes. January 18-21, 2022.\n VRData R Package Dr. Eli Holmes (NWFSC) describes and screenshares her team’s open science practices (GitHub, R) that increase efficiency, quality control, and transparency for Pacific Northwest Salmonid Viability Reports. December 1, 2021.\n Data to Product Workflows Em Markowitz (NOAA Alaska Fisheries Science Center) presented during the NMFS Openscapes Champions Cohort about her R package for automating reports for NOAA with RMarkdown. October 1, 2021.\n State of the Ecosystem Product Development Workflow Kim Bastille (NOAA Northeast Fisheries Science Center) presented during the FDD Openscapes Champions Cohort about the reproducible workflow used by the State Of the Ecosystem report."
   },
   {
+    "objectID": "media.html#presentations-for-nmfs-leadership",
+    "href": "media.html#presentations-for-nmfs-leadership",
+    "title": "Presentations, Publications and Media",
+    "section": "Presentations for NMFS Leadership",
+    "text": "Presentations for NMFS Leadership\nNMFS Science Board, Holmes, Lowndes. June 8, 2022.\nSEFSC Leadership, Holmes, Rios, Rule, Lowndes. March 31, 2022.\nNWFSC Leadership, Holmes, Ward, Scalliet, Lowndes. February 14, 2022."
+  },
+  {
+    "objectID": "media.html#publications",
+    "href": "media.html#publications",
+    "title": "Presentations, Publications and Media",
+    "section": "Publications",
+    "text": "Publications\nBastille, Kimberly, Sean Hardison, Lynn deWitt, Jennifer Brown, Jameal Samhouri, Sarah Gaichas, Sean Lucey, et al. 2021. \"Improving the IEA Approach Using Principles of Open Data Science.\" Coastal Management 49 (1): 72–89. https://doi.org/10.1080/08920753.2021.1846155."
+  },
+  {
     "objectID": "media.html#blog-posts",
     "href": "media.html#blog-posts",
     "title": "Presentations, Publications and Media",
@@ -130,7 +144,7 @@
     "href": "cohorts/index.html#current-and-upcoming-cohorts",
     "title": "NMFS Champions Cohorts",
     "section": "Current and Upcoming Cohorts",
-    "text": "Current and Upcoming Cohorts\n\n\nSummer 2022 SEFSC\nDuring Oct-Dec 2022, four Champions Cohorts will be happening concurrently at AFSC, NWFSC, SWFSC, and SEFSC with participation by PIFSC, WCRO and SERO staff."
+    "text": "Current and Upcoming Cohorts\n\nSummer 2022 SEFSC Cohort\n4 Fall NMFS Champions Cohorts are happening concurrently during Oct-Dec 2022, at AFSC, NWFSC, SWFSC, and SEFSC with participation by PIFSC, WCRO and SERO staff.\nThis Fall, quite a few teams want to make progress on automating government reports. Specific work using R/RMarkdown/Quarto, GitHub, and hopefully Cloud includes:\n\nEli Holmes is organizing a NWFSC/WCRO/SWFSC group to discuss changes to something called the Salmonid Viability Reports which the West Coast region uses for 5-year Status Reviews (among other things)\nJosh London is working on creating templates for HTML versions of NMFS reports. So far he is working on marine mammal assessment reports but what he is doing can be generalized.\nEli Holmes is working on the PDF output side and learning how to make Quarto extensions.\nRmd to 508 Compliant Word experience\nA barrier that often surfaces is it is difficult for non-coders to work from RStudio; the installation part is too much of a hurdle, IT is required, and it’s a lot of trouble to only edit. We’re exploring Cloud to assist here."
   },
   {
     "objectID": "cohorts/index.html#past-cohorts",
@@ -165,7 +179,7 @@
     "href": "about-nmfs-openscapes.html",
     "title": "About NMFS Openscapes",
     "section": "",
-    "text": "NMFS Openscapes is a multi-year collaboration between NOAA Fisheries science centers and Openscapes to provide team-based training in reproducible scientific workflows and platforms. We have had six Openscapes Champions Cohorts in 2020-2020 and have an upcoming agency-wide training with four Cohorts across multiple centers and regional offices in fall of 2022. Read blog posts about past NMFS Cohorts and other NMFS Openscapes activities."
+    "text": "NMFS Openscapes is a multi-year collaboration between NOAA Fisheries science centers and Openscapes to provide team-based training in reproducible scientific workflows and platforms. We have had six Openscapes Champions Cohorts in 2020-2022 and have an upcoming agency-wide training with four Cohorts across multiple centers and regional offices in fall of 2022. Read blog posts about past NMFS Cohorts and other NMFS Openscapes activities."
   },
   {
     "objectID": "about-nmfs-openscapes.html#a-plan-to-modernize-nmfs-teams-with-open-science",
