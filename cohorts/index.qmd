@@ -11,9 +11,16 @@ NMFS Openscapes Champions program is a mentorship and professional development o
 
 <img src="../images/fall2022openscapes.png" alt="hands together" style="float:right;width:30%;">
 
-[**Summer 2022 SEFSC Cohort**](SEFSC-sum2022.html)
 
-**4 Fall NMFS Champions Cohorts** are happening concurrently during Oct-Dec 2022,  at AFSC, NWFSC, SWFSC, and SEFSC with participation by PIFSC, NEFSC, OST, and WCRO staff. 
+**4 Fall NMFS Champions Cohorts** are happening concurrently during Oct-Dec 2022, at AFSC, NWFSC, SWFSC, and SEFSC with participation by PIFSC, NEFSC, OST, and WCRO staff. 
+
+[**AFSC Fall 2022**](https://nmfs-openscapes.github.io/2022-noaa-afsc-fall/)
+
+[**NWFSC Fall 2022**](https://nmfs-openscapes.github.io/2022-noaa-nwfsc-fall/)
+
+[**SWFSC-PIFSC Fall 2022**](https://github.com/nmfs-openscapes/2022-noaa-swfsc-pifsc-fall)
+
+[**SEFSC Fall 2022**](https://nmfs-openscapes.github.io/2022-noaa-sefsc-fall/)
 
 This Fall, quite a few teams want to make progress on automating government reports. Specific work using R/RMarkdown/Quarto, GitHub, and hopefully Cloud includes: 
 
@@ -24,6 +31,8 @@ This Fall, quite a few teams want to make progress on automating government repo
 - A barrier that often surfaces is it is difficult for non-coders to work from RStudio; the installation part is too much of a hurdle, IT is required, and it's a lot of trouble to only edit. We're exploring Cloud to assist here.
 
 ## Past Cohorts
+
+[**Summer 2022 SEFSC Cohort**](SEFSC-sum2022.html) Champions Cohort of 40+ scientists at the Southeast Fisheries Science Center.
 
 **NWFSC Spring 2021** Champions Cohort of 30+ scientists at the Northwest Fisheries Science Center.
 
