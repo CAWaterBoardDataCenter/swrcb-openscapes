@@ -18,7 +18,7 @@ NMFS Openscapes Champions program is a mentorship and professional development o
 
 [**NWFSC Fall 2022**](https://nmfs-openscapes.github.io/2022-noaa-nwfsc-fall/)
 
-[**SWFSC-PIFSC Fall 2022**](https://github.com/nmfs-openscapes/2022-noaa-swfsc-pifsc-fall)
+[**SWFSC-PIFSC Fall 2022**](https://nmfs-openscapes.github.io/2022-noaa-swfsc-pifsc-fall/)
 
 [**SEFSC Fall 2022**](https://nmfs-openscapes.github.io/2022-noaa-sefsc-fall/)
 
