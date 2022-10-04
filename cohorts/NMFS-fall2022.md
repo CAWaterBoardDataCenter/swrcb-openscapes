@@ -6,6 +6,16 @@ title: Fall 2022 NMFS
 
 October to December 2022, we will have four Champions Cohorts involving teams and staff from five science centers and two regional offices: AFSC, NWFSC, PIFSC, SEFSC, SERO, SWFSC and WCRO.
 
+## Cohort Websites
+
+- [SEFSC](https://nmfs-openscapes.github.io/2022-noaa-sefsc-fall/)
+- [SWFSC-PIFSC](https://nmfs-openscapes.github.io/2022-noaa-swfsc-pifsc-fall/)
+- [AFSC](https://nmfs-openscapes.github.io/2022-noaa-afsc-fall/)
+- [NWFSC](https://nmfs-openscapes.github.io/2022-noaa-nwfsc-fall/)
+- 
+
+## More information
+
 ::: {.callout-note icon=false}
 
 ## Contact your Openscapes contact person for more information
