@@ -14,6 +14,7 @@ Go here to find a link to the Google Drive folders (cohort participant restricte
 - [SWFSC-PIFSC](https://nmfs-openscapes.github.io/2022-noaa-swfsc-pifsc-fall/)
 - [AFSC](https://nmfs-openscapes.github.io/2022-noaa-afsc-fall/)
 - [NWFSC](https://nmfs-openscapes.github.io/2022-noaa-nwfsc-fall/)
+- [Cross-cohort GitHub tutorials](https://rverse-tutorials.github.io/NMFS-Openscapes-fall-2022/) links to videos of the tutorial content.
 
 ## More information
 
