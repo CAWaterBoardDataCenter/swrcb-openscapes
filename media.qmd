@@ -31,6 +31,11 @@ Bastille, Kimberly, Sean Hardison, Lynn deWitt, Jennifer Brown, Jameal Samhouri,
 
 ## Blog Posts
 
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [
+Sound Bytes: Championing Open Science](https://www.fisheries.noaa.gov/science-blog/sound-bytes-championing-open-science) - December 7, 2022: Burger. (cross-posted at [Openscapes.org](https://www.openscapes.org/blog/2022/12/09/case-study-swfsc-sael/))
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Aligning mission around collaborative practices, with researchers, supervisors, and IT](https://www.openscapes.org/blog/2022/09/30/2022-sefsc-summer/) - September 30, 2022: Rios, Stevens, Rule.
+
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [AFSC Winter Cohort Report](https://www.openscapes.org/blog/2022/04/07/afsc-supportive-forum/) - April 7, 2022: Markowitz, London, Siple.
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [3 Takeways for planning for the year of Open Science](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/) - February 17, 2022: Friesz, Fenwick, Holmes, Holder, Steiker, Robinson, Lowndes
