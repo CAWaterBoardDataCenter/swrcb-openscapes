@@ -1,3 +1,3 @@
-# NMFS Openscapes!
+# SWRCB Openscapes!
 
-nmfs-openscapes.github.io
+swrcb-openscapes.github.io
