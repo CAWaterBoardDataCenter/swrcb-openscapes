@@ -3,19 +3,19 @@ project:
   
 website: 
   page-navigation: true
-  title: "NMFS Openscapes" 
-  site-url: "https://nmfs-openscapes.github.io" 
-  repo-url: https://github.com/nmfs-openscapes/nmfs-openscapes.github.io
+  title: "Openscapes at the CA Water Boards" 
+  site-url: "https://swrcb-openscapes.github.io" 
+  repo-url: https://github.com/swrcb-openscapes/swrcb-openscapes.github.io
   repo-actions: [edit, source, issue]
   favicon: images/openscapes_hex.png  
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Openscapes, 2022"
+    left: "&copy; CC-By CA Water Board, 2023"
   
   sidebar:
     background: "#D9E3E4"
-    logo: "images/logo-transparent-crop.png"
+    logo: "images/logo-transparent.png"
     favicon: images/openscapes_hex.png
     pinned: true
     align: center
@@ -24,8 +24,8 @@ website:
         href: https://openscapes.org
         text: "Openscapes.org"
       - icon: github
-        href: https://github.com/nmfs-openscapes
-        text: "NMFS Openscapes"
+        href: https://github.com/CAWaterBoardDataCenter/swrcb-openscapes
+        text: "SWRCB Openscapes"
       - icon: twitter
         href: https://twitter.com/openscapes
         text: "Openscapes Twitter"         
@@ -38,17 +38,13 @@ website:
         text: Home
       - href: about-openscapes.qmd
         text: About Openscapes
-      - href: about-nmfs-openscapes.qmd
-        text: About NMFS Openscapes
+      - href: about-swrcb-openscapes.qmd
+        text: About Openscapes at the Water Boards
       - section: cohorts/index.qmd
         text: Champions Cohorts
         contents: 
-          - cohorts/NMFS-fall2022.md 
-          - cohorts/SEFSC-sum2022.md 
-          - cohorts/AFSC-win2021.md 
-          - cohorts/NMFS-fall2021.md 
-          - cohorts/FDD-fall2021.md
-          - cohorts/NEFSC-spr2020.md
+          - cohorts/swrcb_2022.qmd
+          - cohorts/swrcb_2023.qmd
       - href: mentors.qmd
         text: Mentors
       - href: media.qmd

@@ -1,0 +1,30 @@
+---
+title: "2022 Water Boards Cohort"
+---
+
+*Cohort Instructors:* Corey Clatterbuck (OIMA), Anna Holder (OIMA)
+
+*Cohort Mentors:* Devan Burke (OIMA), Tina Ures (DWQ)
+
+-   [Cohort Webpage](https://openscapes.github.io/2022-swrcb/)
+-   [Blog Post](https://www.openscapes.org/blog/2022/12/02/swrcb-2022/)
+
+In mid-August-mid-October 2022, the Water Boards cohort instructors and mentors led the first Openscapes Champions Cohort at the Water Boards. While cohorts are typically led by the Openscapes team, this was the first to be led by former Openscapes mentors and the first Champions Cohort at a US state government agency. Because we were piloting the program, only 3 teams participated in the process:
+
+-   **The PFAS Free Team** was a cross-unit [project team](https://www.waterboards.ca.gov/pfas/) within the Water Board Division of Water Quality.
+-   **The SWAMP Team** was a [unit](https://www.waterboards.ca.gov/water_issues/programs/swamp/) within the Water Board Office of Information Management and Analysis.
+-   **The Performance Report Team** was a [project team](https://www.waterboards.ca.gov/about_us/performance_report_2021/index.html) within the Water Board Office of Information Management and Analysis.
+
+Normalizing language, process, and changing behaviors and actions to support more open and equitable workflows and mindsets can be a challenging shift for teams. Despite these challenges, the post-cohort survey suggested that ultimately, Openscapes did help individuals adopt an open mindset towards their work, their teams, and themselves - and that teams are now evolving their processes, behaviors, and actions to be more open, inclusive, and kind!
+
+::: {.callout-note icon=false}
+
+## Participant quotes from the post-cohort survey
+
+“It has been a great opportunity for me to slow down and take the time to evaluate / check-in on my work and team workflow / processes. Many of the things we discussed are totally in line with my personal philosophies / approaches but I haven’t really put time into thinking about how to establish those things through documentation. I tend to be an individual worker bee and appreciate the co-working concepts and getting more comfortable in that shared space to do work!”
+
+“How important it is to…give people the space to work and try new things. I think I’ve better internalized that it’s okay to share imperfect work.”
+
+“Now that more staff have been exposed to the Openscapes principles, I think I will be more comfortable suggesting the use of tools like Git / GitHub and code-based workflows. In general, I will also be more comfortable suggesting that we use better project management practices and think about things like documentation / reproducibility as fundamental parts of our work, and not just make those an afterthought.”
+
+:::

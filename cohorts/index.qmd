@@ -1,46 +1,25 @@
 ---
-title: NMFS Champions Cohorts
+title: "Water Boards Champions Cohorts"
 ---
 
 ## Champions Cohorts
 
-NMFS Openscapes Champions program is a mentorship and professional development opportunity for individuals and research teams in NOAA Fisheries. Read [blog posts](https://www.openscapes.org/tags/noaa-fisheries/) about each NMFS Champions Cohort and other NMFS Openscapes activities.
+The Water Boards Openscapes Champions Program is a mentorship and professional development opportunity for individuals and teams at the Water Boards.
 
+### Current and Upcoming Cohorts
 
-## Current and Upcoming Cohorts
+**2023 Water Boards Cohort:** From mid-August through mid-October 2023, the Water Boards will host a Champions Cohort, which will include [3 to 6 teams of no more than 6 individuals per team]{.underline}. **Water Boards teams will be able to apply for this opportunity starting in June 2023.**
 
-<img src="../images/fall2022openscapes.png" alt="hands together" style="float:right;width:30%;">
+The Water Boards Openscapes Team will present about this work and its future in our organization to management, internal roundtables, and work groups, starting in February 2023. Current presentation venues under consideration include:
 
+-   MCC (Management Coordinating Committee)
+-   DMC (Deputy Management Committee)
+-   "Let's Git Lunch" GitHub Group
+-   Roundtable (RT) Meetings (e.g. GIS Data Science RT, Integrated Report RT)
+-   Other RTs, groups, or teams upon request
 
-**4 Fall NMFS Champions Cohorts** are happening concurrently during Oct-Dec 2022, at AFSC, NWFSC, SWFSC, and SEFSC with participation by PIFSC, NEFSC, OST, and WCRO staff. 
+To request a presentation for your RT, group, or team, please email [Anna Holder](mailto:anna.holder@waterboards.ca.gov).
 
-[**AFSC Fall 2022**](https://nmfs-openscapes.github.io/2022-noaa-afsc-fall/)
+### Past Cohorts
 
-[**NWFSC Fall 2022**](https://nmfs-openscapes.github.io/2022-noaa-nwfsc-fall/)
-
-[**SWFSC-PIFSC Fall 2022**](https://nmfs-openscapes.github.io/2022-noaa-swfsc-pifsc-fall/)
-
-[**SEFSC Fall 2022**](https://nmfs-openscapes.github.io/2022-noaa-sefsc-fall/)
-
-This Fall, quite a few teams want to make progress on automating government reports. Specific work using R/RMarkdown/Quarto, GitHub, and hopefully Cloud includes: 
-
-- Eli Holmes is organizing a NWFSC/WCRO/SWFSC group to discuss changes to the Salmonid Viability Reports which the West Coast region uses for 5-year Status Reviews (among other things)
-- Josh London is working on creating templates for HTML versions of NMFS reports. So far he is working on marine mammal assessment reports but what he is doing can be generalized.
-- Eli Holmes is working on the PDF output side and learning how to make Quarto extensions.
-- Rmd to 508 Compliant Word experience 
-- A barrier that often surfaces is it is difficult for non-coders to work from RStudio; the installation part is too much of a hurdle, IT is required, and it's a lot of trouble to only edit. We're exploring Cloud to assist here.
-
-## Past Cohorts
-
-[**Summer 2022 SEFSC Cohort**](SEFSC-sum2022.html) Champions Cohort of 40+ scientists at the Southeast Fisheries Science Center.
-
-**NWFSC Spring 2021** Champions Cohort of 30+ scientists at the Northwest Fisheries Science Center.
-
-**[FDD Fall 2021](https://github.com/Openscapes/2021-fdd)** This was a Champions Cohort for Fisheries Dependent Data users (FDD).
-
-**[NMFS Fall 2021](https://github.com/Openscapes/2021-nmfs)** This was a Champions Cohort of scientists across 4 science centers: AFSC, NWFSC, NEFSC and SEFSC.
-
-**[AFSC Winter 2021-2022](AFSC-win2021.html)** Champions Cohort at the Alaska Fisheries Science Center.
-
-
-
+**2022 Water Boards Cohort:** \[[**add link to page once available**]{.underline}\] this was the first Openscapes Champions Cohort at the Water Boards. Because we were piloting the program, only 3 teams participated in the process.
