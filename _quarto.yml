@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "Openscapes at the CA Water Boards" 
-  site-url: "https://swrcb-openscapes.github.io" 
-  repo-url: https://github.com/swrcb-openscapes/swrcb-openscapes.github.io
+  site-url: "https://CAWaterBoardDataCenter.github.io/swrcb-openscapes" 
+  repo-url: https://github.com/CAWaterBoardDataCenter/swrcb-openscapes
   repo-actions: [edit, source, issue]
   favicon: images/openscapes_hex.png  
   
@@ -65,4 +65,5 @@ filters:
   - include-files.lua
   - quarto
 
-  
+execute:
+  freeze: auto
