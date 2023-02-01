@@ -45,11 +45,10 @@ website:
         contents: 
           - cohorts/swrcb_2022.qmd
           - cohorts/swrcb_2023.qmd
-      - href: mentors.qmd
-        text: Mentors
       - href: media.qmd
         text: Presentations and Media
-      - contact.qmd
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
