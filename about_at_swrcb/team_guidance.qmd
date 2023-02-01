@@ -4,8 +4,6 @@ title: "What makes a good team?"
 
 The Openscapes Champions Program is a remote-by-design, cohort-based mentorship program that supports teams of up to 6 colleagues to reimagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities. Teams will focus on their own work with their teams to identify where they are and where they want to go. It’s important to note that individuals and teams do not have to have familiarity or expertise in open science or data science fields to benefit from the Openscapes Champions Cohort. 
 
-## What makes a "good" team?
-
 Characteristics of teams that will get the most return on their investment into the Champions Program include:
 
 -   Team members are given the approval and support they need from their management to dedicate the [**time required to actively participate and engage in the Openscapes Process**]{.underline}. The minimum and required time commitment is 2-4 hours/week over 10 weeks for meetings and associated work
