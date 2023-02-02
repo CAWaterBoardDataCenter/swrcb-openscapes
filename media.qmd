@@ -17,6 +17,7 @@ bibliography: references.bib
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [State of the Ecosystem Product Development Workflow](https://noaa-edab.github.io/presentations/20211015_Openscapes_Bastille.html#1) Kim Bastille (NOAA Northeast Fisheries Science Center) presented during the FDD Openscapes Champions Cohort about the reproducible workflow used by the State Of the Ecosystem report.
 
+
 ## Presentations for NMFS Leadership
 
 [NMFS Science Board](https://docs.google.com/presentation/d/1ck1bZwjdbez-niH3yjC675a7xbsIDJ4xxJ6GLekZsno/edit#slide=id.g1138e626848_0_861), Holmes, Lowndes. June 8, 2022.
