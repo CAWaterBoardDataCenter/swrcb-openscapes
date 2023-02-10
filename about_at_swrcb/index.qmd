@@ -52,6 +52,6 @@ The 2022 Water Boards Champions cohort ([2022-swrcb](https://github.com/Openscap
 
 ## Where we're going
 
-We have developed an Openscapes Implementation Strategy for the Water Board **\[add link once posted!\]**, and are getting ready to launch a larger cohort in 2023!
+We have developed an [Openscapes Implementation Strategy for the Water Board](https://github.com/CAWaterBoardDataCenter/swrcb-openscapes/blob/main/SWRCB%20Openscapes%20Implementation%20Strategy_202302.pdf), and are getting ready to launch a larger cohort in 2023!
 
 We are excited to work towards a future where the Water Boards workforce understands the interconnected nature of open data and equity principles and is able to clearly articulate the specific actions they (as individuals and/or teams) will take to evolve their processes, behaviors, and actions to be more open, inclusive, reproducible, and kind - and we know scaling the Openscapes Champions Program through the Water Boards will expedite our ability to get there.
