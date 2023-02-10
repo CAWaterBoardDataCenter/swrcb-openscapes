@@ -29,6 +29,6 @@ In recent years, the State Water Board has committed to a number of cultural and
 
 [Openscapes](https://www.openscapes.org/) champions open science practices in environmental science to help uncover data-driven solutions faster. By introducing teams to open science tools specifically created to meet modern demands for collaborative data science, Openscapes creates the space for teams to invest in a positive open culture that enables better science in less time.
 
-Starting in 2022, the Water Boards, in partnership with Openscapes, have been hosting annual Champions Cohorts and intend to continue to scale the Champions Program throughout the organization. 
+Starting in 2022, the Water Boards, in partnership with Openscapes, have been hosting annual Champions Cohorts and [intend to continue to scale the Champions Program throughout the organization](https://github.com/CAWaterBoardDataCenter/swrcb-openscapes/blob/main/SWRCB%20Openscapes%20Implementation%20Strategy_202302.pdf).
 
 To stay informed of Openscapes activities, you can connect with them on Twitter [**\@openscapes**](https://twitter.com/openscapes) or join their [**newsletter**](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform).
