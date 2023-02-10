@@ -22,4 +22,4 @@ To request a presentation for your RT, group, or team, please email [Anna Holder
 
 ### Past Cohorts
 
-**2022 Water Boards Cohort:** \[[**add link to page once available**]{.underline}\] this was the first Openscapes Champions Cohort at the Water Boards. Because we were piloting the program, only 3 teams participated in the process.
+[2022 Water Boards Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2022.html): From mid-August through mid-October 2022, the Water Boards led the first Openscapes Champions Cohort at the Water Boards. Because we were piloting the program, only 3 teams participated in the process.
