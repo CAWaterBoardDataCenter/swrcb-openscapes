@@ -6,9 +6,9 @@ The Water Board's partnership with Openscapes began in 2021, when staff were onb
 
 You can learn more about these experiences and processes in these Water Board authored blog posts:
 
--   [California Water Board Mentor Perspectives](https://www.openscapes.org/blog/2021/12/07/california-waterboards-mentors/) (Dec 2021)
--   [ESIP Better Science for Future Us - Planning for the Year of Open Science](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/) (Feb 2022)
 -   [Adapting the Champions Program for the California Water Boards](https://www.openscapes.org/blog/2022/12/02/swrcb-2022/) (Dec 2022)
+-   [ESIP Better Science for Future Us - Planning for the Year of Open Science](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/) (Feb 2022)
+-   [California Water Board Mentor Perspectives](https://www.openscapes.org/blog/2021/12/07/california-waterboards-mentors/) (Dec 2021)
 
 ## Context
 
@@ -52,6 +52,6 @@ The 2022 Water Boards Champions cohort ([2022-swrcb](https://github.com/Openscap
 
 ## Where we're going
 
-We have developed an [Openscapes Implementation Strategy for the Water Board](https://github.com/CAWaterBoardDataCenter/swrcb-openscapes/blob/main/SWRCB%20Openscapes%20Implementation%20Strategy_202302.pdf), and are getting ready to launch a larger cohort in 2023!
+We have developed an [Openscapes Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf) for the Water Board, and are getting ready to launch a larger cohort in 2023!
 
 We are excited to work towards a future where the Water Boards workforce understands the interconnected nature of open data and equity principles and is able to clearly articulate the specific actions they (as individuals and/or teams) will take to evolve their processes, behaviors, and actions to be more open, inclusive, reproducible, and kind - and we know scaling the Openscapes Champions Program through the Water Boards will expedite our ability to get there.
