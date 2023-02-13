@@ -1,5 +1,5 @@
 ---
-title: "What makes a good team?"
+title: "Is my team ready for Openscapes?"
 ---
 
 The Openscapes Champions Program is a remote-by-design, cohort-based mentorship program that supports teams of up to 6 colleagues to reimagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities. Teams will focus on their own work with their teams to identify where they are and where they want to go. It’s important to note that individuals and teams do not have to have familiarity or expertise in open science or data science fields to benefit from the Openscapes Champions Cohort. 
