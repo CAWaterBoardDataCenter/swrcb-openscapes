@@ -48,8 +48,8 @@ website:
         contents: 
           - cohorts/swrcb_2022.qmd
           - cohorts/swrcb_2023.qmd
-      - href: media.qmd
-        text: Presentations and Media
+      - href: resources.qmd
+        text: Resources
       - href: contact.qmd
         text: Contact
 
