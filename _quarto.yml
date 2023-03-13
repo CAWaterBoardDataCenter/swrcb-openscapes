@@ -62,7 +62,7 @@ format:
     code-overflow: wrap
     toc: true
     mainfont: sans-serif
-    fontsize: large
+    fontsize: x-large
 
 
 filters:
