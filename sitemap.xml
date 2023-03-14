@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about_at_swrcb/team_guidance.html</loc>
-    <lastmod>2023-03-14T19:27:18.449Z</lastmod>
-  </url>
-  <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about_at_swrcb/implementation.html</loc>
-    <lastmod>2023-03-14T19:27:20.577Z</lastmod>
-  </url>
-  <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about_at_swrcb/index.html</loc>
-    <lastmod>2023-03-14T19:27:21.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/CODE_OF_CONDUCT.html</loc>
-    <lastmod>2023-03-14T19:27:21.429Z</lastmod>
-  </url>
-  <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/cohorts/swrcb_2022.html</loc>
-    <lastmod>2023-03-14T19:27:21.793Z</lastmod>
-  </url>
-  <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/cohorts/index.html</loc>
-    <lastmod>2023-03-14T19:27:22.149Z</lastmod>
-  </url>
-  <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/cohorts/swrcb_2023.html</loc>
-    <lastmod>2023-03-14T19:27:22.525Z</lastmod>
-  </url>
-  <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about-openscapes.html</loc>
-    <lastmod>2023-03-14T19:27:22.881Z</lastmod>
-  </url>
-  <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/index.html</loc>
-    <lastmod>2023-03-14T19:27:23.269Z</lastmod>
-  </url>
-  <url>
     <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/resources.html</loc>
-    <lastmod>2023-03-14T19:27:23.665Z</lastmod>
+    <lastmod>2023-03-14T19:47:39.591Z</lastmod>
   </url>
   <url>
     <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/contact.html</loc>
-    <lastmod>2023-03-14T19:27:24.001Z</lastmod>
+    <lastmod>2023-03-14T19:47:41.667Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about_at_swrcb/implementation.html</loc>
+    <lastmod>2023-03-14T19:47:42.155Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about_at_swrcb/team_guidance.html</loc>
+    <lastmod>2023-03-14T19:47:42.539Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about_at_swrcb/index.html</loc>
+    <lastmod>2023-03-14T19:47:42.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/cohorts/swrcb_2023.html</loc>
+    <lastmod>2023-03-14T19:47:43.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/cohorts/index.html</loc>
+    <lastmod>2023-03-14T19:47:43.711Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/cohorts/swrcb_2022.html</loc>
+    <lastmod>2023-03-14T19:47:44.135Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/index.html</loc>
+    <lastmod>2023-03-14T19:47:44.515Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about-openscapes.html</loc>
+    <lastmod>2023-03-14T19:47:44.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/CODE_OF_CONDUCT.html</loc>
+    <lastmod>2023-03-14T19:47:45.279Z</lastmod>
   </url>
 </urlset>
