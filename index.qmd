@@ -10,7 +10,7 @@ page-layout: full
 </style>
 ```
 ::: {.div1 style="float: right; width: 350px"}
-<a class="twitter-timeline" data-width="250" data-height="350" href="https://twitter.com/openscapes?ref_src=twsrc%5Etfw">Tweets by openscapes</a>
+<a class="twitter-timeline" data-width="250" data-height="480" href="https://twitter.com/openscapes?ref_src=twsrc%5Etfw">Tweets by openscapes</a>
 
 ```{=html}
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
