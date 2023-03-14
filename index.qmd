@@ -4,19 +4,6 @@ subtitle: "Education and mentorship in open science at the California Water Boar
 page-layout: full
 ---
 
-```{=html}
-<style>
-@media screen and (max-width: 1000px) {   .div1 { display: none; } }
-</style>
-```
-::: {.div1 style="float: right; width: 350px"}
-<a class="twitter-timeline" data-width="250" data-height="480" href="https://twitter.com/openscapes?ref_src=twsrc%5Etfw">Tweets by openscapes</a>
-
-```{=html}
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
-:::
-
 The California State Water Resources Control Board ([State Water Board](https://www.waterboards.ca.gov/)) and the nine Regional Water Quality Control Boards ([Regional Water Boards](https://www.waterboards.ca.gov/waterboards_map.html)), collectively known as the California Water Boards (Water Boards), are dedicated to a single mission:
 
 > *To preserve, enhance, and restore the quality of California's water resources and drinking water for the protection of the environment, public health, and all beneficial uses, and to ensure proper water resource allocation and efficient use, for the benefit of present and future generations.*
@@ -32,3 +19,16 @@ In recent years, the State Water Board has committed to a number of cultural and
 Starting in 2022, the Water Boards, in partnership with Openscapes, have been hosting annual Champions Cohorts and intend to use their [Openscapes Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf) to continue to scale the Champions Program throughout the organization.
 
 To stay informed of Openscapes activities, you can connect with them on Twitter [**\@openscapes**](https://twitter.com/openscapes) or join their [**newsletter**](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform).
+
+```{=html}
+<style>
+@media screen and (max-width: 1000px) {   .div1 { display: none; } }
+</style>
+```
+::: {.div1 style="float: center; width: 600px"}
+<a class="twitter-timeline" data-width="550" data-height="300" href="https://twitter.com/openscapes?ref_src=twsrc%5Etfw">Tweets by openscapes</a>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+:::
