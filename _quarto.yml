@@ -61,7 +61,7 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
-    fontsize: 0.6rem
+    fontsize: 0.9rem
 
 
 filters:
