@@ -5,58 +5,32 @@ bibliography: references.bib
 
 Here you will find a curated list of documents, presentations, and other resources related to the implementation and scaling of Openscapes at the Water Boards.
 
+All Water Boards authors are **bolded** below.
+
 ## Documents
 
-[California Water Boards Openscapes Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf) (Feb 2022)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [California Water Boards Openscapes Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf). Feb 2022. **Greg Gearheart**, **Anna Holder**, **Corey Clatterbuck**, **Devan Burke**, **Tina Ures**.
 
 ## Presentations
 
-[California Water Boards Internal Openscapes Presentation Slides](https://drive.google.com/file/d/1TczxxmHrOX5EdrcCswSpMvRmsTNRWmRa/view?usp=share_link) (March - June 2023)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [Openscapes Opportunities at the California Water Boards](https://drive.google.com/file/d/1TczxxmHrOX5EdrcCswSpMvRmsTNRWmRa/view?usp=share_link). Mar - Jun 2023. **Anna Holder**, **Corey Clatterbuck**, **Devan Burke**, **Tina Ures**. Internal Roundtable Presentations.
 
-Deputy Management Committee (DMC) Presentation Slides (Feb 2023) ***ADD LINK***
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [Openscapes Opportunities at the California Water Boards](https://drive.google.com/file/d/15pRC4ZwN_9jD_07-MLM5rqh8FMipsW1H/view?usp=share_link). Feb 2023. **Anna Holder**, **Corey Clatterbuck**, **Devan Burke**, **Tina Ures**. Internal Deputy Management Committee (DMC) Presentation.
 
-***Take what we want to use from below, delete the rest***
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Better Science for Future Us: Openscapes stories and approaches for the Year of Open Science](https://2023januaryesipmeeting.sched.com/event/1EwXx). Jan 2023. Julia Lowndes, Erin Robinson, Ileana Fenwick, Adyan Rios, Josh London, **Corey Clatterbuck**, Luis Lopez, Cassandra Nickles. Earth Science Information Partners (ESIP) Meeting.
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Quarto workflow for collaborating on government reports](https://www.youtube.com/watch?v=tmyfjBmi1lk) Eli Holmes (NOAA Northwest Fisheries Science Center) presented during the SEFSC Openscapes Champions Cohort about how a team might collaborate on a Quarto report using GitHub and RStudio (+ Zotero for citations). Aug 11, 2022. [Another version of the talk focused on the Quarto structure](https://youtu.be/Uay6X65Ukvk) and [A shorter version just on the collaboration part](https://www.youtube.com/watch?v=WvKw1OQIpMk)
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Openscapes approach to helping organizations transition to Open Science workflows and new tools](https://www.youtube.com/watch?v=TuqgE2jc2ZQ) Presented to the High-level Group for the Modernisation of Statistical Production & Services (HLG-MOS), United Nations Economic Commission for Europe (UNECE). May 4, 2022: Lowndes and Holmes.
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Open Science Adoption with Organizations: Lessons for individuals from theories about technology adoption](https://www.youtube.com/watch?v=hbFAkhNRpJw) Dr. Eli Holmes gave a talk on using theory concerning technology adoption to help plan activities for the Year of Open Science. ESIP Panel on "Better Science for Future Us: Planning for the Year of Open Science" organized by Erin Robinson and Julie Lowndes. January 18-21, 2022.
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [VRData R Package](https://www.youtube.com/watch?v=XNiwuEJvMno&t=1s) Dr. Eli Holmes (NWFSC) describes and screenshares her team's open science practices (GitHub, R) that increase efficiency, quality control, and transparency for Pacific Northwest Salmonid Viability Reports. December 1, 2021.
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Data to Product Workflows](https://www.youtube.com/watch?v=S-w_74Pc908) Em Markowitz (NOAA Alaska Fisheries Science Center) presented during the NMFS Openscapes Champions Cohort about her R package for automating reports for NOAA with RMarkdown. October 1, 2021.
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [State of the Ecosystem Product Development Workflow](https://noaa-edab.github.io/presentations/20211015_Openscapes_Bastille.html#1) Kim Bastille (NOAA Northeast Fisheries Science Center) presented during the FDD Openscapes Champions Cohort about the reproducible workflow used by the State Of the Ecosystem report.
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Better Science for Future Us: Planning for the Year of Open Science](https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science). Jan 2022. Julia Lowndes, Erin Robinson, Aaron Friesz, Ileana Fenwick, Amy Steiker, Eli Holmes, **Anna Holder**. Earth Science Information Partners (ESIP) Meeting.
 
 ## Blog Posts
 
-Water Boards authors are **bolded**.
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Adapting the Champions Program for the California Water Boards](https://www.openscapes.org/blog/2022/12/02/swrcb-2022/). Dec 2, 2022. **Corey Clatterbuck**, **Anna Holder**.
 
-Adapting the Champions Program for the California Water Boards (Dec 2, 2022; ***ADD AUTHORS***) *ADD **LINK***
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [3 Takeways for Planning for the Year of Open Science](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/). Feb 17, 2022. Aaron Friesz, Ileana Fenwick, Eli Holmes, **Anna Holder**, Amy Steiker, Erin Robinson, Julia Lowndes.
 
-3 Takeaways for Planning for the Year of Open Science (Feb 17, 2022; ***ADD AUTHORS***) ***ADD LINK***
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [California Water Board Mentor Perspectives](https://www.openscapes.org/blog/2021/12/07/california-waterboards-mentors/). Dec 7, 2021. **Anna Holder**, **Corey Clatterbuck**.
 
--   Correct reference on https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Identifying Common Approaches and Needs for Fisheries Dependent Data](https://www.openscapes.org/blog/2021/11/12/fdd-champions/). Nov 12, 2021. Gavin Fay, Andy Jones, **Anna Holder**, Julia Lowndes.
 
-California Water Board Mentor Perspectives (Dec 7, 2021; ***ADD AUTHORS***) ***ADD LINK***
-
-Identifying common approaches and needs for fisheries dependent data (Nov 12, 2021; ***ADD AUTHORS***) ***ADD LINK***
-
-Strengthening scientific workflow and team collaboration at NOAA Fisheries (Nov 12, 2021; ***ADD AUTHORS***) ***ADD LINK***
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Strengthening Scientific Workflow and Team Collaboration at NOAA Fisheries](https://www.openscapes.org/blog/2021/11/12/noaa-nmfs-champions/). Nov 12, 2021. Eli Holmes, Eric Ward, Hélène Scalliet, **Corey Clatterbuck**, Julia Lowndes.
 
 Visit the Openscapes website to see all [Openscapes Blog Posts](https://www.openscapes.org/blog/)
-
-***Take what we want to use from below, delete the rest***
-
-[Sound Bytes: Championing Open Science](https://www.fisheries.noaa.gov/science-blog/sound-bytes-championing-open-science) - December 7, 2022: Burger. (cross-posted at [Openscapes.org](https://www.openscapes.org/blog/2022/12/09/case-study-swfsc-sael/))
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Aligning mission around collaborative practices, with researchers, supervisors, and IT](https://www.openscapes.org/blog/2022/09/30/2022-sefsc-summer/) - September 30, 2022: Rios, Stevens, Rule.
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [AFSC Winter Cohort Report](https://www.openscapes.org/blog/2022/04/07/afsc-supportive-forum/) - April 7, 2022: Markowitz, London, Siple.
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [3 Takeways for planning for the year of Open Science](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/) - February 17, 2022: Friesz, Fenwick, Holmes, Holder, Steiker, Robinson, Lowndes
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Identifying common approaches and needs for fisheries dependent data](https://www.openscapes.org/blog/2021/11/12/fdd-champions/) - November 12, 2021: Fay, Jones, Holder and Lowndes
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Strengthening scientific workflow and team collaboration at NOAA Fisheries](https://www.openscapes.org/blog/2021/11/12/noaa-nmfs-champions/) - November 12, 2021: Holmes, Ward, Scalliet, Clatterbuck and Lowndes
