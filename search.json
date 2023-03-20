@@ -4,28 +4,28 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Here you will find a curated list of documents, presentations, and other resources related to the implementation and scaling of Openscapes at the Water Boards."
+    "text": "Here you will find a curated list of documents, presentations, and other resources related to the implementation and scaling of Openscapes at the Water Boards.\nAll Water Boards authors are bolded below."
   },
   {
     "objectID": "resources.html#documents",
     "href": "resources.html#documents",
     "title": "Resources",
     "section": "Documents",
-    "text": "Documents\nCalifornia Water Boards Openscapes Implementation Strategy (Feb 2022)"
+    "text": "Documents\n California Water Boards Openscapes Implementation Strategy. Feb 2022. Greg Gearheart, Anna Holder, Corey Clatterbuck, Devan Burke, Tina Ures."
   },
   {
     "objectID": "resources.html#presentations",
     "href": "resources.html#presentations",
     "title": "Resources",
     "section": "Presentations",
-    "text": "Presentations\nCalifornia Water Boards Internal Openscapes Presentation Slides (March - June 2023)\nDeputy Management Committee (DMC) Presentation Slides (Feb 2023) ADD LINK\nTake what we want to use from below, delete the rest\n Quarto workflow for collaborating on government reports Eli Holmes (NOAA Northwest Fisheries Science Center) presented during the SEFSC Openscapes Champions Cohort about how a team might collaborate on a Quarto report using GitHub and RStudio (+ Zotero for citations). Aug 11, 2022. Another version of the talk focused on the Quarto structure and A shorter version just on the collaboration part\n Openscapes approach to helping organizations transition to Open Science workflows and new tools Presented to the High-level Group for the Modernisation of Statistical Production & Services (HLG-MOS), United Nations Economic Commission for Europe (UNECE). May 4, 2022: Lowndes and Holmes.\n Open Science Adoption with Organizations: Lessons for individuals from theories about technology adoption Dr. Eli Holmes gave a talk on using theory concerning technology adoption to help plan activities for the Year of Open Science. ESIP Panel on “Better Science for Future Us: Planning for the Year of Open Science” organized by Erin Robinson and Julie Lowndes. January 18-21, 2022.\n VRData R Package Dr. Eli Holmes (NWFSC) describes and screenshares her team’s open science practices (GitHub, R) that increase efficiency, quality control, and transparency for Pacific Northwest Salmonid Viability Reports. December 1, 2021.\n Data to Product Workflows Em Markowitz (NOAA Alaska Fisheries Science Center) presented during the NMFS Openscapes Champions Cohort about her R package for automating reports for NOAA with RMarkdown. October 1, 2021.\n State of the Ecosystem Product Development Workflow Kim Bastille (NOAA Northeast Fisheries Science Center) presented during the FDD Openscapes Champions Cohort about the reproducible workflow used by the State Of the Ecosystem report."
+    "text": "Presentations\n Openscapes Opportunities at the California Water Boards. Mar - Jun 2023. Anna Holder, Corey Clatterbuck, Devan Burke, Tina Ures. Internal Roundtable Presentations.\n Openscapes Opportunities at the California Water Boards. Feb 2023. Anna Holder, Corey Clatterbuck, Devan Burke, Tina Ures. Internal Deputy Management Committee (DMC) Presentation.\n Better Science for Future Us: Openscapes stories and approaches for the Year of Open Science. Jan 2023. Julia Lowndes, Erin Robinson, Ileana Fenwick, Adyan Rios, Josh London, Corey Clatterbuck, Luis Lopez, Cassandra Nickles. Earth Science Information Partners (ESIP) Meeting.\n Better Science for Future Us: Planning for the Year of Open Science. Jan 2022. Julia Lowndes, Erin Robinson, Aaron Friesz, Ileana Fenwick, Amy Steiker, Eli Holmes, Anna Holder. Earth Science Information Partners (ESIP) Meeting."
   },
   {
     "objectID": "resources.html#blog-posts",
     "href": "resources.html#blog-posts",
     "title": "Resources",
     "section": "Blog Posts",
-    "text": "Blog Posts\nWater Boards authors are bolded.\nAdapting the Champions Program for the California Water Boards (Dec 2, 2022; ADD AUTHORS) ADD LINK\n3 Takeaways for Planning for the Year of Open Science (Feb 17, 2022; ADD AUTHORS) ADD LINK\n\nCorrect reference on https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/\n\nCalifornia Water Board Mentor Perspectives (Dec 7, 2021; ADD AUTHORS) ADD LINK\nIdentifying common approaches and needs for fisheries dependent data (Nov 12, 2021; ADD AUTHORS) ADD LINK\nStrengthening scientific workflow and team collaboration at NOAA Fisheries (Nov 12, 2021; ADD AUTHORS) ADD LINK\nVisit the Openscapes website to see all Openscapes Blog Posts\nTake what we want to use from below, delete the rest\nSound Bytes: Championing Open Science - December 7, 2022: Burger. (cross-posted at Openscapes.org)\n Aligning mission around collaborative practices, with researchers, supervisors, and IT - September 30, 2022: Rios, Stevens, Rule.\n AFSC Winter Cohort Report - April 7, 2022: Markowitz, London, Siple.\n 3 Takeways for planning for the year of Open Science - February 17, 2022: Friesz, Fenwick, Holmes, Holder, Steiker, Robinson, Lowndes\n Identifying common approaches and needs for fisheries dependent data - November 12, 2021: Fay, Jones, Holder and Lowndes\n Strengthening scientific workflow and team collaboration at NOAA Fisheries - November 12, 2021: Holmes, Ward, Scalliet, Clatterbuck and Lowndes"
+    "text": "Blog Posts\n Adapting the Champions Program for the California Water Boards. Dec 2, 2022. Corey Clatterbuck, Anna Holder.\n 3 Takeways for Planning for the Year of Open Science. Feb 17, 2022. Aaron Friesz, Ileana Fenwick, Eli Holmes, Anna Holder, Amy Steiker, Erin Robinson, Julia Lowndes.\n California Water Board Mentor Perspectives. Dec 7, 2021. Anna Holder, Corey Clatterbuck.\n Identifying Common Approaches and Needs for Fisheries Dependent Data. Nov 12, 2021. Gavin Fay, Andy Jones, Anna Holder, Julia Lowndes.\n Strengthening Scientific Workflow and Team Collaboration at NOAA Fisheries. Nov 12, 2021. Eli Holmes, Eric Ward, Hélène Scalliet, Corey Clatterbuck, Julia Lowndes.\nVisit the Openscapes website to see all Openscapes Blog Posts"
   },
   {
     "objectID": "contact.html",
