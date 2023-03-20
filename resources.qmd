@@ -7,9 +7,11 @@ Here you will find a curated list of documents, presentations, and other resourc
 
 ## Documents
 
-California Water Boards Openscapes Implementation Strategy (Feb 2022) ***ADD LINK***
+[California Water Boards Openscapes Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf) (Feb 2022)
 
 ## Presentations
+
+[California Water Boards Internal Openscapes Presentation Slides](https://drive.google.com/file/d/1TczxxmHrOX5EdrcCswSpMvRmsTNRWmRa/view?usp=share_link) (March - June 2023)
 
 Deputy Management Committee (DMC) Presentation Slides (Feb 2023) ***ADD LINK***
 
