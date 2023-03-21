@@ -23,6 +23,8 @@ All Water Boards authors are **bolded** below.
 
 ## Blog Posts
 
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [3 Approaches for the Year of Open Science](https://www.openscapes.org/blog/2023/03/16/esip-winter-2023/). Mar 16, 2023. **Corey Clatterbuck**, Ileana Fenwick, Josh London, Luis Lopez, Cassie Nickles, Adyan Rios, Stefanie Butland, Julie Lowndes, Erin Robinson.
+
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Adapting the Champions Program for the California Water Boards](https://www.openscapes.org/blog/2022/12/02/swrcb-2022/). Dec 2, 2022. **Corey Clatterbuck**, **Anna Holder**.
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [3 Takeways for Planning for the Year of Open Science](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/). Feb 17, 2022. Aaron Friesz, Ileana Fenwick, Eli Holmes, **Anna Holder**, Amy Steiker, Erin Robinson, Julia Lowndes.
