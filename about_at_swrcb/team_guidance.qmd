@@ -17,5 +17,4 @@ Characteristics of teams that will get the most return on their investment into 
 -   [**All**]{.underline} team members are interested in exploring the interconnected nature of open science and in taking time to reimagine data workflows and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative, inclusive, equitable, and kind teams and communities.
 -   Teams want to evolve and invest in their culture, processes, and workflows so that they can embody the [better science for future us mindset](https://www.openscapes.org/blog/2021/09/15/better-science-for-future-us/).
     -   "Better science" means science that is more open, reproducible, efficient, and also more diverse, equitable, inclusive, kind.
-
     -   "Future us" is ourselves, teams, communities in the next hour, week, decades -- with a focus on onboarding ourselves and others to ongoing work.
