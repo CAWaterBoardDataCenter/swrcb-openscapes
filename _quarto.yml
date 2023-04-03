@@ -43,6 +43,8 @@ website:
         contents:
           - about_at_swrcb/implementation.qmd
           - about_at_swrcb/team_guidance.qmd
+      - href: impacts.qmd
+        text: Impacts
       - section: cohorts/index.qmd
         text: Champions Cohorts
         contents: 
