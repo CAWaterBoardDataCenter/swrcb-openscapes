@@ -4,6 +4,16 @@ subtitle: "Education and mentorship in open science at the California Water Boar
 page-layout: full
 ---
 
+::: callout-tip
+## Want to apply for our 2023 Cohort?
+
+Check out:
+
+-   [Is my team ready for Openscapes?](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/team_guidance.html)
+-   The 2023 Cohort [timeline](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2023.html)
+-   [Apply here for the 2023 Cohort!](https://forms.office.com/Pages/ResponsePage.aspx?id=JWoY_kl95kGZQQXSKB02wdDrmhOKKfJEmnxc6Aq8nNxUQVhJMVlHSkszUkk4MzMyN0JMTEYyNkRLNi4u) Applications close on 30 June 2023.
+:::
+
 The California State Water Resources Control Board ([State Water Board](https://www.waterboards.ca.gov/)) and the nine Regional Water Quality Control Boards ([Regional Water Boards](https://www.waterboards.ca.gov/waterboards_map.html)), collectively known as the California Water Boards (Water Boards), are dedicated to a single mission:
 
 > *To preserve, enhance, and restore the quality of California's water resources and drinking water for the protection of the environment, public health, and all beneficial uses, and to ensure proper water resource allocation and efficient use, for the benefit of present and future generations.*
