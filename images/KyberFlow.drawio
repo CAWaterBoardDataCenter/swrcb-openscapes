@@ -1,186 +1,186 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T17:28:36.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="vbLEnE7OigIoPhyso7ZJ" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T17:38:50.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="pJUMj_5FQYBo12WykZWl" version="21.4.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1155" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NNKT52EiWI1NoeeISoCc-1" value="Requirements:&lt;br&gt;R &amp;amp; RStudio; &lt;br&gt;&lt;a href=&quot;https://happygitwithr.com/https-pat.html&quot;&gt;Establish GitHub PAT&lt;/a&gt; with scopes repo, user, gist, workflow, &lt;br&gt;admin:org;&amp;nbsp;&lt;br&gt;&lt;a href=&quot;https://happygitwithr.com/connect-intro.html&quot;&gt;Git setup in RStudio&lt;/a&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="309" width="200" height="110" as="geometry" />
+          <mxGeometry x="100" y="348" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-2" value="&lt;b&gt;0. Setup&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="40" y="199" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="238" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-3" value="Follow package&amp;nbsp;&lt;a href=&quot;https://github.com/openscapes/kyber#installation&quot;&gt;installation&lt;/a&gt; instructions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="209" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="248" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="NNKT52EiWI1NoeeISoCc-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="359" as="sourcePoint" />
-            <mxPoint x="200" y="239" as="targetPoint" />
+            <mxPoint x="80" y="398" as="sourcePoint" />
+            <mxPoint x="200" y="278" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.493;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="NNKT52EiWI1NoeeISoCc-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="399.4400000000001" y="366" as="sourcePoint" />
-            <mxPoint x="400.56" y="309" as="targetPoint" />
+            <mxPoint x="399.4400000000001" y="405" as="sourcePoint" />
+            <mxPoint x="400.56" y="348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NNKT52EiWI1NoeeISoCc-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NNKT52EiWI1NoeeISoCc-2" target="NNKT52EiWI1NoeeISoCc-3" edge="1">
+        <mxCell id="NNKT52EiWI1NoeeISoCc-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="NNKT52EiWI1NoeeISoCc-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="161" y="304" as="sourcePoint" />
-            <mxPoint x="211" y="254" as="targetPoint" />
+            <mxPoint x="120" y="278.0000000000002" as="sourcePoint" />
+            <mxPoint x="211" y="293" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-14" value="Follow package&amp;nbsp;&lt;a href=&quot;https://github.com/openscapes/kyber#configuration&quot;&gt;configuration&lt;/a&gt; instructions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="209" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="248" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NNKT52EiWI1NoeeISoCc-3" target="NNKT52EiWI1NoeeISoCc-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="299" as="sourcePoint" />
-            <mxPoint x="510" y="249" as="targetPoint" />
+            <mxPoint x="460" y="338" as="sourcePoint" />
+            <mxPoint x="510" y="288" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-16" value="May need to&lt;br&gt;un/install other&lt;br&gt;packages to complete&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="309" width="180" height="120" as="geometry" />
+          <mxGeometry x="310" y="348" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-17" value="Allow Tidyverse API to connect to&lt;br&gt;Google account where agendas&lt;br&gt;&amp;amp; spreadsheets live; set up your&lt;br&gt;cohort folder in Drive before moving&amp;nbsp;forward." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="309" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NNKT52EiWI1NoeeISoCc-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.506;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NNKT52EiWI1NoeeISoCc-17" target="NNKT52EiWI1NoeeISoCc-14" edge="1">
+        <mxCell id="NNKT52EiWI1NoeeISoCc-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.494;exitY=0.129;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="NNKT52EiWI1NoeeISoCc-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="359" as="sourcePoint" />
-            <mxPoint x="600" y="309" as="targetPoint" />
+            <mxPoint x="698.2000000000003" y="363.48" as="sourcePoint" />
+            <mxPoint x="600" y="348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-22" value="1. Make&lt;br&gt;Repo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="40" y="489" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="528" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-26" value="Follow package instructions:&amp;nbsp;&lt;a href=&quot;https://github.com/openscapes/kyber#create-github-repo&quot;&gt;Create Github repo&lt;/a&gt;; repo_name is &quot;yyyy-swrcb&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="489" width="140" height="80" as="geometry" />
+          <mxGeometry x="340" y="528" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-27" value="Edit README.md to be cohort website (e.g., &lt;a href=&quot;https://github.com/Openscapes/2022-swrcb&quot;&gt;2022-swrcb&lt;/a&gt;) and push to Github. &lt;a href=&quot;https://www.youtube.com/watch?v=HIAvNi-4TkU&quot;&gt;Setup README to be a website&lt;/a&gt;." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="489" width="140" height="80" as="geometry" />
+          <mxGeometry x="650" y="528" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-28" value="2. Make&lt;br&gt;Agenda" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="160" y="629" width="80" height="80" as="geometry" />
+          <mxGeometry x="160" y="668" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-29" value="3. Create Github Clinic .md files" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="40" y="769" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="808" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-30" value="4. Create Github Team" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="40" y="909" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="948" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NNKT52EiWI1NoeeISoCc-22" target="NNKT52EiWI1NoeeISoCc-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="519.5" as="sourcePoint" />
-            <mxPoint x="260" y="519.5" as="targetPoint" />
+            <mxPoint x="120" y="558.5" as="sourcePoint" />
+            <mxPoint x="260" y="558.5" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NNKT52EiWI1NoeeISoCc-26" target="NNKT52EiWI1NoeeISoCc-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="519.5" as="sourcePoint" />
-            <mxPoint x="620" y="519.5" as="targetPoint" />
+            <mxPoint x="480" y="558.5" as="sourcePoint" />
+            <mxPoint x="620" y="558.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NNKT52EiWI1NoeeISoCc-35" target="NNKT52EiWI1NoeeISoCc-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="659" as="sourcePoint" />
-            <mxPoint x="650" y="659.5" as="targetPoint" />
+            <mxPoint x="430" y="698" as="sourcePoint" />
+            <mxPoint x="650" y="698.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-35" value="Requirements: &lt;br&gt;cohort is registered in &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Ys9KiTXXmZ_laBoCV2QWEm7AcnGSVQaXvm2xpi4XTSc/edit#gid=695033382&quot;&gt;cohort registry file&lt;/a&gt;, in cohort_metadata sheet, cols A:I. Must have &lt;br&gt;solidified lessons &amp;amp; dates." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="629" width="190" height="80" as="geometry" />
+          <mxGeometry x="310" y="668" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NNKT52EiWI1NoeeISoCc-35" target="NNKT52EiWI1NoeeISoCc-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="738" as="sourcePoint" />
-            <mxPoint x="370" y="598" as="targetPoint" />
+            <mxPoint x="80" y="777" as="sourcePoint" />
+            <mxPoint x="370" y="637" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-40" value="Follow package instructions:&amp;nbsp;&lt;a href=&quot;https://github.com/Openscapes/kyber#agendas&quot;&gt;Agendas&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="633" width="140" height="70" as="geometry" />
+          <mxGeometry x="650" y="672" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-41" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Requirements: first and last &lt;br&gt;names of cohort participants are complete in the cohort&#39;s&amp;nbsp;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1bN80xSd0dkGEKpdAb0s8OmL_8aAF_wzR04DA1h8uZCY/edit#gid=0&quot;&gt;ParticipantsList spreadsheet&lt;/a&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="305" y="769" width="195" height="80" as="geometry" />
+          <mxGeometry x="305" y="808" width="195" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-44" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Requirements: GitHub handles of&lt;br&gt;&amp;nbsp;all cohort participants are included in the cohort&#39;s&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1bN80xSd0dkGEKpdAb0s8OmL_8aAF_wzR04DA1h8uZCY/edit#gid=0&quot;&gt;ParticipantsList spreadsheet&lt;/a&gt;. Include instructors &amp;amp; mentors.&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="909" width="207.5" height="80" as="geometry" />
+          <mxGeometry x="300" y="948" width="207.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NNKT52EiWI1NoeeISoCc-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="729" as="sourcePoint" />
-            <mxPoint x="10" y="529" as="targetPoint" />
+            <mxPoint x="350" y="768" as="sourcePoint" />
+            <mxPoint x="10" y="568" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="10" y="669" />
+              <mxPoint x="10" y="708" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NNKT52EiWI1NoeeISoCc-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="729" as="sourcePoint" />
-            <mxPoint x="10" y="239" as="targetPoint" />
+            <mxPoint x="350" y="768" as="sourcePoint" />
+            <mxPoint x="10" y="278" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="10" y="529" />
+              <mxPoint x="10" y="568" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-48" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="808" as="sourcePoint" />
-            <mxPoint x="10" y="669" as="targetPoint" />
+            <mxPoint x="40" y="847" as="sourcePoint" />
+            <mxPoint x="10" y="708" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="10" y="809" />
+              <mxPoint x="10" y="848" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-49" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="948" as="sourcePoint" />
-            <mxPoint x="10" y="809" as="targetPoint" />
+            <mxPoint x="40" y="987" as="sourcePoint" />
+            <mxPoint x="10" y="848" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="10" y="949" />
+              <mxPoint x="10" y="988" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-50" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" target="NNKT52EiWI1NoeeISoCc-29" source="NNKT52EiWI1NoeeISoCc-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="830" as="sourcePoint" />
-            <mxPoint x="160" y="830" as="targetPoint" />
+            <mxPoint x="260" y="869" as="sourcePoint" />
+            <mxPoint x="160" y="869" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NNKT52EiWI1NoeeISoCc-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="312.5" y="949.5" as="sourcePoint" />
-            <mxPoint x="122.5" y="948.5" as="targetPoint" />
+            <mxPoint x="312.5" y="988.5" as="sourcePoint" />
+            <mxPoint x="122.5" y="987.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="NNKT52EiWI1NoeeISoCc-53" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="810" as="sourcePoint" />
-            <mxPoint x="650" y="800.5" as="targetPoint" />
+            <mxPoint x="500" y="849" as="sourcePoint" />
+            <mxPoint x="650" y="839.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-53" value="Follow package instructions: &lt;a href=&quot;https://github.com/Openscapes/kyber#github-clinic---generate-markdown-files-for-each-participant&quot;&gt;Github Clinic - Generate Markdown Files for Each Participant&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="774" width="140" height="70" as="geometry" />
+          <mxGeometry x="650" y="813" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="NNKT52EiWI1NoeeISoCc-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="507.5" y="950" as="sourcePoint" />
-            <mxPoint x="640" y="949" as="targetPoint" />
+            <mxPoint x="507.5" y="989" as="sourcePoint" />
+            <mxPoint x="640" y="988" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NNKT52EiWI1NoeeISoCc-55" value="Follow package instructions: &lt;a href=&quot;https://github.com/Openscapes/kyber#create-github-team-add-usernames&quot;&gt;Create GitHub team, add user names&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="914" width="140" height="70" as="geometry" />
+          <mxGeometry x="650" y="953" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NNKT52EiWI1NoeeISoCc-56" value="&lt;h1&gt;Flow chart for using Kyber&lt;/h1&gt;&lt;p&gt;&lt;i&gt;Corey Clatterbuck, with contributions from Anna Holder&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Openscapes/kyber&quot;&gt;Kyber&lt;/a&gt; is an R package (and incredible tool) for reusing &lt;a href=&quot;https://openscapes.github.io/approach-guide/&quot;&gt;Openscapes&lt;/a&gt;&amp;nbsp;cohort design &amp;amp; logistical materials. However, to folks less familiar with GitHub and R setup and requirements, implementing Kyber can be confusing. This flow chart aims to define the workflow for setting up an Openscapes cohort using Kyber, include requirements for each step in the workflow, and provide documentation of potential roadblocks. Many thanks to Sean Kross, Julie Lowndes, and Stefanie Butland for creating, maintaining, and contributing to this package.&amp;nbsp;&lt;/p&gt;&lt;p&gt;This chart is version-controlled in the &lt;a href=&quot;https://github.com/CAWaterBoardDataCenter/swrcb-openscapes&quot;&gt;swrcb-openscapes repo&lt;/a&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="10" width="770" height="170" as="geometry" />
+        <mxCell id="NNKT52EiWI1NoeeISoCc-56" value="&lt;h1&gt;Flow chart for using Kyber&lt;/h1&gt;&lt;p&gt;&lt;i&gt;Corey Clatterbuck, with contributions from Anna Holder&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Openscapes/kyber&quot;&gt;Kyber&lt;/a&gt; is an R package (and incredible tool) for reusing &lt;a href=&quot;https://openscapes.github.io/approach-guide/&quot;&gt;Openscapes&lt;/a&gt;&amp;nbsp;cohort design &amp;amp; logistical materials. However, to folks less familiar with GitHub and R setup and requirements, implementing Kyber can be confusing. This flow chart aims to define the workflow for setting up an Openscapes cohort using Kyber, include requirements for each step in the workflow, and provide documentation of potential roadblocks. Users should begin their workflow at one of the circled steps, which are numbered in order according to dependencies &amp;amp; the Champion Program setup timeline outlined in the &lt;a href=&quot;https://openscapes.github.io/approach-guide/&quot;&gt;Openscapes Approach Guide&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Many thanks to Sean Kross, Julie Lowndes, and Stefanie Butland for creating, maintaining, and contributing to this package.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;This chart is version-controlled in the &lt;/span&gt;&lt;a style=&quot;background-color: initial;&quot; href=&quot;https://github.com/CAWaterBoardDataCenter/swrcb-openscapes&quot;&gt;swrcb-openscapes repo&lt;/a&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="31" width="770" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FOCxhA3XRHWHdZon7XVK-3" value="" style="orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" target="NNKT52EiWI1NoeeISoCc-2" edge="1">
+        <mxCell id="FOCxhA3XRHWHdZon7XVK-3" value="" style="orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="10" y="240" as="sourcePoint" />
-            <mxPoint x="140" y="440" as="targetPoint" />
+            <mxPoint x="10" y="279" as="sourcePoint" />
+            <mxPoint x="40" y="278.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LxMA-Vu0oBv7-q3rCTQX-1" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;rotation=-90;" connectable="0" vertex="1" parent="1">
@@ -196,37 +196,40 @@
           <mxGeometry x="5" y="871" width="10" height="14" as="geometry" />
         </mxCell>
         <mxCell id="LxMA-Vu0oBv7-q3rCTQX-5" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;rotation=-180;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="15" y="802" width="10" height="14" as="geometry" />
+          <mxGeometry x="15" y="841" width="10" height="14" as="geometry" />
         </mxCell>
         <mxCell id="LxMA-Vu0oBv7-q3rCTQX-6" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;rotation=-180;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="15" y="942" width="10" height="14" as="geometry" />
+          <mxGeometry x="15" y="981" width="10" height="14" as="geometry" />
         </mxCell>
         <mxCell id="LxMA-Vu0oBv7-q3rCTQX-7" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;rotation=-180;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="15" y="662" width="10" height="14" as="geometry" />
+          <mxGeometry x="15" y="701" width="10" height="14" as="geometry" />
         </mxCell>
         <mxCell id="LxMA-Vu0oBv7-q3rCTQX-8" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;rotation=-180;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="15" y="522" width="10" height="14" as="geometry" />
+          <mxGeometry x="15" y="561" width="10" height="14" as="geometry" />
         </mxCell>
         <mxCell id="LxMA-Vu0oBv7-q3rCTQX-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NNKT52EiWI1NoeeISoCc-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="710" as="sourcePoint" />
-            <mxPoint x="80" y="570" as="targetPoint" />
+            <mxPoint x="410" y="749" as="sourcePoint" />
+            <mxPoint x="80" y="609" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LxMA-Vu0oBv7-q3rCTQX-11" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;rotation=-90;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="75" y="605" width="10" height="14" as="geometry" />
+          <mxGeometry x="75" y="644" width="10" height="14" as="geometry" />
         </mxCell>
         <mxCell id="LxMA-Vu0oBv7-q3rCTQX-12" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;rotation=-90;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="75" y="709" width="10" height="14" as="geometry" />
+          <mxGeometry x="75" y="748" width="10" height="14" as="geometry" />
         </mxCell>
         <mxCell id="LxMA-Vu0oBv7-q3rCTQX-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NNKT52EiWI1NoeeISoCc-30" target="NNKT52EiWI1NoeeISoCc-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="710" as="sourcePoint" />
-            <mxPoint x="460" y="660" as="targetPoint" />
+            <mxPoint x="410" y="749" as="sourcePoint" />
+            <mxPoint x="460" y="699" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LxMA-Vu0oBv7-q3rCTQX-15" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;rotation=-90;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="75" y="871" width="10" height="14" as="geometry" />
+          <mxGeometry x="75" y="910" width="10" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="LxMA-Vu0oBv7-q3rCTQX-16" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;rotation=0;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="15" y="271" width="10" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
