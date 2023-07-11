@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/resources.html</loc>
-    <lastmod>2023-06-19T17:40:07.716Z</lastmod>
-  </url>
-  <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/cohorts/index.html</loc>
-    <lastmod>2023-06-19T17:40:09.796Z</lastmod>
-  </url>
-  <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/cohorts/swrcb_2023.html</loc>
-    <lastmod>2023-06-19T17:40:10.172Z</lastmod>
-  </url>
-  <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/cohorts/swrcb_2022.html</loc>
-    <lastmod>2023-06-19T17:40:10.600Z</lastmod>
-  </url>
-  <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/index.html</loc>
-    <lastmod>2023-06-19T17:40:11.036Z</lastmod>
-  </url>
-  <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about_at_swrcb/index.html</loc>
-    <lastmod>2023-06-19T17:40:11.636Z</lastmod>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about-openscapes.html</loc>
+    <lastmod>2023-07-11T15:50:36.351Z</lastmod>
   </url>
   <url>
     <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about_at_swrcb/implementation.html</loc>
-    <lastmod>2023-06-19T17:40:12.248Z</lastmod>
+    <lastmod>2023-07-11T15:50:35.311Z</lastmod>
   </url>
   <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about_at_swrcb/team_guidance.html</loc>
-    <lastmod>2023-06-19T17:40:12.688Z</lastmod>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about_at_swrcb/index.html</loc>
+    <lastmod>2023-07-11T15:50:33.931Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/cohorts/swrcb_2023.html</loc>
+    <lastmod>2023-07-11T15:50:32.647Z</lastmod>
   </url>
   <url>
     <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/CODE_OF_CONDUCT.html</loc>
-    <lastmod>2023-06-19T17:40:13.116Z</lastmod>
+    <lastmod>2023-07-11T15:50:31.643Z</lastmod>
   </url>
   <url>
     <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/impacts.html</loc>
-    <lastmod>2023-06-19T17:40:13.516Z</lastmod>
+    <lastmod>2023-07-11T15:50:30.611Z</lastmod>
   </url>
   <url>
-    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about-openscapes.html</loc>
-    <lastmod>2023-06-19T17:40:13.892Z</lastmod>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/index.html</loc>
+    <lastmod>2023-07-11T15:50:28.271Z</lastmod>
   </url>
   <url>
     <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/contact.html</loc>
-    <lastmod>2023-06-19T17:40:14.244Z</lastmod>
+    <lastmod>2023-07-11T15:50:31.071Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/cohorts/index.html</loc>
+    <lastmod>2023-07-11T15:50:32.151Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/cohorts/swrcb_2022.html</loc>
+    <lastmod>2023-07-11T15:50:33.219Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/about_at_swrcb/team_guidance.html</loc>
+    <lastmod>2023-07-11T15:50:34.471Z</lastmod>
+  </url>
+  <url>
+    <loc>https://CAWaterBoardDataCenter.github.io/swrcb-openscapes/resources.html</loc>
+    <lastmod>2023-07-11T15:50:35.843Z</lastmod>
   </url>
 </urlset>
