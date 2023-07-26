@@ -8,15 +8,9 @@ The Water Boards Openscapes Champions Program is a mentorship and professional d
 
 ### Current and Upcoming Cohorts
 
-**2023 Water Boards Cohort:** From mid-August through mid-October 2023, the Water Boards will host a Champions Cohort, which will include [3 to 6 teams of no more than 6 individuals per team]{.underline}. **Water Boards teams will be able to [apply for this opportunity](https://forms.office.com/Pages/ResponsePage.aspx?id=JWoY_kl95kGZQQXSKB02wdDrmhOKKfJEmnxc6Aq8nNxUQVhJMVlHSkszUkk4MzMyN0JMTEYyNkRLNi4u) from 2 May - 30 June 2023.**
+[**2023 Water Boards Cohort**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2023.html)**:** From mid-August through mid-October 2023, the Water Boards will host a Champions Cohort, which will include 3 to 6 teams of no more than 6 individuals per team. Water Boards teams will be able to apply for this opportunity from 2 May - 30 June 2023.
 
-The Water Boards Openscapes Team will offer to present about this work and its future in our organization to management, internal roundtables, and work groups, starting in February 2023. Current presentation venues under consideration include:
-
--   MCC (Management Coordinating Committee)
--   DMC (Deputy Management Committee)
--   "Let's Git Lunch" GitHub Group
--   Roundtable (RT) Meetings (e.g. GIS Data Science RT, Integrated Report RT)
--   Other RTs, groups, or teams upon request
+The Water Boards Openscapes Team offered to present about this work and its future in our organization to management, internal roundtables, and work groups, starting in February 2023 (see [presentation list](https://github.com/CAWaterBoardDataCenter/swrcb-openscapes/issues/15)).
 
 To request a presentation for your RT, group, or team, please email [Anna Holder](mailto:anna.holder@waterboards.ca.gov).
 
