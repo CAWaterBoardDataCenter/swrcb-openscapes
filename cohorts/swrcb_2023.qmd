@@ -2,20 +2,20 @@
 title: "2023 Water Boards Cohort"
 ---
 
-*Cohort Instructors:* Corey Clatterbuck (OIMA), Anna Holder (OIMA)
+*Cohort Instruction Team:* Anna Holder (OIMA), Devan Burke (OIMA), Tina Ures (DWQ)
 
-*Cohort Mentors:* Devan Burke (OIMA), Tina Ures (DWQ)
+*Guest Teachers:* [Julia Stewart Lowndes](https://openscapes.org/team.html) (Openscapes), Corey Clatterbuck (California Coastal Commission)
 
 -   [Cohort Webpage](https://github.com/Openscapes/2023-swrcb)
 
 In mid-August-mid-October 2023, the Water Boards cohort instructors and mentors will lead second Openscapes Champions Cohort at the Water Boards! 2023 Champions Cohort Teams include:
 
+-   Conservation Data Squad
 -   Data for Equity
 -   RegDev Web Wizards
 -   ReLEPtrons
 -   Waterbears
 -   Water Data Detectives
--   \[TBD\]
 
 See the timeline below for dates of mandatory 2023 Cohort activities.
 
