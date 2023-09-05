@@ -6,7 +6,7 @@ title: "2023 Water Boards Cohort"
 
 *Guest Teachers:* [Julia Stewart Lowndes](https://openscapes.org/team.html) (Openscapes), Corey Clatterbuck (California Coastal Commission)
 
--   [Cohort Webpage](https://github.com/Openscapes/2023-swrcb)
+-   Cohort GitHub [Webpage](https://openscapes.github.io/2023-swrcb/) \| [Repository](https://github.com/Openscapes/2023-swrcb)
 
 In mid-August-mid-October 2023, the Water Boards cohort instructors and mentors will lead second Openscapes Champions Cohort at the Water Boards! 2023 Champions Cohort Teams include:
 

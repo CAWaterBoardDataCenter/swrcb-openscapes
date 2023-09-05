@@ -8,7 +8,7 @@ title: "2022 Water Boards Cohort"
 
 *Guest Teachers:* [Julia Stewart Lowndes](https://openscapes.org/team.html) (Openscapes), Ileana Fenwick (UNC Chapel Hill)
 
--   [Cohort Webpage](https://openscapes.github.io/2022-swrcb/)
+-   Cohort GitHub [Webpage](https://openscapes.github.io/2022-swrcb/) \| [Repository](https://github.com/Openscapes/2022-swrcb)
 -   [Blog Post](https://www.openscapes.org/blog/2022/12/02/swrcb-2022/)
 
 In mid-August-mid-October 2022, the Water Boards cohort instructors and mentors led the first Openscapes Champions Cohort at the Water Boards. While cohorts are typically led by the Openscapes team, this was the first to be led by former Openscapes mentors and the first Champions Cohort at a US state government agency. Because we were piloting the program, only 3 teams participated in the process:
