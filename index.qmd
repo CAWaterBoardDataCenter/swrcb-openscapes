@@ -19,16 +19,3 @@ In recent years, the State Water Board has committed to a number of cultural and
 Starting in 2022, the Water Boards, in partnership with Openscapes, have been hosting annual Champions Cohorts and intend to use their [Openscapes Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf) to continue to scale the Champions Program throughout the organization.
 
 To stay informed of Openscapes activities, you can connect with them on Twitter [**\@openscapes**](https://twitter.com/openscapes) or join their [**newsletter**](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform).
-
-```{=html}
-<style>
-@media screen and (max-width: 1000px) {   .div1 { display: none; } }
-</style>
-```
-::: {.div1 style="float: center; width: 600px"}
-<a class="twitter-timeline" data-width="550" data-height="300" href="https://twitter.com/openscapes?ref_src=twsrc%5Etfw">Tweets by openscapes</a>
-
-```{=html}
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
-:::
