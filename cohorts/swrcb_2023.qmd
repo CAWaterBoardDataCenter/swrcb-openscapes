@@ -4,7 +4,7 @@ title: "2023 Water Boards Cohort"
 
 *Cohort Instruction Team:* Anna Holder (OIMA), Devan Burke (OIMA), Tina Ures (DWQ)
 
-*Guest Teachers:* [Julia Stewart Lowndes](https://openscapes.org/team.html) (Openscapes), Corey Clatterbuck (California Coastal Commission)
+*Guest Teachers:* [Julia Stewart Lowndes](https://openscapes.org/team.html) (Openscapes), Corey Clatterbuck (California Coastal Commission), [Emily Markowitz](https://www.fisheries.noaa.gov/contact/emily-markowitz) (NOAA Fisheries)
 
 -   Cohort GitHub [Webpage](https://openscapes.github.io/2023-swrcb/) \| [Repository](https://github.com/Openscapes/2023-swrcb)
 
