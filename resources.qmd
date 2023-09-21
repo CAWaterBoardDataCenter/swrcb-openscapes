@@ -36,3 +36,15 @@ All Water Boards authors are **bolded** below.
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [Strengthening Scientific Workflow and Team Collaboration at NOAA Fisheries](https://www.openscapes.org/blog/2021/11/12/noaa-nmfs-champions/). Nov 12, 2021. Eli Holmes, Eric Ward, Hélène Scalliet, **Corey Clatterbuck**, Julia Lowndes.
 
 Visit the Openscapes website to see all [Openscapes Blog Posts](https://www.openscapes.org/blog/)
+
+## Openscapes Literature
+
+Julia Stewart Lowndes, **Anna Holder**, Emily Markowitz, **Corey Clatterbuck**, Amanda L Bradford, Kathryn Doering, Molly H Stevens, Stefanie Butland , **Devan Burke**, Sean Kross, Jeffrey W Hollister, Christine Stawitz, Margaret Siple , Adyan Rios, Brianna Lind, Jessica Nicole Welch, Bai Li, Farnaz Nojavan, Alexandra Davis, Erin Steiner, Josh M London, Ileana Fenwick, Alexis Hunzinger, Juliette Verstaen, Elizabeth Holmes, Makhan Virdi, Andrew P Barrett, Aaron Friesz, Erin Robinson. 2023. [Shifting institutional culture to develop climate solutions with Open Science](https://doi.org/10.31223/X5VM24). EarthArXiv Preprint.
+
+Erin Robinson, Julia S. Stewart Lowndes. 2022. [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://doi.org/10.31223/X5CQ02). EarthArXiv Preprint.
+
+Julia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O'Hara, Ning Jiang & Benjamin S. Halpern. 2019. [Our path to better science in less time using open data science tools](https://nature.com/articles/s41559-017-0160). Nature Ecology and Evolution 1, 0160.
+
+Julia S. Stewart Lowndes. 2019. [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science). Scientific American.
+
+Julia S. Stewart Lowndes et al. 2019. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) Nature Career Column. 31 October 2019
