@@ -43,8 +43,8 @@ Julia Stewart Lowndes, **Anna Holder**, Emily Markowitz, **Corey Clatterbuck**, 
 
 Erin Robinson, Julia S. Stewart Lowndes. 2022. [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://doi.org/10.31223/X5CQ02). EarthArXiv Preprint.
 
-Julia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O'Hara, Ning Jiang & Benjamin S. Halpern. 2019. [Our path to better science in less time using open data science tools](https://nature.com/articles/s41559-017-0160). Nature Ecology and Evolution 1, 0160.
+Julia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O'Hara, Ning Jiang, Benjamin S. Halpern. 2019. [Our path to better science in less time using open data science tools](https://nature.com/articles/s41559-017-0160). Nature Ecology and Evolution 1, 0160.
 
 Julia S. Stewart Lowndes. 2019. [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science). Scientific American.
 
-Julia S. Stewart Lowndes et al. 2019. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) Nature Career Column. 31 October 2019
+Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen, Chelsea L. Wood. 2019. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) Nature Career Column. 31 October 2019
