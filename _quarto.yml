@@ -51,6 +51,7 @@ website:
           - cohorts/swrcb_2022.qmd
           - cohorts/swrcb_2023.qmd
           - cohorts/swrcb_2024S.qmd
+          - cohorts/swrcb_2024F.qmd
       - href: resources.qmd
         text: Resources
       - href: contact.qmd
