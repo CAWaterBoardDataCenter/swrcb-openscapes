@@ -1,5 +1,10 @@
 ---
 title: "Water Boards Champions Cohorts"
+format:
+  html:
+    code-block-bg: false
+  execute:
+    warning: false
 ---
 
 ## Champions Cohorts
@@ -31,9 +36,8 @@ The Water Boards Openscapes Team offered to present about this work and its futu
 
 ```` {#RDO Graph .r}
 ```{r}
+#| echo: false
 #| fig-cap: "Number of individual participants in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort."
-#| warning: false
-#| #| echo: false
 
 library(readr)
 library(tidyr)
