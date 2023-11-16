@@ -20,33 +20,73 @@ The Water Boards Openscapes Team offered to present about this work and its futu
 
 ### Past Cohort Summary
 
-|                                                                  | [2023 Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2023.html) | [2022 Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2022.html) |
-|-----------------------------------------|----------------|----------------|
-| Number of Teams                                                  | 6                                                                                                | 3                                                                                                |
-| Percent of RDOs Represented ( Number of RDOs )                   | 36% ( 8 )                                                                                        | 9% ( 2 )                                                                                         |
-| Number of Individuals = (Teams + Instructors + Mentors)          | 31                                                                                               | 19                                                                                               |
-| [**Water Boards Region, Division, or Office (RDO)**]{.underline} |                                                                                                  |                                                                                                  |
-| DAS = Division of Administrative Services                        |                                                                                                  |                                                                                                  |
-| DDW = Division of Drinking Water                                 | 8                                                                                                |                                                                                                  |
-| DFA = Division of Financial Assistance                           |                                                                                                  |                                                                                                  |
-| DIT = Division of Information Technology                         | 1                                                                                                |                                                                                                  |
-| DWQ = Division of Water Quality                                  | 7                                                                                                | 7                                                                                                |
-| DWR = Division of Water Rights                                   |                                                                                                  |                                                                                                  |
-| OCC = Office of Chief Counsel                                    |                                                                                                  |                                                                                                  |
-| OE = Office of Enforcement                                       | 1                                                                                                |                                                                                                  |
-| OIMA = Office of Information Management and Analysis             | 3                                                                                                | 12                                                                                               |
-| OLA = Office of Legislative Affairs                              |                                                                                                  |                                                                                                  |
-| OPA = Office of Public Affairs                                   |                                                                                                  |                                                                                                  |
-| OPP = Office of Public Participation                             | 1                                                                                                |                                                                                                  |
-| ORPP = Office of Research, Planning, and Performance             | 6                                                                                                |                                                                                                  |
-| Region 1 = North Coast Region                                    |                                                                                                  |                                                                                                  |
-| Region 2 = San Francisco Region                                  |                                                                                                  |                                                                                                  |
-| Region 3 = Central Coast Region                                  |                                                                                                  |                                                                                                  |
-| Region 4 = Los Angeles Region                                    |                                                                                                  |                                                                                                  |
-| Region 5 = Central Valley Region                                 | 5                                                                                                |                                                                                                  |
-| Region 6 = Lahontan Region                                       |                                                                                                  |                                                                                                  |
-| Region 7 = Colorado River Region                                 |                                                                                                  |                                                                                                  |
-| Region 8 = Santa Ana Region                                      |                                                                                                  |                                                                                                  |
-| Region 9 = San Diego Region                                      |                                                                                                  |                                                                                                  |
+|                                                                         | [2023 Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2023.html) | [2022 Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2022.html) |
+|--------------------------------------------------|-----------|-----------|
+| Number of Teams                                                         | 6                                                                                                | 3                                                                                                |
+| Percent Water Boards Regions, Divisions, or Offices (RDOs) Represented  | 36%                                                                                              | 9%                                                                                               |
+| Number of RDOs Represented                                              | 8                                                                                                | 2                                                                                                |
+| Number of Individuals (Teams + Instructors + Mentors)                   | 31                                                                                               | 19                                                                                               |
 
-: Summary of Water Boards Openscapes Cohorts by Region, Division, or Office (RDO)
+: Summary of Water Boards Openscapes Cohorts
+
+```` r
+---
+format: 
+  html:
+    code-fold: true
+---
+
+```{r}
+#| label: rdo
+#| fig-cap: "Number of individual participants in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort."
+#| warning: false
+
+library(readr)
+library(tidyr)
+library(ggplot2)
+library(viridis)
+
+
+rdo = read_csv("annual-rdo.csv")
+rdo_long <- gather(rdo, Cohort, Count, '2022':'2023')
+rdo_long$RDO <- factor(rdo_long$RDO, levels=rev(unique(rdo_long$RDO)))
+
+
+ggplot(rdo_long, aes(fill=Cohort, x=Count, y=RDO)) + 
+  geom_bar(position="stack", stat="identity") +
+  theme(legend.position = "top") +
+  xlab("Number of Individuals") + 
+  ylab("Water Boards Region, Division, or Office (RDO)") +
+  scale_fill_viridis(discrete = TRUE, option = "viridis")
+
+```
+````
+
+| Acronym or Abbreviation | Definition                                                                                             |
+|--------------------|---------------------------------------------------|
+| RDO                     | Water Boards Region, Division, or Office                                                               |
+| DAS                     | Division of Administrative Services                                                                    |
+| DDW                     | Division of Drinking Water                                                                             |
+| DFA                     | Division of Financial Assistance                                                                       |
+| DIT                     | Division of Information Technology                                                                     |
+| DWQ                     | Division of Water Quality                                                                              |
+| DWR                     | Division of Water Rights                                                                               |
+| OCC                     | Office of Chief Counsel                                                                                |
+| OE                      | Office of Enforcement                                                                                  |
+| OIMA                    | Office of Information Management and Analysis                                                          |
+| OLA                     | Office of Legislative Affairs                                                                          |
+| OPA                     | Office of Public Affairs                                                                               |
+| OPP                     | Office of Public Participation                                                                         |
+| ORPP                    | Office of Research, Planning, and Performance                                                          |
+| R1                      | Region 1 \-- North Coast Regional Water Quality Control Board                                          |
+| R2                      | Region 2 \-- San Francisco Regional Water Quality Control Board                                        |
+| R3                      | Region 3 \-- Central Coast Regional Water Quality Control Board                                        |
+| R4                      | Region 4 \-- Los Angeles Regional Water Quality Control Board                                          |
+| R5                      | Region 5 \-- Central Valley Regional Water Quality Control Board                                       |
+| R6                      | Region 6 \-- Lahontan Regional Water Quality Control Board                                             |
+| R7                      | Region 7 \-- Colorado River Regional Water Quality Control Board                                       |
+| R8                      | Region 8 \-- Santa Ana Regional Water Quality Control Board                                            |
+| R9                      | Region 9 \-- San Diego Regional Water Quality Control Board                                            |
+| Water Boards            | California State Water Resources Control Board and Regional Water Quality Control Boards, collectively |
+
+: Water Boards Region, Division, or Office Acronyms or Abbreviations and their definitions
