@@ -27,7 +27,7 @@ The Water Boards Openscapes Team offered to present about this work and its futu
 | Number of RDOs Represented                                             | 8                                                                                                | 2                                                                                                |
 | Number of Individuals (Teams + Instructors + Mentors)                  | 31                                                                                               | 19                                                                                               |
 
-![Number of individual participants in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort. See table below for RDO definitions.](images/annual-rdo.png)
+![Number of individual participants in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort. See RDO definitions below.](images/annual-rdo.png)
 
 | Acronym or Abbreviation | Definition                                                                                             |
 |---------------------|---------------------------------------------------|
