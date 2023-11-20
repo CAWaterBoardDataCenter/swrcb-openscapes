@@ -1,5 +1,3 @@
 # SWRCB Openscapes!
 
-swrcb-openscapes.github.io
-
-site in development
+Backend of the [Water Boards Openscapes Website](https://cawaterboarddatacenter.github.io/swrcb-openscapes/)
