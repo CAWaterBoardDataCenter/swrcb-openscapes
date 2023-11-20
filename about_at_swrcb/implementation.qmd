@@ -4,35 +4,35 @@ title: "Implementation Cycle"
 
 The successful implementation of the [Champions Program](https://www.openscapes.org/champions/) at the Water Boards requires intentional actions that balance our desire to rapidly diffuse the insights and benefits of the Openscapes Champions Program throughout the Water Boards and the reality of limited Program and implementation resources (e.g., staff time, funding). To maintain this balance, the Champions Program will be implemented through an annual cycle that will include five phases:
 
-1.  Internal Outreach and Education (Jan - Jun)
-2.  Cohort Application Period (Jun)
-3.  Pre-cohort Planning and Engagement (Jul - mid-Aug)
-4.  Cohort Process (mid-Aug - mid-Oct, with one follow-up meeting in Dec)
-5.  Reflection and Revision (Nov - Dec)
+1.  Internal Outreach and Education (\~2 months per cohort)
+2.  Cohort Application Period (\~2 months per cohort)
+3.  Pre-cohort Planning and Engagement (\~1 month per cohort)
+4.  Cohort Process (9 weeks per cohort + one follow-up 2-months after each cohort)
+5.  Reflection and Revision (\~1-2 months per cohort)
 
-![Openscapes at the Water Board will be implemented via 5 phases in an annual cycle](/images/implementation_cycle.png){fig-alt="Monthly Gantt chart of the Openscapes Annual Cycle, which consists of 5 phases. Internal outreach occurs in January-mid-June. The application period occurs in June. Planning and engagement occurs from mid-June to mid-August. The cohort process occurs from August-mid-October with a follow-up meeting in December. Reflection & revision occurs in November and December."}
+![Openscapes at the Water Board will be implemented via 5 phases in an annual cycle](/images/implementation_cycle_2024.png){fig-alt="Monthly Gantt chart of the Openscapes Annual Cycle, which consists of 5 phases. Internal outreach occurs in January-mid-June. The application period occurs in June. Planning and engagement occurs from mid-June to mid-August. The cohort process occurs from August-mid-October with a follow-up meeting in December. Reflection & revision occurs in November and December."}
 
 ## Internal Outreach and Education
 
-*January - June (6 months)*
+*\~2 months per cohort*
 
-The Openscapes Champions process and mindset is new to the Water Boards, and has only really been exposed to individuals and programs that have direct connection to the pilot efforts. During the first iteration of this Strategy in 2023, the Water Boards Openscapes Team will present about this work and its future in our organization to management, internal roundtables, and work groups.
+The Openscapes Champions process and mindset is new to the Water Boards, and has only really been exposed to individuals and programs that have direct connection to the pilot efforts. The Water Boards Openscapes Team will present about this work and its future in our organization to management, internal roundtables, and work groups.
 
 ## Cohort Application Period
 
-*June (1 month)*
+*\~2 months per cohort*
 
-In June, we will invite team leads to nominate their teams for the upcoming Water Boards Openscapes Cohort by completing a relatively simple application. The Microsoft Form Application will be used to gather team lead and team member contact information, get an understanding of the team's interest in and readiness to participate in the upcoming Water Boards Openscapes Cohort, confirmation that the team has approval to participate in the cohort, and confirmation that the team will commit to attending all pre-selected cohort call dates/times in mid-August through mid-October of that year.
+About 3 months before each cohort start date, we will invite team leads to nominate their teams for the upcoming Water Boards Openscapes Cohort by completing a relatively simple application; the application will remain open for about 2 months. The Microsoft Form Application will be used to gather team lead and team member contact information, get an understanding of the team's interest in and readiness to participate in the upcoming Water Boards Openscapes Cohort, confirmation that the team has approval to participate in the cohort, and confirmation that the team will commit to attending all pre-selected cohort call dates/times.
 
 While Openscapes works to level power structures within teams, at this stage, the applicants (frequently supervisors) are critical liaisons between the Openscapes instructors and their team members for scheduling and communication purposes. As a part of these application requirements, we expect applicants to introduce their team members to Openscapes in whatever way makes sense to them -- for example, by attending one of the Outreach and Education events, discussing Openscapes in a team meeting, and/or providing an introduction to Openscapes background and materials via email. We are looking for entire teams that are ready and excited to participate and will not be surprised by an invitation to join an Openscapes Cohort.
 
 ## Pre-cohort Planning and Engagement
 
-*July - mid-August (1.5 months)*
+*\~1 month per cohort*
 
-In July, the Water Boards Openscapes Team will review the team nominations and select the teams that will be invited to participate in the upcoming cohort. All applicants will be notified of whether they were selected for the upcoming cohort. For teams that are invited to participate in the upcoming cohort, the team applicant will have 1 week to confirm their participation. Once confirmed, the entire team will be emailed congratulating them on their selection for the incoming cohort and requesting them to book a short 1:1 Intro Call with the Cohort instructors so that team members and instructors can start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions.
+About 1 month before each cohort start date, the Water Boards Openscapes Team will review the team nominations and select the teams that will be invited to participate in the upcoming cohort. All applicants will be notified of whether they were selected for the upcoming cohort. For teams that are invited to participate in the upcoming cohort, the team applicant will have 1 week to confirm their participation. Once confirmed, the entire team will be emailed congratulating them on their selection for the incoming cohort and requesting them to book a short 1:1 Intro Call with the Cohort instructors so that team members and instructors can start getting to know each other, share more details about the Champions Program, learn about the team, how they work, their goals for the Cohort, and answer any questions.
 
-Approximately 1 month before the beginning of the Cohort, teams will be sent a welcome email that contains information about the upcoming cohort and how they can prepare, as well as calendar invitations to all upcoming Cohort Calls (mandatory), Co-working Sessions (optional), and a hold for the 2-month check-in post-cohort.
+Approximately 3-weeks before the beginning of the Cohort, teams will be sent a welcome email that contains information about the upcoming cohort and how they can prepare, as well as calendar invitations to all upcoming Cohort Calls (mandatory), Co-working Sessions (optional), and a hold for the 2-month check-in post-cohort.
 
 Approximately 1 week before the start of the Cohort, teams will be emailed a Cohort Call reminder and a few action items that individuals need to complete before the start of the Cohort.
 
@@ -45,7 +45,7 @@ During this phase, the Water Boards Openscapes Team will also:
 
 ## Cohort Process
 
-*Mid-August - mid-October (3 months)*
+*9 weeks per cohort + one follow-up 2-months after each cohort*
 
 Cohorts will be composed of:
 
@@ -53,9 +53,9 @@ Cohorts will be composed of:
 -   2 mentors, who will support calls and develop call digests (meeting summaries)
 -   3 to 6 teams of no more than 6 individuals per team
 
-Selected teams will participate as a Champions Cohort over the course of 2 months. During that time they will attend mandatory Cohort Calls and Seaside Chats, and may also attend optional Co-working Sessions.
+Selected teams will participate as a Champions Cohort over the course of 9 weeks. During that time they will attend mandatory Cohort Calls and Seaside Chats, and may also attend optional Co-working Sessions.
 
-![The Openscapes cohort process above shows the estimated weekly and overall time commitment each individual in the cohort will dedicate to Openscapes tasks.](/images/cohort_process.png){fig-alt="weekly Gantt chart visualization of the cohort process. One-on-one meetings are 30-minute team and instructor get-to-know-you calls which occur once in the first week of August. Cohort calls are 2-hour, Champions Program session with the whole cohort. They occur on every other week for 5 sessions starting in mid-August and ending in Mid-October. Seaside chats are 1-hour chats scheduled and lead by each team, which occur on alternating weeks from Cohort calls. Co-working sessions are optional, 1-hour remote co-working with the cohort occurring on alternating weeks from Cohort calls. The 2-month check-in is a 1-hour meeting in December when the cohort re-convenes to share and reflect team process. Individual reflection is 1 hour of optional, weekly time to think about process on your own. The weekly time commitment ranged from 1-3 hours each week of the cohort process. The minimum individual time commitment to cohort is 15.5 hours. Individuals who reflect and attend co-working may spend up to 28.5 hours."}
+![The Openscapes cohort process above shows the estimated weekly and overall time commitment each individual in the cohort will dedicate to Openscapes tasks.](/images/cohort_process_2024.png){fig-alt="weekly Gantt chart visualization of the cohort process. One-on-one meetings are 30-minute team and instructor get-to-know-you calls which occur once in the first week of August. Cohort calls are 2-hour, Champions Program session with the whole cohort. They occur on every other week for 5 sessions starting in mid-August and ending in Mid-October. Seaside chats are 1-hour chats scheduled and lead by each team, which occur on alternating weeks from Cohort calls. Co-working sessions are optional, 1-hour remote co-working with the cohort occurring on alternating weeks from Cohort calls. The 2-month check-in is a 1-hour meeting in December when the cohort re-convenes to share and reflect team process. Individual reflection is 1 hour of optional, weekly time to think about process on your own. The weekly time commitment ranged from 1-3 hours each week of the cohort process. The minimum individual time commitment to cohort is 15.5 hours. Individuals who reflect and attend co-working may spend up to 28.5 hours."}
 
 **Cohort Calls** are [mandatory 2-hour meetings]{.underline} where the bulk of content is delivered to all teams in the Cohort. The topics covered during lessons include: the Openscapes mindset, team culture, GitHub, as well as data, documentation and workflow strategies for "future us". Openscapes publishes the [lessons for each meeting](https://openscapes.github.io/series/). However, the Water Boards Openscapes Team has customized content and the order of topics in each Cohort Call to better serve the current Water Boards framework and needs. The specific content, activities, and discussions of each call is different but generally have the following core structure:
 
@@ -71,11 +71,11 @@ Selected teams will participate as a Champions Cohort over the course of 2 month
 
 It is also highly recommended that individuals allocate [approximately 1 hour per week]{.underline} to **individual reflection and work** related to the Openscapes process.
 
-The aggregate time participants will need to commit to the Cohort Process comes out to approximately 2-4 hours per week, depending on whether they take part in optional Co-working Sessions and how Cohort Calls and Seaside Chats fall on their calendars.
+The aggregate time participants will need to commit to the Cohort Process comes out to approximately 1-3 hours per week, depending on whether they take part in optional Co-working Sessions and how Cohort Calls and Seaside Chats fall on their calendars.
 
 ## Reflection and Revision
 
-*November - December (2 months)*
+*\~1-2 months per cohort*
 
 During or shortly after the last Cohort Call, individuals will be asked to complete a brief survey to provide formal feedback (anonymous or named) on their Openscapes Champions Program experience.
 
