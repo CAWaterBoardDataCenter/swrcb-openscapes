@@ -29,16 +29,16 @@ The Water Boards Openscapes Team offered to present about this work and its futu
 ### Water Boards Cohorts Summary
 
 |                                                                        | [2023 Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2023.html) | [2022 Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2022.html) |
-|----------------------------------------|----------------|----------------|
+|--------------------------------------|-----------------|-----------------|
 | Number of Teams                                                        | 6                                                                                                | 3                                                                                                |
 | Percent Water Boards Regions, Divisions, or Offices (RDOs) Represented | 36%                                                                                              | 9%                                                                                               |
 | Number of RDOs Represented                                             | 8                                                                                                | 2                                                                                                |
 | Number of Individuals (Teams + Instructors + Mentors)                  | 31                                                                                               | 19                                                                                               |
 
-![Number of individual participants in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort. See RDO definitions below.](images/annual-rdo.png)
+![Number of individual participants (Team Members = Left; Instructors and Mentors = Right) in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort. See RDO definitions below.](images/annual-rdo.png)
 
 | Acronym or Abbreviation | Definition                                                                                             |
-|----------------------|--------------------------------------------------|
+|-----------------------|-------------------------------------------------|
 | RDO                     | Water Boards Region, Division, or Office                                                               |
 | DAS                     | Division of Administrative Services                                                                    |
 | DDW                     | Division of Drinking Water                                                                             |
