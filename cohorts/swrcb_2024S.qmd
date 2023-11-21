@@ -2,6 +2,16 @@
 title: "2024 Water Boards Cohort (Spring)"
 ---
 
+::: callout-tip
+# Want to apply for our Spring 2024 Cohort?
+
+Check out:
+
+-   [Is my team ready for Openscapes?](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/team_guidance.html)
+-   [The Spring 2024 Cohort timeline](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024S.html)
+-   ***Water Boards teams will be able to apply for this opportunity from Jan 22 - Mar 1, 2024.***
+:::
+
 *Cohort Instruction Team:* Anna Holder (OIMA), Devan Burke (OIMA)
 
 *Cohort Mentors:* TBD

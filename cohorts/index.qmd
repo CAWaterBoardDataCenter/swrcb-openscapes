@@ -8,7 +8,7 @@ The Water Boards Openscapes Champions Program is a mentorship and professional d
 
 ### Current and Upcoming Cohorts
 
-[**2024 Spring Water Boards Cohort**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024S.html)**:** From late-March through late-May 2024, the Water Boards will host a Champions Cohort, which will include 6 teams of no more than 6 individuals per team.
+[**2024 Spring Water Boards Cohort**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024S.html)**:** From late-March through late-May 2024, the Water Boards will host a Champions Cohort, which will include up to 6 teams of no more than 6 individuals per team.
 
 ::: callout-tip
 # Want to apply for our Spring 2024 Cohort?
@@ -16,20 +16,20 @@ The Water Boards Openscapes Champions Program is a mentorship and professional d
 Check out:
 
 -   [Is my team ready for Openscapes?](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/team_guidance.html)
--   The Spring 2024 Cohort [timeline](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024S.html)
+-   [The Spring 2024 Cohort timeline](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024S.html)
 -   ***Water Boards teams will be able to apply for this opportunity from Jan 22 - Mar 1, 2024.***
 :::
 
 The Water Boards Openscapes Team offered to present about this work and its future in our organization to management, internal roundtables, and work groups, starting in Nov 2023 (see [presentation list](https://github.com/CAWaterBoardDataCenter/swrcb-openscapes/issues/15)). To request a presentation please email [Anna Holder](mailto:anna.holder@waterboards.ca.gov).
 
-[**2024 Fall Water Boards Cohort**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024F.html)**:** From mid-August through mid-October 2024, the Water Boards will host a Champions Cohort, which will include 6 teams of no more than 6 individuals per team.
+[**2024 Fall Water Boards Cohort**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024F.html)**:** From mid-August through mid-October 2024, the Water Boards will host a Champions Cohort, which will include up to 6 teams of no more than 6 individuals per team.
 
 ***Water Boards teams will be able to apply for this opportunity from Jan 22 - Mar 1, 2024 & May 1 - Jun 30, 2024.***
 
 ### Water Boards Cohorts Summary
 
 |                                                                        | [2023 Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2023.html) | [2022 Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2022.html) |
-|--------------------------------------|-----------------|-----------------|
+|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Number of Teams                                                        | 6                                                                                                | 3                                                                                                |
 | Percent Water Boards Regions, Divisions, or Offices (RDOs) Represented | 36%                                                                                              | 9%                                                                                               |
 | Number of RDOs Represented                                             | 8                                                                                                | 2                                                                                                |
@@ -38,7 +38,7 @@ The Water Boards Openscapes Team offered to present about this work and its futu
 ![Number of individual participants (Team Members = Left; Instructors and Mentors = Right) in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort. See RDO definitions below.](images/annual-rdo.png)
 
 | Acronym or Abbreviation | Definition                                                                                             |
-|-----------------------|-------------------------------------------------|
+|-------------------------|--------------------------------------------------------------------------------------------------------|
 | RDO                     | Water Boards Region, Division, or Office                                                               |
 | DAS                     | Division of Administrative Services                                                                    |
 | DDW                     | Division of Drinking Water                                                                             |
