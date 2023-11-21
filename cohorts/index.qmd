@@ -33,7 +33,7 @@ The Water Boards Openscapes Team offered to present about this work and its futu
 | Number of Teams                                                        | 6                                                                                                | 3                                                                                                |
 | Percent Water Boards Regions, Divisions, or Offices (RDOs) Represented | 36%                                                                                              | 9%                                                                                               |
 | Number of RDOs Represented                                             | 8                                                                                                | 2                                                                                                |
-| Number of Individuals (Teams + Instructors + Mentors)                  | 31                                                                                               | 19                                                                                               |
+| Number of Individuals (Team Members + Instructors + Mentors)           | 31                                                                                               | 19                                                                                               |
 
 ![Number of individual participants (Team Members = Left; Instructors and Mentors = Right) in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort. See RDO definitions below.](images/annual-rdo.png)
 
