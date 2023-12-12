@@ -15,7 +15,7 @@ Check out:
 
 The Openscapes Champions Program is a remote-by-design, cohort-based mentorship program that supports teams of up to 6 colleagues to re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities.
 
-Mentors are critical to the success of each cohort as they support with logistical and behind the scenes work required facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms).
+Mentors are critical to the success of each cohort as they support the logistical and behind the scenes work required facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms).
 
 *The best part of being a mentor* is that they get all of the exposure to Openscapes concepts, process, and larger community - without having to find additional time to meet with a team and complete the Pathway!
 
@@ -37,7 +37,6 @@ Characteristics of mentors that will get the most return on their investment int
 The time commitment for mentors is similar to participants, with a couple of extra assignments - and it comes out to:
 
 -   about a 1-3 hours per week during the main 9 week cohort
-
 -   with an additional 1-2 months of onboarding and training before the cohort (1 hour every other week).
 
 Mentor assignments Include:
