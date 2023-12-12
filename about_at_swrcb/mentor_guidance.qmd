@@ -1,0 +1,69 @@
+---
+title: "Am I ready to be an Openscapes Mentor?"
+---
+
+::: callout-tip
+# Want to be a mentor in 2024?
+
+Check out:
+
+-   Am I ready to be an Openscapes Mentor?
+-   2024 Cohort Timelines: [Spring](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024S.html) or [Fall](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024F.html)
+
+**If you are interested and able to become a mentor in 2024 - email [anna.holder\@waterboards.ca.gov](mailto:anna.holder@waterboards.ca.gov) by Jan 15, 2024*.***
+:::
+
+The Openscapes Champions Program is a remote-by-design, cohort-based mentorship program that supports teams of up to 6 colleagues to re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities.
+
+Mentors are critical to the success of each cohort as they support with logistical and behind the scenes work required facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms).
+
+*The best part of being a mentor* is that they get all of the exposure to Openscapes concepts, process, and larger community - without having to find additional time to meet with a team and complete the Pathway!
+
+## Mentor Requirements
+
+No preparation or skill set is required to be an Openscapes Mentor at the Water Boards - we'll onboard folks and teach them everything they need to know.
+
+Anyone across all Water Boards Regions, Divisions, or Offices, and job classifications can become an Openscapes Mentor.
+
+The [**ONLY requirement**]{.underline} is that mentors are given the approval and support they need from their management to dedicate the [**time required to actively support and engage in the Openscapes Process**]{.underline}.
+
+Characteristics of mentors that will get the most return on their investment into the Champions Program include:
+
+-   Individuals who are curious, interested in learning about Openscapes, and open to trying new things!
+-   Individuals who are interested in exploring the interconnected nature of open science and in taking time to reimagine data workflows and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative, inclusive, equitable, and kind teams and communities.
+
+## Mentor Time Commitment
+
+The time commitment for mentors is similar to participants, with a couple of extra assignments - and it comes out to:
+
+-   about a 1-3 hours per week during the main 9 week cohort
+
+-   with an additional 1-2 months of onboarding and training before the cohort (1 hour every other week).
+
+Mentor assignments Include:
+
++--------------------------------------+------------------+------------------------------------------------------------------+
+| **Activity**                         | **Time**         | **Frequency**                                                    |
++--------------------------------------+------------------+------------------------------------------------------------------+
+| Seaside Chats (pre-cohort)           | 1 hr/chat        | Every other week (starts 1-2 months before Cohort Calls)         |
+|                                      |                  |                                                                  |
+|                                      | 3 total          |                                                                  |
++--------------------------------------+------------------+------------------------------------------------------------------+
+| Cohort Calls                         | 2 hrs/call       | Every other week (alternating with Seaside chats)                |
+|                                      |                  |                                                                  |
+|                                      | 5 total          |                                                                  |
++--------------------------------------+------------------+------------------------------------------------------------------+
+| Cohort Digests                       | \~1.5 hrs/Digest | Every other week, a day or so after each Cohort Call             |
+|                                      |                  |                                                                  |
+|                                      | 4 total          |                                                                  |
++--------------------------------------+------------------+------------------------------------------------------------------+
+| Seaside Chats (during & post-cohort) | 1 hour/call      | Every other week (alternating with Cohort Calls & GitHub Clinic) |
+|                                      |                  |                                                                  |
+|                                      | 6 total          |                                                                  |
++--------------------------------------+------------------+------------------------------------------------------------------+
+| Co-working Sessions (optional)       | 1 hr/session     | Every other week (alternating with Cohort Calls & GitHub Clinic) |
+|                                      |                  |                                                                  |
+|                                      | 4 total          |                                                                  |
++--------------------------------------+------------------+------------------------------------------------------------------+
+
+For specific cohort timelines, see the [cohort process section](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/implementation.html#cohort-process) of the Implementation Cycle.
