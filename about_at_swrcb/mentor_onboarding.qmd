@@ -8,27 +8,71 @@ As you begin your Openscapes Mentor journey with the Water Boards - we want to b
 
 We have four Mentor Seaside Chats focused on onboarding and preparing you to support a Champions Cohort at the Water Boards. Here we detail the concepts, skills, and practices Mentors experienced and experimented with in each Mentor Seaside Chats.
 
-## Call 1 Openscapes mindset for mentors
+## Call 1 Intro to Openscapes at the Water Boards & Mindset for Mentors
 
-What does it mean to be a mentor? What does Open Science at NMFS mean?
+**What does it mean to be a mentor?**
 
--   **Speaking up/sharing about yourself for 4 minutes** - a challenge for some to take up that space, a challenge for others to limit to that space.
+Mentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms).
 
--   **Keeping on time** - as a speaker and as a timekeeper
+In addition to following the Openscapes Code of Conduct, we encourage and expect our mentors to: **ASK QUESTIONS!** You'll probably have a lot of questions as you settle in - please don't hesitate to ask questions as they come up!
 
--   **Listening: giving space/silence. Not jumping in** - get comfortable with discomfort
+**Contribute to the process!** You're new to the process now, but soon you will be as much an expert as the longer-term instructors. Please speak up, offer suggestions, and feel empowered to add to resources, content, and conversations when opportunities arise.
 
--   **Live contributing to collaborative google doc** - hear from more voices than we could only out loud, both time-wise and due to power structures
+**Practice active listening and asking powerful questions** - listen fully and deeply when other people are speaking and ask powerful questions to empower people to find their own solutions rather than suggesting ideas of what they should do
 
--   **Learned emoji shortcut** - not frivolous; a way to connect, side conversations and encouragement to build relationships
+**Remember that we're all learning and growing together & you don't have to be an expert to teach** You bring a unique lens, perspective, and lived experience to the program - and we encourage you to share that expertise when that feels comfortable for you
 
--   **Saw us adjusting time on the fly in the doc and verbally** - open facilitation
+**Say YES to Vulnerability; NO to Shame** Going through and supporting the Openscapes process can feel very vulnerable, and that's OK! Shaming yourself or others for any reason is not acceptable. What's important is that we all stay curious and embrace opportunities for learning and growth so that we can build trust in ourselves and each other.
 
-### Your tasks before next Call
+**Your responsibilities during each Mentors Seaside Chat** will be some combination of:
 
-1.  **Seaside Chat:** Organize 1 hour with mentors at your center/office (or other people from other centers/offices), to discuss how you could improve workflows with open science in your own work, your own center, or more broadly. You could also discuss these readings 
-2.  **Readings**: Read [Shifting institutional culture to develop climate solutions with Open Science](https://eartharxiv.org/repository/view/5948/) (2023 preprint) and [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/) (May 2023), both coauthored by NMFS Mentors, (and \<20 mins combined). 
-3.  **(optional) Attend** **Coworking**. We'll send a recurring calendar invite for the weeks between Mentors Calls, Tuesdays, 12:30 - 1:30 pm PT. ([find your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=NMFS+Openscapes+Mentors+Coworking&iso=20231024T1230&p1=1050&ah=1)). On Oct 24, Eli Holmes will report on PARR and the new 2022 memo and changes to our data workflows that are being proposed, and discuss how these changes will impact staff. (Eli is the NMFS Public Access of Research Results (PARR) representative on the NOAA PARR working group.)
+-   Support Instruction team in agenda review Review and prep slide decks
+
+-   Go through / practice "run of show" for upcoming cohort call
+
+-   Provide feedback, bring up sticking points, etc.
+
+**Your responsibilities during each Cohort Call** will be some combination of:
+
+-   Be present in the space: close your email; update MS Teams status to "do not disturb" Share support during cohort calls (+1, emojis, reactions, etc.)
+
+-   Role model the behaviors we want to see Speak up (give people permission to remind, correct)
+
+-   Support meeting logistics:
+
+    -   Monitor chat
+
+    -   Take notes in the shared doc
+
+    -   Manage breakout rooms
+
+    -   Manage and archive the meeting recording
+
+**Your responsibilities after each Cohort Call** will be some combination of:
+
+-   Draft the previous call's Digest
+
+-   Share the Digest with the Mentor team for review & feedback
+
+-   Post the Digest to Github and SWRCB Teams Channel
+
+**Your tasks before our next Mentors Seaside Chat**
+
+-   If you haven't already, please review:
+
+    -   [Openscapes Code of Conduct](https://openscapes.org/code-of-conduct)
+
+    -   [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about-openscapes.html)
+
+    -   Dec 2023 Openscapes Blog: [California Water Boards' 2nd Annual Openscapes Champions Program - Reflections & Future](https://openscapes.org/blog/2023-12-13-waterboards/)
+
+    -   Openscapes Champions Program: [openscapes.org/champions-program](https://openscapes.org/champions-program)
+
+-   Optional Readings (\<20 mins combined):
+
+    -   [Shifting institutional culture to develop climate solutions with Open Science](https://eartharxiv.org/repository/view/5948/) (2023 preprint)
+
+    -   [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/) (May 2023)
 
 ## Call 2 Developing strong open and collaborative Communities
 
