@@ -1,9 +1,7 @@
 ---
-title: "Mentor Call Skills"
-editor: 
-  markdown: 
-    wrap: 72
+title: "Mentor Onboarding"
 ---
+
 
 We have five Mentor Calls as a full community. Here we detail the skills
 and practices Mentors experienced and experimented with in each Call.
