@@ -96,35 +96,19 @@ The Water Boards Openscapes Instruction team uses multiple platforms to edit, sh
 
 -   Practice labeling your Issue in Github
 
-## Call 3 Experiential learning
+## Call 3 Intro to Mentorship in Practice
 
-We converged on open science challenges topics and people who want to work together and we learned about and practiced experiential learning.
+Mentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms). In this call, mentors will continue to learn by doing and practice experiential learning by:
 
--   **Pitching ideas** - to connect with colleagues
+-   Navigating between Google drive, OneDrive, and Github
 
--   **Listening** - listening to understand, avoiding solutioneering
+-   Drafting a cohort call digest using Call 1 and 2 agenda notes
 
--   **Asking powerful questions** - often begin with "what", "what else?", never yes/no
+-   Posting the digest as an issue and tagging users in
 
--   **Breaking down activities into teaching concepts** - identifying and letting go of extra topics
+-   Github Posting a digest in Water Boards Openscapes Team's chat and tagging users
 
--   **Do - Reflect - Apply** - approach to teaching
-
--   **Time constraints** - how constraints both for planning time and teaching time can help determine scope of an activity
-
-### Your tasks before next Call
-
-1.  **Seaside Chat:** Have and report-out from your small-group Seaside Chats, building from topics in the Fall 2023 Openscapes mentors sheet
-
-    a.  What help do you need to arrange these?
-    b.  Share your meeting time so others can join. Options: post to our Google Space, Mentors Calendar, or add to column H in the Fall 2023 Openscapes mentors sheet.
-    c.  Share your Seaside Chat report outs in the SeasideChats_ReportOuts \[ nmfs-openscapes-mentors \] doc.
-
-2.  **Open Science News**: Share your Open Science news in the [Open Science/Open Data Weekly Updates](https://docs.google.com/document/d/1FPei7lBc54VwzZK2qCT9cnrU8-ISZbtQuP2rkg3y3Nc/edit#heading=h.2uk93pxi4pkb) doc
-
-3.  **Readings**: [Tips and Tools for Gentle R Introductions](https://allisonhorst.github.io/qmss-r-teaching-tools/) (slides, by Allison Horst)
-
-4.  **Optional themed seaside chat - Nov 20, 1-2pm PT.** In between the full cohort calls, we will hold optional themed Seaside Chats open to any mentors. Mon, Nov 20 1-2pm PT, Julie and Eli will give an overview of the Openscapes Champions Program, our goals for the Feb-Mar 2024 NMFS Champions Cohorts and how this fits into the broader plan for NMFS Open Science.
+-   Facilitating breaking out rooms
 
 ## Call 4 Supporting teams to tackle workflow change through the Champions Program
 
