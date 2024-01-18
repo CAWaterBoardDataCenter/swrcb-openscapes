@@ -74,33 +74,27 @@ In addition to following the Openscapes Code of Conduct, we encourage and expect
 
     -   [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/) (May 2023)
 
-## Call 2 Developing strong open and collaborative Communities
+## Call 2 Intro to our Openscapes Process
 
-What skills can we develop to support each other? What are the elements of successful open communities? What NOAA & NMFS open science communities do we like to participate in?
+The Water Boards Openscapes Instruction team uses multiple platforms to edit, share, and save documents used for the Openscapes Cohort. Below is an overview of the platforms and their primary uses.
 
--   **Active listening and asking powerful questions** - coaching to empower people to find their own solutions rather than suggesting our ideas of what they should do
+-   **Google (Internal Access):** used for Instruction Team planning and preparing cohorts, agendas, digest and where we keep our running notes for our Cohort Prep
 
--   **Vulnerability, yes! Shame, no** - learning and building trust by getting curious with each other
+-   **OneDrive (Internal Access):** used for sharing/storing final copies with larger cohorts. Import of documents from Google \> OneDrive done by Openscapes Instructors
 
--   **Leveraging the experiences of a community** - Kathryn, Ady & Christine presenting
+-   **Github (Internal or External Access):** used for project management, issues, posting Openscapes Digest. Github settings can be edited to "Private" or Internal (code, data, etc. posted can only by those with access) or "Public" or External (code, data, etc. can be viewed and used by anyone).
 
--   **You don't have to be an expert to teach** - Christine screensharing an efficiency tip she just learned
+**Intro of GitHub and Best Practices:** Github is the main platform the Openscapes Instruction Team uses for project management and posting digests for the Cohort. It's important for Mentors to have some basic skills to navigate and post to GitHub. Some skills we will cover include:
 
--   **Sharing open resources for reuse** - slides for 12-minute, 5-minute, or 1-slide only presentations
+-   Setting up and logging into your GitHub Account
 
--   **Crowdsourcing resources** - a list of NOAA & NMFS communities we recommend
+-   What and where things are in GitHub!
 
--   **Making time for live clarification** - open facilitation 'til we all know the plan
+**Your tasks before our next Mentors Seaside:**
 
--   **Bringing attention to or sharing gratitude for a colleague** - coaching kudos and examples of raising people up
+-   Chat Practice creating an Issue in Github
 
-### Your tasks before next Call
-
-1.  **Seaside Chat:** Organize 1 hour with mentors at your center/office (or other people from other centers/offices), to discuss how you could improve workflows with open science in your own work, your own center, or more broadly. You could also discuss these readings
-    a.  Continue to add to 'seeking mentors for Seaside Chat' in the 'Fall 2023 Openscapes mentors cohort' sheet
-    b.  Share your Seaside Chat report outs in our doc
-2.  **Readings**: Read [19 reasons why technologists don't want to work at your government agency](https://ben.balter.com/2015/04/21/why-technologists-dont-want-to-work-at-your-agency/), Ben Balter
-3.  **Optional themed seaside chat.** In between the full cohort calls, Eli will hold optional Seaside Chats open to any mentors. We'll discuss Open Data and Open Science issues affecting NOAA Fisheries. Wed, Nov 8, Eli will give a brief update on what is happening at the NOAA level re Open Science. We've sent calendar invites.
+-   Practice labeling your Issue in Github
 
 ## Call 3 Experiential learning
 
