@@ -8,11 +8,9 @@ As you begin your Openscapes Mentor journey with the Water Boards - we want to b
 
 We have four Mentor Seaside Chats focused on onboarding and preparing you to support a Champions Cohort at the Water Boards. Here we detail the concepts, skills, and practices Mentors will experience and experiment with in each Mentor Seaside Chat.
 
-## Call 1 - Intro to Openscapes at the Water Boards & Mindset for Mentors
+## Call 1: Intro to Openscapes at the Water Boards & Mindset for Mentors
 
-**What does it mean to be a mentor?**
-
-Mentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms).
+**Mentor Mindset & Behaviors**
 
 We are all empowered and expected to practice the following behaviors:
 
@@ -25,6 +23,10 @@ We are all empowered and expected to practice the following behaviors:
     -   Powerful questions are usually open ended questions that begin with "what", and can never be answered with a simple yes or no.
 -   **We remember that we're all learning and growing together & we don't have to be an expert to teach** - We each bring our own unique lens, perspective, and lived experience to the program - and we encourage each other to share that expertise with others when opportunities arise.
 -   **We say YES to Vulnerability; NO to Shame** - We acknowledge that going through and supporting the Openscapes process can feel very vulnerable, and that's OK! We understand that shaming ourselves or others for any reason is not acceptable. What's important is that we all stay curious and embrace opportunities for learning and growth so that we can build trust in ourselves and each other.
+
+**Mentor Responsibilities**
+
+Mentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms).
 
 **Your responsibilities during each Mentors Seaside Chat** will be some combination of:
 
@@ -52,7 +54,7 @@ We are all empowered and expected to practice the following behaviors:
 
 If you haven't already, please read the [Openscapes Code of Conduct](https://openscapes.org/code-of-conduct)
 
-## Call 2 - Intro to our Process
+## Call 2: Intro to our Process
 
 The Water Boards Openscapes Instruction Team uses multiple platforms to communicate, edit, share, and save documents used for each Openscapes Cohort. Below is an overview of the platforms and their primary uses.
 
@@ -86,7 +88,7 @@ GitHub is the main platform the Openscapes Instruction Team uses for project man
 -   Overview of how we use GitHub for communicaion and coordination with Issues and Projects
 -   Where to find what you will need as a Mentor
 
-## Call 3 Intro to Mentorship in Practice
+## Call 3: Intro to Mentorship in Practice
 
 Mentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms). In this call, mentors will continue to learn by doing the following:
 
@@ -95,7 +97,7 @@ Mentors are critical to the success of each cohort as they support the logistica
 -   Review template Cohort Call Digests as well as associated development, review, and posting processes
 -   Practice using GitHub Issues
 
-## Call 4 Reflection and Run of show
+## Call 4: Reflection & Run of Show
 
 We will have time during this call to reflect and and review our practiced knowledge and skills we have been developing over the past three Mentor onboarding calls & go through a detailed run of show for our first Cohort Call by:
 
