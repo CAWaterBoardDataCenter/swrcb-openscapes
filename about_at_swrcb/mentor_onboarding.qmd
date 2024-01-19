@@ -2,122 +2,112 @@
 title: "Mentor Onboarding"
 ---
 
-Welcome Water Boards Mentors!
+# Welcome Water Boards Mentors!
 
 As you begin your Openscapes Mentor journey with the Water Boards - we want to be sure you have the resources you need to help you get started. Below is a non-comprehensive, but hopefully informative guide to onboarding as a mentor at the Water Boards. Please re-reference and contribute to revising this page throughout your time as a Water Boards Openscapes Mentor!
 
-We have four Mentor Seaside Chats focused on onboarding and preparing you to support a Champions Cohort at the Water Boards. Here we detail the concepts, skills, and practices Mentors experienced and experimented with in each Mentor Seaside Chats.
+We have four Mentor Seaside Chats focused on onboarding and preparing you to support a Champions Cohort at the Water Boards. Here we detail the concepts, skills, and practices Mentors will experience and experiment with in each Mentor Seaside Chat.
 
-## Call 1 Intro to Openscapes at the Water Boards & Mindset for Mentors
+## Call 1 - Intro to Openscapes at the Water Boards & Mindset for Mentors
 
 **What does it mean to be a mentor?**
 
 Mentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms).
 
-In addition to following the Openscapes Code of Conduct, we encourage and expect our mentors to:
+We are all empowered and expected to practice the following behaviors:
 
-**ASK QUESTIONS!** You'll probably have a lot of questions as you settle in - please don't hesitate to ask questions as they come up!
+-   **We are guards of this brave space** - As mentors and instructors we follow the [Openscapes Code of Conduct](https://openscapes.org/code-of-conduct). We do not tolerate any instances of hate, discrimination, or harassment from anyone participating in Openscapes at the Water Boards, including instructors, mentors, guest instructors, or participants. This applies to modes of interaction online including remote calls or meetings, teams chats and GitHub project repositories.
+-   **We ask questions** - As mentors and instructors, we don't have to know it all. Asking and learning together (even alongside participants) is welcome and encouraged. If a question has come up for you, it is probably on someone else's mind, too!
+-   **We are part of the process** - Our suggestions, resources, and conversations are a part of the process and deeply benefit our participants. If something comes to mind as we are learning together, we feel empowered speak up, offer suggestions, add to resources, content, and conversations when opportunities arise.
+-   **We practice active listening and asking powerful questions** - We listen fully and deeply when other people are speaking and ask powerful questions to empower others to find their own solutions rather than suggesting ideas of what they should do. We also understand that these are skills that are learned and require practice to be strengthened over time.
+    -   Active listening is a way of listening with the purpose of understanding the other persons perspective rather than to respond or provide solutions.
 
-**Contribute to the process!** You're new to the process now, but soon you will be as much an expert as the longer-term instructors. Please speak up, offer suggestions, and feel empowered to add to resources, content, and conversations when opportunities arise.
-
-**Practice active listening and asking powerful questions** - listen fully and deeply when other people are speaking and ask powerful questions to empower people to find their own solutions rather than suggesting ideas of what they should do
-
-**Remember that we're all learning and growing together & you don't have to be an expert to teach** You bring a unique lens, perspective, and lived experience to the program - and we encourage you to share that expertise when that feels comfortable for you
-
-**Say YES to Vulnerability; NO to Shame** Going through and supporting the Openscapes process can feel very vulnerable, and that's OK! Shaming yourself or others for any reason is not acceptable. What's important is that we all stay curious and embrace opportunities for learning and growth so that we can build trust in ourselves and each other.
+    -   Powerful questions are usually open ended questions that begin with "what", and can never be answered with a simple yes or no.
+-   **We remember that we're all learning and growing together & we don't have to be an expert to teach** - We each bring our own unique lens, perspective, and lived experience to the program - and we encourage each other to share that expertise with others when opportunities arise.
+-   **We say YES to Vulnerability; NO to Shame** - We acknowledge that going through and supporting the Openscapes process can feel very vulnerable, and that's OK! We understand that shaming ourselves or others for any reason is not acceptable. What's important is that we all stay curious and embrace opportunities for learning and growth so that we can build trust in ourselves and each other.
 
 **Your responsibilities during each Mentors Seaside Chat** will be some combination of:
 
--   Support Instruction team in agenda review Review and prep slide decks
-
--   Go through / practice "run of show" for upcoming cohort call
-
+-   Support Instruction team in agenda review and preparation of slide decks
+-   Go through / practice the "run of show" for upcoming cohort call(s)
 -   Provide feedback, bring up sticking points, etc.
 
 **Your responsibilities during each Cohort Call** will be some combination of:
 
--   Be present in the space: close your email; update MS Teams status to "do not disturb" Share support during cohort calls (+1, emojis, reactions, etc.)
-
--   Role model the behaviors we want to see Speak up (give people permission to remind, correct)
-
+-   Be present in the space: close your email; update your Teams status to "do not disturb"
 -   Support meeting logistics:
-
     -   Monitor chat
-
     -   Take notes in the shared doc
-
     -   Manage breakout rooms
-
     -   Manage and archive the meeting recording
+-   Share positive feedback or support (e.g., +1, emojis, reactions, etc.)
 
 **Your responsibilities after each Cohort Call** will be some combination of:
 
 -   Draft the previous call's Digest
-
 -   Share the Digest with the Mentor team for review & feedback
+-   Post the Digest to GitHub and Openscapes Teams Channel
 
--   Post the Digest to Github and SWRCB Teams Channel
+#### **Your task before our next Mentors Seaside Chat**
 
-**Your tasks before our next Mentors Seaside Chat**
+If you haven't already, please read the [Openscapes Code of Conduct](https://openscapes.org/code-of-conduct)
 
--   If you haven't already, please review:
+## Call 2 - Intro to our Process
 
-    -   [Openscapes Code of Conduct](https://openscapes.org/code-of-conduct)
+The Water Boards Openscapes Instruction Team uses multiple platforms to communicate, edit, share, and save documents used for each Openscapes Cohort. Below is an overview of the platforms and their primary uses.
 
-    -   [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about-openscapes.html)
+During this meeting we will grant and test your access to all platforms. Direct links will be provided in our shared Seaside Chat Notes Doc.
 
-    -   Dec 2023 Openscapes Blog: [California Water Boards' 2nd Annual Openscapes Champions Program - Reflections & Future](https://openscapes.org/blog/2023-12-13-waterboards/)
+*Storing and Sharing Materials*
 
-    -   Openscapes Champions Program: [openscapes.org/champions-program](https://openscapes.org/champions-program)
+-   **Google Drive (Internal & Select Extarnal Partner Access):** used for Instruction Team planning and preparing cohorts, agendas, digest and where we keep our running notes for our Cohort Prep
 
--   Optional Readings (\<20 mins combined):
+-   **OneDrive (Internal Access):** used for sharing/storing final meeting materials with individuals within each cohort. Once agendas and slides are finalized in Google, Openscapes Instructors (or Mentors) will save copies over to the OneDrive.
 
-    -   [Shifting institutional culture to develop climate solutions with Open Science](https://eartharxiv.org/repository/view/5948/) (2023 preprint)
+-   **GitHub (Internal or External Access):** used for project management, issues, posting Digest, and GitHub skill building with each cohort. GitHub access settings are set so that anyone can view our repositories, but only select individuals will be able to edit or add materials.
 
-    -   [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/) (May 2023)
+*Communication Norms*
 
-## Call 2 Intro to our Openscapes Process
+-   **Shared Seaside Chats Google Doc**: we will use a Google doc to keep track of our Seaside Chat agendas and notes. We will add to this document during meeting and possibly also asynchronously in between meetings.
+-   **Microsoft Teams Chat:** used for short/simple updates or conversations outside of meetings. This is our most frequent mode of asynchronous communications among mentors & the instruction team.
+-   **Outlook Email**: used for sharing more complex content, updates, or announcements
+-   **Outlook Calendar**: used to schedule all meetings
+    -   Required meetings: Cohort Calls, Mentor Seaside Chats
+    -   Optional meetings: Co-working
+-   **Microsoft Teams Meetings**: platform on which all meetings are held.
 
-The Water Boards Openscapes Instruction team uses multiple platforms to edit, share, and save documents used for the Openscapes Cohort. Below is an overview of the platforms and their primary uses.
+*Intro to GitHub and Best Practices*
 
--   **Google (Internal Access):** used for Instruction Team planning and preparing cohorts, agendas, digest and where we keep our running notes for our Cohort Prep
-
--   **OneDrive (Internal Access):** used for sharing/storing final copies with larger cohorts. Import of documents from Google \> OneDrive done by Openscapes Instructors
-
--   **Github (Internal or External Access):** used for project management, issues, posting Openscapes Digest. Github settings can be edited to "Private" or Internal (code, data, etc. posted can only by those with access) or "Public" or External (code, data, etc. can be viewed and used by anyone).
-
-**Intro of GitHub and Best Practices:** Github is the main platform the Openscapes Instruction Team uses for project management and posting digests for the Cohort. It's important for Mentors to have some basic skills to navigate and post to GitHub. Some skills we will cover include:
+GitHub is the main platform the Openscapes Instruction Team uses for project management and posting Digests for each Cohort. It's important for Mentors to have some basic skills to navigate and post to GitHub. Some skills we will cover include:
 
 -   Setting up and logging into your GitHub Account
-
--   What and where things are in GitHub!
-
-**Your tasks before our next Mentors Seaside:**
-
--   Chat Practice creating an Issue in Github
-
--   Practice labeling your Issue in Github
+    -   [Create your free personal account GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
+    -   [Tips on choosing your username](https://happygitwithr.com/github-acct.html#username-advice)
+-   Overview of how we use GitHub for communicaion and coordination with Issues and Projects
+-   Where to find what you will need as a Mentor
 
 ## Call 3 Intro to Mentorship in Practice
 
-Mentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms). In this call, mentors will continue to learn by doing and practice experiential learning by:
+Mentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms). In this call, mentors will continue to learn by doing the following:
 
--   Navigating between Google drive, OneDrive, and Github
-
--   Drafting a cohort call digest using Call 1 and 2 agenda notes
-
--   Posting the digest as an issue and tagging users in
-
--   Github Posting a digest in Water Boards Openscapes Team's chat and tagging users
-
--   Facilitating breaking out rooms
+-   Practice navigating between Google Drive, OneDrive, and GitHub
+-   Practice opening breaking out rooms, assigning attendees to rooms & sending announcements
+-   Review template Cohort Call Digests as well as associated development, review, and posting processes
+-   Practice using GitHub Issues
 
 ## Call 4 Reflection and Run of show
 
-We will have time during this call to reflect and and review our practiced knowledge and skills, go through a detailed run of show for our upcoming Cohort Call #1, and celebrate our Mentor's journeys so far!
+We will have time during this call to reflect and and review our practiced knowledge and skills we have been developing over the past three Mentor onboarding calls & go through a detailed run of show for our first Cohort Call by:
 
--   Getting closure on a shared experience - individual reflection to notice progress and set goals
+-   Q&A on all previous concepts
+-   Practice/test teams, breakouts, etc.
+-   Review Cohort Call 1 agenda and go through run of show.
 
--   Sharing challenges - in a space built on trust over time
+## Useful Links
 
--   Strategic organizing and planning
+-   [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about-openscapes.html)
+-   [California Water Boards' 2nd Annual Openscapes Champions Program - Reflections & Future](https://openscapes.org/blog/2023-12-13-waterboards/) (Dec 2023 Openscapes Blog)
+-   [Shifting institutional culture to develop climate solutions with Open Science](https://eartharxiv.org/repository/view/5948/) (Sep 2023 preprint)
+-   [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) (Lowndes et al 2017)
+    -   Optionally, you can also review the slides/video of a [2021 plenary at the SORTEE Conference](https://www.openscapes.org/blog/2021/08/01/sortee-plenary/)
+-   [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/) (May 2023)
