@@ -10,7 +10,7 @@ We have four Mentor Seaside Chats focused on onboarding and preparing you to sup
 
 ## Call 1: Intro to Openscapes at the Water Boards & Mindset for Mentors
 
-**Mentor Mindset & Behaviors**
+### **Mentor Mindset & Behaviors**
 
 We are all empowered and expected to practice the following behaviors:
 
@@ -24,7 +24,7 @@ We are all empowered and expected to practice the following behaviors:
 -   **We remember that we're all learning and growing together & we don't have to be an expert to teach** - We each bring our own unique lens, perspective, and lived experience to the program - and we encourage each other to share that expertise with others when opportunities arise.
 -   **We say YES to Vulnerability; NO to Shame** - We acknowledge that going through and supporting the Openscapes process can feel very vulnerable, and that's OK! We understand that shaming ourselves or others for any reason is not acceptable. What's important is that we all stay curious and embrace opportunities for learning and growth so that we can build trust in ourselves and each other.
 
-**Mentor Responsibilities**
+### **Mentor Responsibilities**
 
 Mentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms).
 
@@ -50,7 +50,7 @@ Mentors are critical to the success of each cohort as they support the logistica
 -   Share the Digest with the Mentor team for review & feedback
 -   Post the Digest to GitHub and Openscapes Teams Channel
 
-#### **Your task before our next Mentors Seaside Chat**
+### **Your task before our next Mentors Seaside Chat**
 
 If you haven't already, please read the [Openscapes Code of Conduct](https://openscapes.org/code-of-conduct)
 
@@ -60,7 +60,7 @@ The Water Boards Openscapes Instruction Team uses multiple platforms to communic
 
 During this meeting we will grant and test your access to all platforms. Direct links will be provided in our shared Seaside Chat Notes Doc.
 
-*Storing and Sharing Materials*
+### Storing and Sharing Materials
 
 -   **Google Drive (Internal & Select Extarnal Partner Access):** used for Instruction Team planning and preparing cohorts, agendas, digest and where we keep our running notes for our Cohort Prep
 
@@ -68,7 +68,7 @@ During this meeting we will grant and test your access to all platforms. Direct 
 
 -   **GitHub (Internal or External Access):** used for project management, issues, posting Digest, and GitHub skill building with each cohort. GitHub access settings are set so that anyone can view our repositories, but only select individuals will be able to edit or add materials.
 
-*Communication Norms*
+### Communication Norms
 
 -   **Shared Seaside Chats Google Doc**: we will use a Google doc to keep track of our Seaside Chat agendas and notes. We will add to this document during meeting and possibly also asynchronously in between meetings.
 -   **Microsoft Teams Chat:** used for short/simple updates or conversations outside of meetings. This is our most frequent mode of asynchronous communications among mentors & the instruction team.
@@ -78,7 +78,7 @@ During this meeting we will grant and test your access to all platforms. Direct 
     -   Optional meetings: Co-working
 -   **Microsoft Teams Meetings**: platform on which all meetings are held.
 
-*Intro to GitHub and Best Practices*
+### Intro to GitHub
 
 GitHub is the main platform the Openscapes Instruction Team uses for project management and posting Digests for each Cohort. It's important for Mentors to have some basic skills to navigate and post to GitHub. Some skills we will cover include:
 
