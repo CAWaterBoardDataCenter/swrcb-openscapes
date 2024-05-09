@@ -4,15 +4,16 @@ title: "2024 Water Boards Cohort (Spring)"
 
 *Cohort Instruction Team:* Anna Holder (OIMA), Devan Burke (OIMA)
 
-*Cohort Mentors:* Lisa Hunt (Region 2), Nick Martorano (OIMA), Michael Ben Ortiz (Office of Public Participation), Raj Rajen (Region 8), Dan Wang (Division of Drinking Water)
+*Cohort Mentors:* Lisa Hunt (Region 2), Nick Martorano (OIMA), Michael Ben Ortiz (Office of Public Participation), Dan Wang (Division of Drinking Water)
 
-*Guest Teachers:* TBD
+*Guest Teachers:* [Corey Clatterbuck](https://www.coreyclatterbuck.com/) (California Coastal Commission), [Julia Stewart Lowndes](https://openscapes.org/team.html) (Openscapes)
 
 -   Cohort GitHub [Webpage](https://openscapes.github.io/2024-swrcb-spring/) \| [Repository](https://github.com/Openscapes/2024-swrcb-spring)
 
 In late-March - late-May 2024, the Water Boards cohort instructors and mentors will lead the third Openscapes Champions Cohort at the Water Boards! Spring 2024 Champions Cohort Teams include:
 
 -   BloomWatchers
+-   Data Viz Team
 -   GOAT STORMS
 
 See the timeline below for dates of mandatory 2024 Cohort activities.
