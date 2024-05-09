@@ -13,8 +13,10 @@ Check out:
 -   [The Fall 2024 Cohort timeline](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024F.html)
 
 [**Apply Now!**](https://forms.office.com/Pages/ResponsePage.aspx?id=JWoY_kl95kGZQQXSKB02wdDrmhOKKfJEmnxc6Aq8nNxUQVhJMVlHSkszUkk4MzMyN0JMTEYyNkRLNi4u) **- application will close on June 30, 2024**
+:::
 
-# Want to be a mentor for our Fall 2024 Cohort?
+::: callout-tip
+## Want to be a mentor for our Fall 2024 Cohort?
 
 Check out:
 
