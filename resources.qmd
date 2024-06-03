@@ -47,9 +47,9 @@ Visit the Openscapes website to see all [Openscapes Blog Posts](https://www.open
 
 ## Openscapes Literature
 
-Julia Stewart Lowndes, **Anna Holder**, Emily Markowitz, **Corey Clatterbuck**, Amanda L Bradford, Kathryn Doering, Molly H Stevens, Stefanie Butland , **Devan Burke**, Sean Kross, Jeffrey W Hollister, Christine Stawitz, Margaret Siple , Adyan Rios, Brianna Lind, Jessica Nicole Welch, Bai Li, Farnaz Nojavan, Alexandra Davis, Erin Steiner, Josh M London, Ileana Fenwick, Alexis Hunzinger, Juliette Verstaen, Elizabeth Holmes, Makhan Virdi, Andrew P Barrett, Aaron Friesz, Erin Robinson. 2023. [Shifting institutional culture to develop climate solutions with Open Science](https://doi.org/10.31223/X5VM24). EarthArXiv Preprint.
+Julia Stewart Lowndes, **Anna M. Holder**, Emily H. Markowitz, **Corey Clatterbuck**, Amanda L. Bradford, Kathryn Doering, Molly H. Stevens, Stefanie Butland, **Devan Burke**, Sean Kross, Jeffrey W. Hollister, Christine Stawitz, Margaret C. Siple, Adyan Rios, Jessica Nicole Welch, Bai Li, Farnaz Nojavan, Alexandra Davis, Erin Steiner, Josh M. London, Ileana Fenwick, Alexis Hunzinger, Juliette Verstaen, Elizabeth Holmes, Makhan Virdi, Andrew P. Barrett, Erin Robinson. 2024. [Shifting institutional culture to develop climate solutions with Open Science](https://doi.org/10.1002/ece3.11341). *Ecology and Evolution*, 14, e11341.
 
-Erin Robinson, Julia S. Stewart Lowndes. 2022. [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://doi.org/10.31223/X5CQ02). EarthArXiv Preprint.
+Robinson, Julia S. Stewart Lowndes. 2022. [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://doi.org/10.31223/X5CQ02). EarthArXiv Preprint.
 
 Julia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O'Hara, Ning Jiang, Benjamin S. Halpern. 2019. [Our path to better science in less time using open data science tools](https://nature.com/articles/s41559-017-0160). Nature Ecology and Evolution 1, 0160.
 
