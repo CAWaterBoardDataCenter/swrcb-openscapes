@@ -16,6 +16,16 @@ In late-March - late-May 2024, the Water Boards cohort instructors and mentors w
 -   Data Viz Team
 -   GOAT STORMS
 
+::: {.callout-note icon="false"}
+## Participant quotes from the post-cohort survey
+
+"So grateful to get an invaluable experience like this so early in my career, I'll definitely bring these lessons (and this community!) with me no matter where I end up :)"
+
+"I imagine incorporating many of the concepts into work moving forward, slowing down to speed up, documenting our work process for future us, and creating safe space for ideas and growth."
+
+"The categories and topics \[in the Pathway\] were helpful to prompt our group's thinking. For example, we started out discussing data and then realized, wow team culture and communication is something we haven't thought about directly!"
+:::
+
 See the timeline below for dates of mandatory 2024 Cohort activities.
 
 ![2024 Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)](images/swrcb2024s-cohort-timeline.png){fig-alt="Timeline displaying milestones for the implementation of the Spring 2024 Water Boards Cohort: Nov DMC Presentation, Dec through Feb pre-cohort engagement, Mar 1 Application Deadline, Mar 12-19 1:1 meetings, Cohort calls on Mar 28, Apr 11, Apr 25, May 9, May 23, with seaside chats and co-working sessions scheduled on weeks alternate to Cohort calls, and the 2-month check-in scheduled for Jul 18"}
