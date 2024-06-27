@@ -17,6 +17,12 @@ In mid-August-mid-October 2023, the Water Boards cohort instructors and mentors 
 -   Waterbears
 -   Water Data Detectives
 
+::: {.callout-note icon="false"}
+## Participant quotes from the post-cohort survey
+
+Tina will insert quotes hereeeee!
+:::
+
 See the timeline below for dates of mandatory 2023 Cohort activities.
 
 ![2023 Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)](images/swrcb2023-cohort-timeline.png){fig-alt="Timeline displaying milestones for the implementation of the 2023 Water Boards Cohort: mid-Feb DMC Presentation, mid-Feb through Jul pre-cohort engagement, Aug 8-11 1:1 meetings , Cohort calls on Aug 16, Aug 30, Sep 13, Sep 27, Oct 11, with seaside chats and co-working sessions scheduled on weeks alternate to Cohort calls, and the 2-month check-in scheduled for Dec 6"}
