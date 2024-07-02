@@ -2,17 +2,6 @@
 title: "2024 Water Boards Cohort (Fall)"
 ---
 
-::: callout-tip
-## Want to apply for our Fall 2024 Cohort?
-
-Check out:
-
--   [Is my team ready for Openscapes?](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/team_guidance.html)
--   [The Fall 2024 Cohort timeline](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024F.html)
-
-[**Apply Now!**](https://forms.office.com/Pages/ResponsePage.aspx?id=JWoY_kl95kGZQQXSKB02wdDrmhOKKfJEmnxc6Aq8nNxUQVhJMVlHSkszUkk4MzMyN0JMTEYyNkRLNi4u) **- application will close on June 30, 2024**
-:::
-
 *Cohort Instruction Team:* Anna Holder (OIMA), Tina Ures (DWQ)
 
 *Cohort Mentors:* Madi Boynton (DWQ), Danielle Cantrell (DDW), TJ Middlemis-Clark (R6), michael ben Ortiz (OPP), Elena Suglia (OIMA), Val Zimmer (DWR)

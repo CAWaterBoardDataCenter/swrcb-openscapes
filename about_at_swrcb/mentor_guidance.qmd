@@ -2,17 +2,6 @@
 title: "Am I ready to be an Openscapes Mentor?"
 ---
 
-::: callout-tip
-# Want to be a mentor in 2024?
-
-Check out:
-
--   [Am I ready to be an Openscapes Mentor?](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/mentor_guidance.html)
--   [Fall 2024 Cohort Timeline](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024F.html)
-
-**If you are interested and able to become a mentor in Fall 2024 - email [anna.holder\@waterboards.ca.gov](mailto:anna.holder@waterboards.ca.gov)*.***
-:::
-
 The Openscapes Champions Program is a remote-by-design, cohort-based mentorship program that supports teams of up to 6 colleagues to re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities.
 
 Mentors are critical to the success of each cohort as they support the logistical and behind the scenes work required facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms).
