@@ -15,7 +15,7 @@ library(viridis)
 rdo = read.csv(here("cohorts/annual-rdo.csv"))
 
 # Convert from wide to long format
-rdo_long <- gather(rdo, Cohort, Count, 'X2022_F':'X2024_SIM')
+rdo_long <- gather(rdo, Cohort, Count, 'X2022_F':'X2024_FIM')
 
 # Convert RDO to a factor
 rdo_long$RDO <- factor(rdo_long$RDO, levels=rev(unique(rdo_long$RDO)))
@@ -40,7 +40,7 @@ ggplot(rdo_long, aes(fill=Cohort, x=Count, y=RDO)) +
   scale_fill_viridis(discrete = TRUE, option = "viridis") +
   facet_wrap(~factor(IndividualType, c("Team Members", "Instructors + Mentors")), 
              scales = "free") +
-  scale_x_continuous(breaks =c(0,2,4,6,8,10,12,14))
+  scale_x_continuous(n.breaks=6)
 
 # Save the plot
 ggsave(path = "cohorts/images", filename = "annual-rdo.png",
