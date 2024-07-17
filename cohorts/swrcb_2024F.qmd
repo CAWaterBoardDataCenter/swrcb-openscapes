@@ -8,7 +8,7 @@ title: "2024 Water Boards Cohort (Fall)"
 
 *Guest Teachers:* [Stefanie Butland](https://openscapes.org/team.html) (Openscapes), [Corey Clatterbuck](https://www.coreyclatterbuck.com/) (California Coastal Commission)
 
--   Cohort GitHub [Webpage](https://openscapes.github.io/2024f-swrcb/) \| [Repository](https://github.com/Openscapes/2024f-swrcb)
+-   Cohort GitHub [Webpage](https://openscapes.github.io/2024-swrcb-fall/) \| [Repository](https://github.com/Openscapes/2024-swrcb-fall)
 
 In mid-August - mid-October 2024, the Water Boards cohort instructors and mentors will lead the fourth Openscapes Champions Cohort at the Water Boards! Fall 2024 Champions Cohort Teams include:
 
