@@ -15,7 +15,7 @@ All Water Boards authors are **bolded** below.
 
 ![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg){height="20"} [Water Boards Openscapes Program Update & Opportunities](https://drive.google.com/file/d/12wGoY7xymKbDvjve1lcNRXkxMx_IyHWD/view?usp=sharing). May-Jun 2024. **Anna Holder**, **Devan Burke**, **Tina Ures**. Internal Division and Roundtable Presentations.
 
-![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg){height="20"} [Openscapes: Better science for future us](https://youtu.be/aWd6ya6693A). Mar 2024. **Anna Holder**, **Devan Burke**, Julia Lowndes. California Water Data Consortium [March 2024 Data for Lunch Series](https://cawaterdata.org/events/california-water-data-consortium-march-2024-data-for-lunch/).
+![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg){height="20"} [Openscapes: Better science for future us](https://youtu.be/aWd6ya6693A). Mar 2024. **Anna Holder**, **Devan Burke**, Julia Lowndes. [California Water Data Consortium Data for Lunch Series](https://cawaterdata.org/events/california-water-data-consortium-march-2024-data-for-lunch/).
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [Water Boards Openscapes Program Update & Opportunities](https://drive.google.com/file/d/1lXeUMr0G3nsl722OGAMrpznBahX7gfxZ/view?usp=sharing). Dec 2023. **Anna Holder**, **Devan Burke**, **Tina Ures**. Internal Division of Water Quality (DWQ) All Staff Presentation.
 
@@ -25,9 +25,9 @@ All Water Boards authors are **bolded** below.
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [Openscapes Opportunities at the California Water Boards](https://drive.google.com/file/d/15pRC4ZwN_9jD_07-MLM5rqh8FMipsW1H/view?usp=share_link). Feb 2023. **Anna Holder**, **Corey Clatterbuck**, **Devan Burke**, **Tina Ures**. Internal Deputy Management Committee (DMC) Presentation.
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Better Science for Future Us: Openscapes stories and approaches for the Year of Open Science](https://2023januaryesipmeeting.sched.com/event/1EwXx). Jan 2023. Julia Lowndes, Erin Robinson, Ileana Fenwick, Adyan Rios, Josh London, **Corey Clatterbuck**, Luis Lopez, Cassandra Nickles. Earth Science Information Partners (ESIP) Meeting.
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Better Science for Future Us: Openscapes stories and approaches for the Year of Open Science](https://youtu.be/1IWFIyPzsKY). Jan 2023. Julia Lowndes, Erin Robinson, Ileana Fenwick, Adyan Rios, Josh London, **Corey Clatterbuck**, Luis Lopez, Cassandra Nickles. [Earth Science Information Partners (ESIP) Meeting](https://2023januaryesipmeeting.sched.com/event/1EwXx).
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Better Science for Future Us: Planning for the Year of Open Science](https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science). Jan 2022. Julia Lowndes, Erin Robinson, Aaron Friesz, Ileana Fenwick, Amy Steiker, Eli Holmes, **Anna Holder**. Earth Science Information Partners (ESIP) Meeting.
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Better Science for Future Us: Planning for the Year of Open Science](https://youtu.be/hbFAkhNRpJw). Jan 2022. Julia Lowndes, Erin Robinson, Aaron Friesz, Ileana Fenwick, Amy Steiker, Eli Holmes, **Anna Holder**. [Earth Science Information Partners (ESIP) Meeting](https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science).
 
 ## Blog Posts
 
