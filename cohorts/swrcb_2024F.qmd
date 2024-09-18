@@ -6,13 +6,12 @@ title: "2024 Water Boards Cohort (Fall)"
 
 *Cohort Mentors:* Madi Boynton (DWQ), Danielle Cantrell (DDW), TJ Middlemis-Clark (R6), michael ben Ortiz (OPP), Elena Suglia (OIMA), Val Zimmer (DWR)
 
-*Guest Teachers:* [Stefanie Butland](https://openscapes.org/team.html) (Openscapes), [Corey Clatterbuck](https://www.coreyclatterbuck.com/) (California Coastal Commission), Alena Reynolds (Skokomish Tribe DNR; Tribal Exchange Network)
+*Guest Teachers:* [Stefanie Butland](https://openscapes.org/team.html) (Openscapes), [Corey Clatterbuck](https://www.coreyclatterbuck.com/) (California Coastal Commission), Alena Reynolds (Skokomish Tribe DNR; [Tribal Exchange Network](https://www.tribalexchangenetwork.org/))
 
 -   Cohort GitHub [Webpage](https://openscapes.github.io/2024-swrcb-fall/) \| [Repository](https://github.com/Openscapes/2024-swrcb-fall)
 
 In mid-August - mid-October 2024, the Water Boards cohort instructors and mentors will lead the fourth Openscapes Champions Cohort at the Water Boards! Fall 2024 Champions Cohort Teams include:
 
--   Unleaded
 -   UST Evaluation Team
 -   WaTR (Water Telemetry Research)
 
