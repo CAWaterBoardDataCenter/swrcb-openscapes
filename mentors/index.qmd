@@ -1,0 +1,19 @@
+---
+title: "Water Boards Mentors Community"
+format: html
+---
+
+The Water Boards Openscapes Mentor Community connects and supports local Open Science leaders to promote a data-driven culture through the adoption of open science tools and strategies. Together we develop leadership and coaching skills to help mentors become better local leaders and to support their Open Science goals for the coming year.
+
+In addition, the Openscapes Mentors are connected with a broader network of others with similar goals and with the Openscapes Mentors at other government agencies, non-profits, and academia.
+
+We help the Mentor Community to help mentors carve out time in part through open communication of goals and impacts, and through
+\[TODO bi-weekly coworking sessions\] for the mentor group, so that they have
+decicated times each month set aside to work on their goals together.
+The mentors are also local representatives for aligned efforts like the \[TODO Racial Equity Subcommittee, the Water Quality Division, etc\]. The
+mentors help design and promote the Openscapes Champions cohorts when we lead them, spearhead communication with with their local leadership, act as a point-person for interested local staff, help identify local needs, and
+help communicate, or potentially organize, teaching resources for their
+local staff.
+
+The mentor group is modeled after the [Openscapes Mentors Framework](https://openscapes.github.io/approach-guide/mentors-framework), for sustainably scaling technical and social skill-building through helping people find what is common and working on it together. An overview of how Openscapes built the Mentors Framework with NASA Earthdata
+staff across a dozen data centers is detailed in our preprint: [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://eartharxiv.org/repository/view/4560/) (Robinson & Lowndes 2022).
