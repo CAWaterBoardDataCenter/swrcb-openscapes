@@ -16,6 +16,14 @@ In recent years, the State Water Board has committed to a number of cultural and
 
 [Openscapes](https://www.openscapes.org/) champions open science practices in environmental science to help uncover data-driven solutions faster. By introducing teams to open science tools specifically created to meet modern demands for collaborative data science, Openscapes creates the space for teams to invest in a positive open culture that enables better science in less time.
 
-Starting in 2022, the Water Boards, in partnership with Openscapes, have been hosting annual Champions Cohorts and intend to use their [Openscapes Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf) to continue to scale the Champions Program throughout the organization.
+Since in 2022, the Water Boards, in partnership with Openscapes, have been hosting annual Champions Cohorts and intend to use their [Openscapes Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf) to continue to scale the Champions Program throughout the organization.
 
-To stay informed of Openscapes activities, you can connect with them on Twitter [**\@openscapes**](https://twitter.com/openscapes) or join their [**newsletter**](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform).
+::: callout-important
+# We're Pausing Champions Cohorts in 2025 so we can grow our Mentor Community at the Water Boards
+
+Although Champions Cohorts at the Water Boards will be paused in 2025, Openscapes at the Water Boards continues!
+
+The Water Boards Openscapes Instruction Team and Executive Sponsors are dedicating 2025 to building documentation related to Openscapes at the Water Boards, and will be investing time and resources towards supporting and (hopefully!) growing the Mentor Community at the Water Boards so that in 2026 we can begin to scale the Champions Program and broader Openscapes community at the Water Boards and beyond!
+:::
+
+To stay informed of Openscapes activities, you can connect with them on Mastodon [\@openscapes](https://fosstodon.org/@openscapes) or join their [newsletter](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform)
