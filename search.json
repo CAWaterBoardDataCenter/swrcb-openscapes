@@ -201,6 +201,36 @@
     ]
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Water Boards Openscapes Instruction Team\n\nAnna Holder, Environmental Scientist, OIMA\nDevan Burke, Associate Governmental Program Analyst, OIMA\nTina Ures, Engineering Geologist, DWQ\n\nExecutive Sponsors\n\nGreg Gearheart, Deputy Director, OIMA\nAndrew Hamilton, Assistant Deputy Director, OIMA\nAnnalisa Kihara, Assistant Deputy Director, DWQ",
+    "crumbs": [
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "about-openscapes.html",
+    "href": "about-openscapes.html",
+    "title": "Openscapes",
+    "section": "",
+    "text": "Openscapes champions open, inclusive practices in environmental and Earth science to help uncover data-intensive solutions faster. They do this through their flagship Champions mentorship program, as well as through community organizing, training, and coaching, leveraging existing resources from open communities along with their own.\nTheir flywheel shows their approach to engaging, empowering, and amplifying science and research communities in open data science — how they describe kinder, better science in less time.",
+    "crumbs": [
+      "About Openscapes"
+    ]
+  },
+  {
+    "objectID": "about-openscapes.html#learn-more-about-openscapes",
+    "href": "about-openscapes.html#learn-more-about-openscapes",
+    "title": "Openscapes",
+    "section": "Learn more about Openscapes",
+    "text": "Learn more about Openscapes\n\nOpenscapes story\nOpenscapes approach\nOpenscapes Media and publications",
+    "crumbs": [
+      "About Openscapes"
+    ]
+  },
+  {
     "objectID": "impacts.html",
     "href": "impacts.html",
     "title": "Impacts",
@@ -231,33 +261,13 @@
     ]
   },
   {
-    "objectID": "about-openscapes.html",
-    "href": "about-openscapes.html",
-    "title": "Openscapes",
+    "objectID": "toolkit.html",
+    "href": "toolkit.html",
+    "title": "toolkit",
     "section": "",
-    "text": "Openscapes champions open, inclusive practices in environmental and Earth science to help uncover data-intensive solutions faster. They do this through their flagship Champions mentorship program, as well as through community organizing, training, and coaching, leveraging existing resources from open communities along with their own.\nTheir flywheel shows their approach to engaging, empowering, and amplifying science and research communities in open data science — how they describe kinder, better science in less time.",
+    "text": "This page is under construction, but will soon be populated with lots of forkable resources for Openscapes implementers!",
     "crumbs": [
-      "About Openscapes"
-    ]
-  },
-  {
-    "objectID": "about-openscapes.html#learn-more-about-openscapes",
-    "href": "about-openscapes.html#learn-more-about-openscapes",
-    "title": "Openscapes",
-    "section": "Learn more about Openscapes",
-    "text": "Learn more about Openscapes\n\nOpenscapes story\nOpenscapes approach\nOpenscapes Media and publications",
-    "crumbs": [
-      "About Openscapes"
-    ]
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Water Boards Openscapes Instruction Team\n\nAnna Holder, Environmental Scientist, OIMA\nDevan Burke, Associate Governmental Program Analyst, OIMA\nTina Ures, Engineering Geologist, DWQ\n\nExecutive Sponsors\n\nGreg Gearheart, Deputy Director, OIMA\nAndrew Hamilton, Assistant Deputy Director, OIMA\nAnnalisa Kihara, Assistant Deputy Director, DWQ",
-    "crumbs": [
-      "Contact"
+      "Toolkit"
     ]
   },
   {
