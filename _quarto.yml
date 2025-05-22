@@ -43,8 +43,11 @@ website:
         contents:
           - about_at_swrcb/implementation.qmd
           - about_at_swrcb/team_guidance.qmd
-          - about_at_swrcb/mentor_guidance.qmd
-          - about_at_swrcb/mentor_onboarding.qmd
+      - section: mentors/index.qmd
+        text: Mentors Community
+        contents:
+          - mentors/mentor_guidance.qmd
+          - mentors/mentor_onboarding.qmd
       - href: impacts.qmd
         text: Impacts
       - href: toolkit.qmd
