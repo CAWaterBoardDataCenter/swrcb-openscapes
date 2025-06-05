@@ -51,10 +51,11 @@ Lowndes 2022).
 
 ## Mentors:
 
-### [**2024 Spring Mentors**](https://github.com/Openscapes/2024-swrcb-spring)
+-   [2024 Spring
+    Mentors](https://github.com/Openscapes/2024-swrcb-spring)
 
-### [2024 Fall Mentors](https://github.com/Openscapes/2024-swrcb-fall)
+-   [2024 Fall Mentors](https://github.com/Openscapes/2024-swrcb-fall)
 
-### [2023 Mentors](https://github.com/Openscapes/2023-swrcb)
+-   [2023 Mentors](https://github.com/Openscapes/2023-swrcb)
 
-### [2022 Mentors](https://github.com/Openscapes/2022-swrcb)
+-   [2022 Mentors](https://github.com/Openscapes/2022-swrcb)
