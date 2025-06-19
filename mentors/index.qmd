@@ -23,7 +23,7 @@ scale inclusive Open science
 practices](https://eartharxiv.org/repository/view/4560/) (Robinson &
 Lowndes 2022).
 
-## Benefits of being a Mentor: 
+## Benefits of being a Mentor
 
 We support the Mentor Community to help mentors carve out time in part
 through open communication of goals and impacts, and through coworking
@@ -44,9 +44,11 @@ Additionally, Openscapes Mentors are connected with a broad network of
 others with similar goals and with the Openscapes Mentors at other
 government agencies, non-profits, and academia.
 
-## How to Engage in the Mentor Community:
+## How to Engage in the Mentor Community
 
-## Water Boards Co-Leads:
+\[to be added\]
+
+## Water Boards Co-Leads
 
 -   Anna Holder, Senior Environmental Scientist
 
@@ -56,7 +58,7 @@ government agencies, non-profits, and academia.
 
 -   Tina Ures, Engineering Geologist
 
-## Mentors:
+## Mentors
 
 -   [2024 Spring
     Mentors](https://github.com/Openscapes/2024-swrcb-spring)
