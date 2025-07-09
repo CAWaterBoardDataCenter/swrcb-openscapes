@@ -25,24 +25,26 @@ Lowndes 2022).
 
 ## Benefits of being a Mentor
 
-We support the Mentor Community to help mentors carve out time in part
-through open communication of goals and impacts, and through coworking
-sessions for the mentor group, so that they have dedicated times each
-month set aside to work on their goals together. The mentors are also
-local representatives for aligned efforts like the \[TODO Racial Equity
-Subcommittee, the Water Quality Division, etc\]. The mentors can help
-design and promote the Openscapes Champions cohorts, spearhead
-communication with with their local leadership, act as a point-person
-for interested local staff, help identify local needs, and help
-communicate, or potentially organize, teaching resources for their local
-staff. While acting as an Openscapes Mentor, folks will also have the
-opportunity to practice and develop critical skills such as,
-facilitation, networking, and working with platforms such as GitHub and
-RStudio.
+We support the Mentor Community by helping mentors prioritize time for
+their work through open communication of goals and impacts, and by
+hosting regular coworking sessions. These dedicated sessions provide
+monthly opportunities for mentors to collaborate and make progress on
+shared objectives.
 
-Additionally, Openscapes Mentors are connected with a broad network of
-others with similar goals and with the Openscapes Mentors at other
-government agencies, non-profits, and academia.
+Mentors also serve as local representatives for aligned efforts such as
+the \[TODO Racial Equity Subcommittee, the Water Quality Division,
+etc.\]. In this role, mentors can help design and promote Openscapes
+Champions cohorts, lead communication with local leadership, serve as a
+point of contact for interested staff, identify local needs, and support
+or coordinate teaching resources for their communities.
+
+As Openscapes Mentors, individuals also have the opportunity to grow key
+skills—including facilitation, networking, and the use of collaborative
+platforms like GitHub and RStudio.
+
+Additionally, Openscapes Mentors are part of a broader network of peers
+with shared goals, including mentors at other government agencies,
+non-profits, and academic institutions.
 
 ## How to Engage in the Mentor Community
 
