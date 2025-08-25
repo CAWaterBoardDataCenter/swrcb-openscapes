@@ -6,67 +6,244 @@ editor:
     wrap: 72
 ---
 
-The Water Boards Openscapes Mentor Community connects and supports local
-Open Science leaders to promote a data-driven culture through the
-adoption of open science tools and strategies. Together we develop
-leadership and coaching skills to help mentors become better local
-leaders and to support their Open Science goals for the coming year.
+The Water Boards Openscapes Mentor Community connects and supports Water
+Boards staff within the Openscapes Community to promote a kinder,
+data-driven culture through the adoption of open science tools and
+strategies. Together we develop leadership and coaching skills to help
+mentors become better local leaders and to support their open science
+and Openscapes goals.
 
-The mentor group is modeled after the [Openscapes Mentors
+## Mentor Framework 
+
+The mentor framework and community at the Water Boards is modeled after
+the [Openscapes Mentors
 Framework](https://openscapes.github.io/approach-guide/mentors-framework),
-for sustainably scaling technical and social skill-building through
-helping people find what is common and working on it together. An
-overview of how Openscapes built the Mentors Framework with NASA
-Earthdata staff across a dozen data centers is detailed in our preprint:
-[The Openscapes Flywheel: A framework for managers to facilitate and
-scale inclusive Open science
+and lessons learned from Openscapes mentor communities at NOAA Fisheries
+and NASA. An overview of how Openscapes built the Mentors Framework with
+NASA Earthdata staff across a dozen data centers is detailed in our
+preprint: [The Openscapes Flywheel: A framework for managers to
+facilitate and scale inclusive Open science
 practices](https://eartharxiv.org/repository/view/4560/) (Robinson &
 Lowndes 2022).
 
+Anyone across all Water Boards Regions, Divisions, or Offices, and job
+classifications can become an Openscapes Mentor and participate in the
+Mentor Community at the Water Boards as a [Community
+Mentor](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/mentor_guidance.html#community-mentors)
+(main participation Jan - May), and/or as a [Cohort
+Mentor](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/mentor_guidance.html#cohort-mentors)
+(main participation Jun - Dec).
+
+### Expectations 
+
+No preparation or skill set is required to be an Openscapes Mentor at
+the Water Boards - we’ll onboard folks and teach them everything they
+need to know.
+
+The time commitment expectations associated with each of mentor roles
+(i.e., Community vs. Cohort mentor) varies and is described in more
+detail on the [Am I ready to be an Openscapes
+Mentor?](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/mentor_guidance.html)
+page.
+
+### Activities
+
+The opportunity to participate as an Openscapes Mentor at the Water
+Boards is open year round, and includes a cycle of activities:
+
+-   **Jan - May**: Activities are focused on the needs of the mentor
+    community and preparing for Champions Cohorts later in the year.
+    Specific activities include:
+
+    -   **Attending mentor co-working sessions**: these sessions are
+        opportunities for networking across the organization and
+        provides dedicated time for mentors to make steady progress on
+        their Openscapes and/or open science goals and to support their
+        learning journey.
+
+    -   **Promotion of Champions Cohorts**: mentors are also able to
+        support the design, advertising, and preparation for Champions
+        Cohorts later in the year. This could include spearheading
+        communication with with their local leadership, acting as a
+        point-person for interested local colleagues, helping to
+        identify local needs, and supporting or leading communication
+        and educational resources for their local colleagues. 
+
+    -   **Engage with the wider Openscapes and open science community**:
+        mentors can use this time to network and engage with the
+        Openscapes community outside of the Water Boards, depending on
+        their interests. For example, joining and participating in the
+        broader Openscapes Slack and/or attending [Openscapes
+        Events](https://openscapes.org/events).
+
+-   **Jun - Dec**: Activities are focused on delivering Champions
+    Cohorts at the Water Boards. During this time, mentors do not meet
+    as a group and instead invest time into delivering [Champions
+    Cohorts at the Water
+    Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/).
+    Those mentors that want to participate in the Champions cohorts will
+    do so while others will work on their goals independently. Mentors
+    from past Champions Cohorts are listed on their respective [Cohort
+    Pages](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/).
+
+## How to engage with the Mentor Community
+
+[**Community
+Mentors**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/mentor_guidance.html#community-mentors):
+If you have engaged in the Openscapes Community at the Water Boards by
+particiating in a past Openscapes Champions Cohort as an individual or
+team member, or as a Cohort Mentor, you can continue to participate in
+Openscapes as a Community Mentor!
+
+Keep an eye out and attend a future Openscapes at the Water Boards
+Community Call or opt-in to some Mentor Co-working sessions to see how
+you would like to give back to the Openscapes at the Water Boards
+Community.
+
+[**Cohort
+Mentors**](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/mentor_guidance.html#cohort-mentors):
+If you have not yet engaged in the Openscapes Community at the Water
+Boards, this is your ticket in! Participate in a future Openscapes
+Champions cohort as a Champions Cohort Mentor.
+
+Keep an eye out for outreach emails or presentations about upcoming
+Openscapes Champions Cohort opportunities. Once you have found a
+Champions Cohort that works with your availability, apply to be a Cohort
+Mentor using the processes outlined in the outreach emails or on the
+[Openscapes at the Water Boards
+Website](https://cawaterboarddatacenter.github.io/swrcb-openscapes/).
+
 ## Benefits of being a Mentor
 
-We support the Mentor Community by helping mentors prioritize time for
-their work through open communication of goals and impacts, and by
-hosting regular coworking sessions. These dedicated sessions provide
-monthly opportunities for mentors to collaborate and make progress on
-shared objectives.
+By participating as an Openscapes Mentor at the Water Boards,
+individuals will have opportunities to develop their technical, social,
+and leadership skills, and broaden their networks within and outside of
+the Water Boards.
 
-Mentors also serve as local representatives for aligned efforts such as
-the \[TODO Racial Equity Subcommittee, the Water Quality Division,
-etc.\]. In this role, mentors can help design and promote Openscapes
-Champions cohorts, lead communication with local leadership, serve as a
-point of contact for interested staff, identify local needs, and support
-or coordinate teaching resources for their communities.
+Mentor Activities and corresponding areas or opportunities for
+skill-building can include, but are not limited to:
 
-As Openscapes Mentors, individuals also have the opportunity to grow key
-skills—including facilitation, networking, and the use of collaborative
-platforms like GitHub and RStudio.
-
-Additionally, Openscapes Mentors are part of a broader network of peers
-with shared goals, including mentors at other government agencies,
-non-profits, and academic institutions.
-
-## How to Engage in the Mentor Community
-
-\[to be added\]
-
-## Water Boards Co-Leads
-
--   Anna Holder, Senior Environmental Scientist
-
--   Devan Burke, Environmental Scientist
-
--   Elena Suglia, Environmental Scientist
-
--   Tina Ures, Engineering Geologist
-
-## Mentors
-
--   [2024 Spring
-    Mentors](https://github.com/Openscapes/2024-swrcb-spring)
-
--   [2024 Fall Mentors](https://github.com/Openscapes/2024-swrcb-fall)
-
--   [2023 Mentors](https://github.com/Openscapes/2023-swrcb)
-
--   [2022 Mentors](https://github.com/Openscapes/2022-swrcb)
++-------------------------+--------------------------------------------+
+| Activity                | Areas / Opportunities for Skill Building   |
++=========================+============================================+
+| Mentor co-working       | Time management                            |
+| sessions                |                                            |
+|                         | Communication of goals, challenges,        |
+|                         | success                                    |
+|                         |                                            |
+|                         | Technical / open science methods,          |
+|                         | techniques & solutions                     |
+|                         |                                            |
+|                         | Identification of common needs and         |
+|                         | priorities                                 |
+|                         |                                            |
+|                         | Teaching / knowledge-sharing               |
+|                         |                                            |
+|                         | Active / deep listening                    |
+|                         |                                            |
+|                         | Collaboration                              |
+|                         |                                            |
+|                         | Networking with the Mentor Community at    |
+|                         | the Water Boards                           |
+|                         |                                            |
+|                         | Relationship Building                      |
++-------------------------+--------------------------------------------+
+| Promotion of Champions  | Communication with various audiences in    |
+| Cohorts or other        | oral and/or written/visual formats         |
+| Openscapes Activities   |                                            |
+|                         | Public speaking                            |
+|                         |                                            |
+|                         | Meeting presentations / outreach           |
+|                         |                                            |
+|                         | Teaching / knowledge-sharing               |
+|                         |                                            |
+|                         | Networking with other staff at the Water   |
+|                         | Boards                                     |
++-------------------------+--------------------------------------------+
+| Engage with the wider   | Networking with the broader Openscapes     |
+| Openscapes and open     | Community, including individuals at other  |
+| science community       | government agencies, non-profits, and      |
+|                         | academic institutions.                     |
+|                         |                                            |
+|                         | Relationship building                      |
++-------------------------+--------------------------------------------+
+| Mentor Calls to Prepare | Meeting facilitation planning and          |
+| for Champions Cohorts   | preparation                                |
+|                         |                                            |
+|                         | Communication of questions, concerns,      |
+|                         | asking for help                            |
+|                         |                                            |
+|                         | Technical / open science methods,          |
+|                         | techniques & solutions                     |
+|                         |                                            |
+|                         | Teaching / knowledge-sharing               |
+|                         |                                            |
+|                         | Active / deep listening                    |
+|                         |                                            |
+|                         | Asking powerful questions                  |
+|                         |                                            |
+|                         | Collaboration                              |
+|                         |                                            |
+|                         | Networking with the Mentor Community at    |
+|                         | the Water Boards                           |
++-------------------------+--------------------------------------------+
+| Supporting Champions    | Meeting facilitation implementation        |
+| Cohort Logistics        |                                            |
+|                         | Use of meeting tools (i.e. MS Teams or     |
+|                         | Zoom, breakout rooms, chat management,     |
+|                         | polls/surveys)                             |
+|                         |                                            |
+|                         | Cohort documentation and resources         |
+|                         | management                                 |
+|                         |                                            |
+|                         | Active / deep listening                    |
+|                         |                                            |
+|                         | Development of meeting, agendas,           |
+|                         | documentation & summaries                  |
+|                         |                                            |
+|                         | Networking with Water Boards staff new to  |
+|                         | Openscapes at the Water Boards             |
++-------------------------+--------------------------------------------+
+| Champions Cohort        | Meeting facilitation preparation &         |
+| Instructor              | implementation                             |
+|                         |                                            |
+|                         | Presentation slides development for select |
+|                         | audience                                   |
+|                         |                                            |
+|                         | Presentation of pre-made slides while      |
+|                         | making them your own                       |
+|                         |                                            |
+|                         | Public speaking                            |
+|                         |                                            |
+|                         | Teaching / knowledge-sharing               |
+|                         |                                            |
+|                         | Presenting / discussing technical          |
+|                         | information in plain language              |
+|                         |                                            |
+|                         | Giving and receiving helpful feedback      |
+|                         |                                            |
+|                         | Asking and answering powerful and          |
+|                         | technical questions                        |
+|                         |                                            |
+|                         | Networking with Water Boards staff new to  |
+|                         | Openscapes at the Water Boards             |
++-------------------------+--------------------------------------------+
+| Community Call          | Presentation slides development for select |
+| Presenter / Insructor   | audience                                   |
+|                         |                                            |
+|                         | Public speaking                            |
+|                         |                                            |
+|                         | Teaching / knowledge-sharing               |
+|                         |                                            |
+|                         | Presenting / discussing technical          |
+|                         | information in plain language              |
+|                         |                                            |
+|                         | Giving and receiving helpful feedback      |
+|                         |                                            |
+|                         | Asking and answering powerful and          |
+|                         | technical questions                        |
+|                         |                                            |
+|                         | Networking with members within and beyond  |
+|                         | the Openscapes at the Water Boards         |
+|                         | Community                                  |
++-------------------------+--------------------------------------------+
