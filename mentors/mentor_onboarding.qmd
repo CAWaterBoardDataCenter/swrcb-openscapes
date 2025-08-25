@@ -1,12 +1,16 @@
 ---
-title: "Mentor Onboarding"
+title: "Cohort Mentor Onboarding"
 ---
 
-# Welcome Water Boards Mentors!
+# Welcome Water Boards Champions Cohort Mentors!
 
-As you begin your Openscapes Mentor journey with the Water Boards - we want to be sure you have the resources you need to help you get started. Below is a non-comprehensive, but hopefully informative guide to onboarding as a mentor at the Water Boards. Please re-reference and contribute to revising this page throughout your time as a Water Boards Openscapes Mentor!
+As you begin your Openscapes Cohort Mentor journey with the Water Boards - we want to be sure you have the resources you need to help you get started. Below is a non-comprehensive, but hopefully informative guide to onboarding as a mentor at the Water Boards. Please re-reference and contribute to revising this page throughout your time as a Water Boards Openscapes Champions Cohort Mentor!
 
-**Note for Community Mentors:** As you may notice, this page is dedicated to Cohort Mentor Onboarding. Since Community mentorship is more flexible, and it is assumed you have already participated in an Openscapes Cohort or as a Cohort Mentor, we will supply support for re-onboarding as needed or requested.
+::: callout-note
+**Note for Community Mentors**
+
+This page is dedicated to Champions Cohort Mentor Onboarding. Since Community Mentors have already participated in an Openscapes Cohort or as a Cohort Mentor, you should already be familiar with much of the information below. Additional Community Mentor onboarding will be provided as needed or requested.
+:::
 
 ## Cohort Mentor Onboarding
 
