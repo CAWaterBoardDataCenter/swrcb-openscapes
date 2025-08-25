@@ -2,27 +2,13 @@
 title: "Am I ready to be an Openscapes Mentor?"
 ---
 
-The Openscapes Champions Program is a remote-by-design, cohort-based mentorship program that supports teams of up to 6 colleagues to re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities. You can participate in the Mentor Community in one of two ways, as a Cohort Mentor, or as a Community Mentor.
+The Openscapes Champions Program is a remote-by-design, cohort-based mentorship program that supports individuals and teams to re-imagine data workflows and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities. You can participate in the Mentor Community in one of two ways: as a [Cohort Mentor](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/mentor_guidance.html#cohort-mentors) or as a [Community Mentor](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/mentor_guidance.html#community-mentors).
+
+Regardless of which Mentor path you choose, you can contribute to culture change within the Water Boards organization, towards one that embraces open data science practices and tools, that are underpinned by principles of equity, inclusion, and kindness.
 
 *The best part of being a mentor* is that they get all of the exposure to Openscapes concepts, process, and larger community - without having to find additional time to meet with a team and complete the Pathway!
 
-## General Expectations
-
-### Mentor Skills
-
--   Speaking up/sharing about yourself for 4 minutes - a challenge for some to take up that space, a challenge for others to limit to that space.
-
--   Keeping on time - as a speaker and as a timekeeper
-
--   Listening: giving space/silence.
-
--   Not jumping in - get comfortable with discomfort
-
--   Live contributing to collaborative google doc - hear from more voices than we could only out loud, both time-wise and due to power structures
-
--   Adjusting time on the fly in the doc and verbally - open facilitation
-
-### Mentor Requirements
+## Mentor Requirements
 
 No preparation or skill set is required to be an Openscapes Mentor at the Water Boards - we'll onboard folks and teach them everything they need to know.
 
@@ -30,12 +16,12 @@ Anyone across all Water Boards Regions, Divisions, or Offices, and job classific
 
 The [**ONLY requirement**]{.underline} is that mentors are given the approval and support they need from their management to dedicate the [**time required to actively support and engage in the Openscapes Process**]{.underline}.
 
-Characteristics of mentors that will get the most return on their investment into the Champions Program include:
+Characteristics of individuals that will get the most return on their investment into the Mentors Community include:
 
 -   Individuals who are curious, interested in learning about Openscapes, and open to trying new things!
 -   Individuals who are interested in exploring the interconnected nature of open science and in taking time to re-imagine data workflows and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative, inclusive, equitable, and kind teams and communities.
 
-## **Cohort Mentors** 
+## Cohort Mentors
 
 Cohort Mentors are critical to the success of each annual Openscapes cohort as they support the logistical and behind the scenes work required facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms). This form of mentorship requires supervisor approval, and a detailed time commitment further described below. For more information regarding detailed onboarding please see [Mentor Onboarding.](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/mentor_onboarding.html)
 
@@ -74,12 +60,12 @@ Mentor assignments Include:
 
 For specific cohort timelines, see the [cohort process section](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/implementation.html#cohort-process) of the Implementation Cycle.
 
-## **Community Mentors** 
+## Community Mentors
 
-Community Mentors are also critical to the success and ongoing support of Openscapes at the Water Boards. If you have already enaged in the Openscapes Community via: an Openscapes Cohort or as a Cohort Mentor, you can continue to participate in Openscapes as a Community Mentor. Community Mentors support the Openscapes team through contributing to annual Community Calls, general outreach, and ongoing information sharing and skill building.
+Community Mentors are also critical to the success and ongoing support of Openscapes at the Water Boards. If you have already engaged in the Openscapes Community at the Water Boards by particiating in a past Openscapes Champions Cohort as an individual or team member, or as a Cohort Mentor, you can continue to participate in Openscapes as a Community Mentor!
+
+Community Mentors support the Openscapes team through contributing to annual Community Calls, general outreach, and ongoing information sharing and skill building.
 
 ### Community Mentor Time Commitment
 
-**\[In development\]** As a Community Mentor, you will have more flexibility regarding how and when you choose to support the Water Boards Openscapes community. On average, we recommend minimally attending 1-2 co-working sessions and/or an annual Community Call. During the co-working sessions you may decide to support the team through continued outreach, documentation development, and general information sharing. We estimate the time commitment averaging 5-15 hours annually at your discretion.
-
-## 
+As a Community Mentor, you will have more flexibility regarding how and when you choose to support the Water Boards Openscapes community. On average, we recommend minimally attending 1-2 co-working sessions and/or an annual Community Call. During the co-working sessions you may decide to support the team through continued outreach, documentation development, and general information sharing. We estimate the time commitment averaging 5-15 hours annually at your discretion.
