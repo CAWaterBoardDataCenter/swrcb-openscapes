@@ -229,7 +229,7 @@ skill-building can include, but are not limited to:
 |                         | Openscapes at the Water Boards             |
 +-------------------------+--------------------------------------------+
 | Community Call          | Presentation slides development for select |
-| Presenter / Insructor   | audience                                   |
+| Presenter / Instructor  | audience                                   |
 |                         |                                            |
 |                         | Public speaking                            |
 |                         |                                            |
