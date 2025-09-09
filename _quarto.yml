@@ -50,8 +50,6 @@ website:
           - mentors/mentor_onboarding.qmd
       - href: impacts.qmd
         text: Impacts
-      - href: toolkit.qmd
-        text: Toolkit
       - section: cohorts/index.qmd
         text: Champions Cohorts
         contents: 
