@@ -15,13 +15,11 @@ All Water Boards authors are **bolded** below.
 
 #### [Upcoming Presentations:]{.underline}
 
-TBD Aug 2025 - Nov 2025: CA Office of Data and Innovation (ODI) Data Science Community of Practice.
+Nov 2025 - Internal Division of Water Quality (DWQ) Management Update on Openscapes and growing Openscapes Mentors.
 
-TBD 2025 - OIMA Information Item + Board briefing on Openscapes and other data/equity topics.
+#### [Past Presentations:]{.underline}
 
-TBD 2025 - Internal Division of Water Quality (DWQ) Management Update on Openscapes and growing Openscapes Mentors.
-
-#### [Past Presentations:]{.underline} 
+![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg){height="20"} [Intro to Openscapes at the Water Boards: Kinder Science for Future Us](https://drive.google.com/file/d/1S3GbusIXWi-0TGu_cCL3I8YnXMLtHRyB/view?usp=sharing). Oct 2025. **Anna Holder**. CA Office of Data and Innovation (ODI) Data Science Community of Practice.
 
 ![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg){height="20" style="font-size: 11pt;"} [Openscapes: Better science for future us](https://docs.google.com/presentation/d/1yOTdJcvWdVWSLIE72L4cCN2b22y-6ZDlOouqP1i_bSI/edit?usp=sharing). Aug 2024. Julia Lowndes, **Devan Burke**, **Anna Holder**. Internal CA Dept. of Water Resources (DWR) Environmental Coordination Committee (ECC) Open Forum.
 
@@ -42,6 +40,8 @@ TBD 2025 - Internal Division of Water Quality (DWQ) Management Update on Opensca
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" height="20"/> [Better Science for Future Us: Planning for the Year of Open Science](https://youtu.be/hbFAkhNRpJw). Jan 2022. Julia Lowndes, Erin Robinson, Aaron Friesz, Ileana Fenwick, Amy Steiker, Eli Holmes, **Anna Holder**. [Earth Science Information Partners (ESIP) Meeting](https://2022esipjanuarymeeting.sched.com/event/qkp5/better-science-for-future-us-planning-for-the-year-of-open-science).
 
 ## Blog Posts
+
+![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg){height="20"} [Coaching the Openscapes team at the California Water Boards](https://openscapes.org/blog/2025-10-24-ca-water-boards-openscapes/). Oct 24, 2025. Julie Lowndes, **Anna Holder**, **Devan Burke**, **Tina Ures, Elena Suglia, Greg Gearheart**.
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/blog.svg" height="20"/> [California Water Boards' 2nd Annual Openscapes Champions Program - Reflections & Future](https://openscapes.org/blog/2023-12-13-waterboards/). Dec 13, 2023. **Anna Holder**, **Devan Burke**, **Tina Ures**.
 
