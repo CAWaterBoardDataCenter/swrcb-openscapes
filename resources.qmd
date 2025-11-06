@@ -7,9 +7,9 @@ Here you will find a curated list of documents, presentations, and other resourc
 
 All Water Boards authors are **bolded** below.
 
-## Documents
+## Community Calls
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [California Water Boards Openscapes Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf). Feb 2022. **Greg Gearheart**, **Anna Holder**, **Corey Clatterbuck**, **Devan Burke**, **Tina Ures**.
+Nov 2025 - [Openscapes at the Water Boards Mentor Community Call Kick-off](https://www.youtube.com/watch?v=gg3h5pt5tz0).
 
 ## Presentations
 
@@ -18,6 +18,8 @@ All Water Boards authors are **bolded** below.
 Nov 2025 - Internal Division of Water Quality (DWQ) Management Update on Openscapes and growing Openscapes Mentors.
 
 #### [Past Presentations:]{.underline}
+
+![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg){height="20"} [Openscapes at the Water Boards Mentor Community Call Kick-off](https://www.youtube.com/watch?v=gg3h5pt5tz0). Nov 2025. **Anna Holder**, **Devan Burke**, **Elena Suglia,** **Tina Ures.** [Openscapes at the Water Boards Mentor Community Call Slides](https://drive.google.com/file/d/1VxFU9FLoh5CDXUYXOuzzPcg28JTuY8A_/view?usp=sharing).
 
 ![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg){height="20"} [Intro to Openscapes at the Water Boards: Kinder Science for Future Us](https://drive.google.com/file/d/1S3GbusIXWi-0TGu_cCL3I8YnXMLtHRyB/view?usp=sharing). Oct 2025. **Anna Holder**. CA Office of Data and Innovation (ODI) Data Science Community of Practice.
 
@@ -70,3 +72,7 @@ Julia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Affle
 Julia S. Stewart Lowndes. 2019. [Open software means kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science). Scientific American.
 
 Julia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen, Chelsea L. Wood. 2019. [Supercharge your research: a ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) Nature Career Column. 31 October 2019
+
+## Documents
+
+![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg){height="20"} [California Water Boards Openscapes Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf). Feb 2022. **Greg Gearheart**, **Anna Holder**, **Corey Clatterbuck**, **Devan Burke**, **Tina Ures**.
