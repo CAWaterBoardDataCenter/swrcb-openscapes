@@ -1,6 +1,44 @@
 ---
-title: "Community Calls"
+title: "Events"
 format: html
 ---
 
+## Openscapes Road Shows
+
+Openscapes Leads will be presenting to various Water Boards groups and teams to provide an introduction and overview of Openscapes and the Openscapes Champions process. [Contact us](/contact.qmd) if you'd like us to present to your office or group!
+
+-   January 22nd 2026 - DDW RaD All-Staff
+
+-   February 10th 2026 - Power BItes
+
+-   February 11th 2026 - DWQ All-Staff
+
+## Openscapes Office Hours
+
+Office hours are open to all! Water Boards Staff interested in joining future Champions Cohorts as a participant or Mentor or to ask questions are encouraged to join. [Join here!](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVjZDFhMDEtMjU1NS00ZmQ1LWE5YjktM2Q0NDJlN2QzNzY2%40thread.v2/0?context=%7b%22Tid%22%3a%22fe186a25-7d49-41e6-9941-05d2281d36c1%22%2c%22Oid%22%3a%22b80729e4-c1b6-4598-b868-8c4da13c5db8%22%7d)
+
+**These are scheduled and facilitated by an Openscapes Lead every 3rd Tuesday of the month 10:30 - 11:30 AM (Jan - June 2026)**
+
+Help us spread the word! Tell your colleagues about Openscapes & upcoming office hours! Please forward All Staff emails and/or links to meeting login info.
+
+## Mentor Co-Working
+
+This will be a space for Water Boards Openscapes Mentors to work on tasks together and make steady progress on their Openscapes and/or open science goals. Join us by completing this [form!](https://forms.office.com/pages/responsepage.aspx?id=JWoY_kl95kGZQQXSKB02weQpB7i2wZhFuGiMTaE8XbhUMEw4SUZZTFZPQkQ5U01CQ1hYVU9STzNIRi4u&route=shorturl)
+
+**We meet every 3rd Wednesday of the month @ 2:00 - 3:00 PM PST (Jan - May 2026). Potential topics we are considering for early 2026 co-working include share-outs on: communications regarding event planning and documentation**
+
+Here are some other examples of co-working topics or ideas:
+
+-   Share and document stories related to successes / impacts you have experienced by participating in Openscapes at the Water Boards
+
+-   Find a common data / work challenge across mentors and work on solutions together
+
+-   Help develop resources to support communication and engagement around Openscapes activities (e.g., slides, fact sheets, web updates, blog, etc.)
+
+-   Work on your own thing, with friendly accountability and support Screen share, skill share, show & tell for cool skills, tech, resources you think others should know about
+
+## Community Calls
+
 In the spirit of fostering connections, community, and giving to one another, we periodically host Community Calls. This space is for us to discuss and explore topics relevant to Openscapes and all are welcome to join in a community call!
+
+Check back for our 2026 Community Call schedule.
