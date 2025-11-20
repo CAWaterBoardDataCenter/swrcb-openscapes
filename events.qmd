@@ -11,14 +11,22 @@ Contact Anna Holder via email or MS Teams Chat if you'd like us to present to yo
 
 Presentations currently scheduled include:
 
--   Jan 13, 2026: Water Quality Certs (401) Roundtable
--   Jan 22, 2026: Division of Drinking Water Resiliency and Data Branch (RaD) All-Staff
--   Feb 4, 2026: USTs Roundtable – Regional Boards Mtg
--   Feb 10, 2026: Power BItes Lunch & Learn
--   Feb 11, 2026:
+-   Jan 13: Water Quality Certs (401) Roundtable
+-   Jan 22:
+    -   Division of Drinking Water Resiliency and Data Branch (RaD) All-Staff
+    -   Forestry and Wildfire Resiliency Roundtable
+-   Feb 4: USTs Roundtable – Regional Boards Mtg
+-   Feb 10: Power BItes Lunch & Learn
+-   Feb 11:
     -   USTs Roundtable – Local Oversight Program Mtg
     -   Division of Water Quality All-Staff
--   Apr 21, 2026: Site Cleanup / DoD Roundtable
+-   Feb 19: Integrated Report Roundtable
+-   Mar 10: Surface Water Ambient Monitoring Program (SWAMP) Roundtable
+-   Mar 12:
+    -   Cannabis Cultivation Program Roundtable
+    -   Waste Discharge Requirements Program Roundtable
+-   Apr 21: Site Cleanup / DoD Roundtable
+-   May 13: GIS & Data Science Roundtable
 
 ## Openscapes Office Hours
 
