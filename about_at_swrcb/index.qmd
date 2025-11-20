@@ -10,13 +10,27 @@ You can learn more about these experiences and processes in these Water Board au
 -   [3 Takeways for Planning for the Year of Open Science](https://www.openscapes.org/blog/2022/02/17/esip-winter-2022/) (Feb 2022)
 -   [California Water Board Mentor Perspectives](https://www.openscapes.org/blog/2021/12/07/california-waterboards-mentors/) (Dec 2021)
 
-## Context
+## About Openscapes
+
+The [Openscapes](https://openscapes.org) organization champions open, inclusive practices in environmental and Earth science to help uncover data-intensive solutions faster. They do this through their flagship [Champions mentorship program](https://www.openscapes.org/champions/), as well as through community organizing, training, and coaching, leveraging existing resources from open communities along with their own.
+
+Their [flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) shows their approach to engaging, empowering, and amplifying science and research communities in open data science --- how they describe kinder, better science in less time.
+
+![Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire](images/openscapes-flywheel-eea.png){alt="Openscapes flywheel shows 6 points around a hexagon: Develop, Invest, Attract, Deliver, Transform, Inspire"}
+
+Learn more about Openscapes:
+
+-   [Openscapes story](https://www.openscapes.org/about/)
+-   [Openscapes approach](https://www.openscapes.org/approach/)
+-   [Openscapes Media and publications](https://www.openscapes.org/media/)
+
+## Water Boards Context
 
 Over the last decade, there have been rapid changes within the scientific community to improve the quality of science -- these advances are not related to specific methodologies, but largely around scientific culture and collaboration (collectively, 'Open Science'). Many of the techniques -- including version control, code review, reproducible reports, project management, and leadership skills -- have been widely used by industry and academic partners, but have not seen wide use in government. Open Science fosters a more efficient and equitable working environment, via improved team collaboration and knowledge sharing.
 
 In recent years, the State Water Board has committed to a number of cultural and programmatic changes related to [open data](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf) and [racial equity](https://www.waterboards.ca.gov/racial_equity/). To date, the implementation and integration of open data principles throughout the Water Boards has come from a largely technical perspective with a focus on making process, data, code, publications, etc. more transparent, open, and accessible on websites like the [California Open Data Portal](https://data.ca.gov/), [databases](https://www.waterboards.ca.gov/resources/data_databases/), or [GitHub repositories](https://github.com/CAWaterBoardDataCenter). Implementation and operationalization of equity throughout the Water Boards has only just begun and, thus far, has focused on education and normalization of concepts related to racial equity. To successfully achieve the open data and equity outcomes we seek, it is crucial that we shift our perspectives, culture, and actions towards Open Science so that the principles of open data, science, and equity are fully integrated.
 
-## Why Openscapes?
+## Why Openscapes at the Water Boards?
 
 The [Water Boards](https://www.waterboards.ca.gov/about_us/) have regulatory responsibility for protecting the water quality of nearly 1.6 million acres of lakes, 1.3 million acres of bays and estuaries, 211,000 miles of rivers and streams, and about 1,100 miles of exquisite California coastline.
 

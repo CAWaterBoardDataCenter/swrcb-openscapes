@@ -36,8 +36,6 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: about-openscapes.qmd
-        text: About Openscapes
       - section: about_at_swrcb/index.qmd
         text: About Openscapes at the Water Boards
         contents:
