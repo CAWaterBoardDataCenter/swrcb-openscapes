@@ -51,10 +51,12 @@ website:
       - section: cohorts/index.qmd
         text: Champions Cohorts
         contents: 
-          - cohorts/swrcb_2022.qmd
-          - cohorts/swrcb_2023.qmd
-          - cohorts/swrcb_2024S.qmd
+          - cohorts/swrcb_2026T.qmd
+          - cohorts/swrcb_2026W.qmd
           - cohorts/swrcb_2024F.qmd
+          - cohorts/swrcb_2024S.qmd
+          - cohorts/swrcb_2023.qmd
+          - cohorts/swrcb_2022.qmd
       - href: events.qmd
         text: Events      
       - href: resources.qmd
