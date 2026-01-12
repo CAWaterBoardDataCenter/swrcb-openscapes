@@ -7,7 +7,9 @@ website:
   site-url: "https://CAWaterBoardDataCenter.github.io/swrcb-openscapes" 
   repo-url: https://github.com/CAWaterBoardDataCenter/swrcb-openscapes
   repo-actions: [edit, source, issue]
-  favicon: images/openscapes_hex.png  
+  favicon: images/openscapes_hex.png
+  google-analytics: "G-BB7FHK8F6N"
+
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
