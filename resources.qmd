@@ -13,11 +13,7 @@ All Water Boards authors are **bolded** below.
 
 ## Presentations
 
-#### [Upcoming Presentations:]{.underline}
-
-Nov 2025 - Internal Division of Water Quality (DWQ) Management Update on Openscapes and growing Openscapes Mentors.
-
-#### [Past Presentations:]{.underline}
+![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg){height="20"} [Fostering a Collaborative Culture & Intro to Openscapes at the Water Boards](https://drive.google.com/file/d/1u3yy1BZRJvD8S2IMTLC1hy3DeUg5wCoH/view?usp=sharing). Jan 2026. **Anna Holder**. CA Water Board Division of Drinking Water (DDW) Resiliency and Data Branch (RaD) All Staff.
 
 ![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg){height="20"} [Intro to Openscapes at the Water Boards: Kinder Science for Future Us](https://drive.google.com/file/d/1S3GbusIXWi-0TGu_cCL3I8YnXMLtHRyB/view?usp=sharing). Oct 2025. **Anna Holder**. CA Office of Data and Innovation (ODI) Data Science Community of Practice.
 
