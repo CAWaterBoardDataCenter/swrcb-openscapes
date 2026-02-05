@@ -58,7 +58,7 @@ Mentors are critical to the success of each cohort as they support the logistica
 -   Share the Digest with the Mentor team for review & feedback
 -   Post the Digest to GitHub and Openscapes Teams Channel
 
-### **Your task before our next Mentors Seaside Chat**
+**Your task before our next Mentors Seaside Chat**
 
 If you haven't already, please read the [Openscapes Code of Conduct](https://openscapes.org/code-of-conduct)
 
