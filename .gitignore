@@ -3,6 +3,8 @@
 .RData
 .Ruserdata
 
+swrcb-openscapes.Rproj
+
 /.quarto/
 *_cache/
 /_site/
