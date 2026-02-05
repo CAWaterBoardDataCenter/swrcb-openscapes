@@ -42,7 +42,6 @@ website:
         text: About Openscapes at the Water Boards
         contents:
           - about_at_swrcb/implementation.qmd
-          - about_at_swrcb/team_guidance.qmd
       - section: mentors/index.qmd
         text: Mentors Community
         contents:
@@ -53,6 +52,7 @@ website:
       - section: cohorts/index.qmd
         text: Champions Cohorts
         contents: 
+          - cohorts/team_guidance.qmd
           - cohorts/swrcb_2026T.qmd
           - cohorts/swrcb_2026W.qmd
           - cohorts/swrcb_2024F.qmd
