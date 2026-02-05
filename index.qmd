@@ -19,11 +19,14 @@ In recent years, the State Water Board has committed to a number of cultural and
 Since in 2022, the Water Boards, in partnership with Openscapes, have been hosting annual Champions Cohorts and intend to use their [Openscapes Implementation Strategy](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/CAWaterBoardDataCenter/swrcb-openscapes/main/SWRCB_Openscapes_Implementation_Strategy_202302.pdf) to continue to scale the Champions Program throughout the organization.
 
 ::: callout-important
-# We're Pausing Champions Cohorts in 2025 so we can grow our Mentor Community at the Water Boards
+# 2026 Champions Cohort Application Period will Open May 1, 2026. 
 
-Although Champions Cohorts at the Water Boards will be paused in 2025, Openscapes at the Water Boards continues!
+Openscapes at the Water Boards will host two Champions Cohorts from mid-August through mid-October 2026:
 
-The Water Boards Openscapes Instruction Team and Executive Sponsors are dedicating 2025 to building documentation related to Openscapes at the Water Boards, and will be investing time and resources towards supporting and (hopefully!) growing the Mentor Community at the Water Boards so that in 2026 we can begin to scale the Champions Program and broader Openscapes community at the Water Boards and beyond!
+-   [Fall 2026 Tue AM Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2026T.html)
+-   [Fall 2026 Wed PM Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2026W.html)
+
+Water Boards individuals and teams will be able to apply to join one one of the above cohorts as a Participant or [Mentor](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/mentor_guidance.html) from May 1, 2026 to June 30, 2026.
 :::
 
 To stay informed of Openscapes activities, you can connect with them on Mastodon [\@openscapes](https://fosstodon.org/@openscapes) or join their [newsletter](https://docs.google.com/forms/d/e/1FAIpQLSdgVXRp3V-w94GPWkR31RUfyBl37EphdQSlCOcnyeNlf8OLWw/viewform)
