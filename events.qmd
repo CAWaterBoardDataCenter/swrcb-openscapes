@@ -3,29 +3,63 @@ title: "Events"
 format: html
 ---
 
-## Openscapes Road Shows
+## 2026 Road Show Presentations
 
-Openscapes Leads will be presenting to various Water Boards groups and teams to provide an introduction and overview of Openscapes and the Openscapes Champions process. [Contact us](/contact.qmd) if you'd like us to present to your office or group!
+Openscapes Leads will be presenting to various Water Boards groups to provide an introduction and overview of Openscapes and the 2026 Openscapes Champions process.
 
--   January 22nd 2026 - DDW RaD All-Staff
+Contact Anna Holder via email or MS Teams Chat if you'd like us to present to your Water Boards Region, Division, Office, Branch, Section, Roundtable or other group meeting!
 
--   February 10th 2026 - Power BItes
+Presentations currently scheduled include:
 
--   February 11th 2026 - DWQ All-Staff
+-   Jan 13: Water Quality Certs (401) Roundtable
+-   Jan 14:
+    -   National Pollutant Discharge Elimination System (NPDES) Roundtable
+    -   Environmental Justice Roundtable’s Racial Equity Data Subcommittee
+-   Jan 20: DWQ Advancing Racial Equity Subcommittee Meeting
+-   Jan 22:
+    -   Division of Drinking Water Resiliency and Data Branch (RaD) All-Staff
+    -   Forestry and Wildfire Resiliency Roundtable
+-   Feb 4: USTs Roundtable – Regional Boards Meeting
+-   Feb 10:
+    -   Power BItes Lunch & Learn
+    -   Climate Change Roundtable
+-   Feb 11:
+    -   USTs Roundtable – Local Oversight Program Meeting
+    -   Division of Water Quality All-Staff Meeting
+-   Feb 19: Integrated Report Roundtable
+-   Feb 24: Office of Sustainable Groundwater Management Program Meeting
+-   Feb 26: Division of Water Rights All-Staff Meeting
+-   Mar 10: Surface Water Ambient Monitoring Program (SWAMP) Roundtable
+-   Mar 12:
+    -   Stormwater Roundtable
+    -   Cannabis Cultivation Program Roundtable
+    -   Waste Discharge Requirements Program Roundtable
+-   Mar 24: Environmental Justice Roundtable
+-   Apr 7: Enforcement Roundtable
+-   Apr 9: Joint Total Maximum Daily Load (TMDL) & Nonpoint Source Roundtable
+-   Apr 21:
+    -   Site Cleanup / DoD Roundtable
+    -   Basin Planning Roundtable
+-   Apr 22: Recycled Water Roundtable
+-   May 13: GIS & Data Science Roundtable
 
 ## Openscapes Office Hours
 
-Office hours are open to all! Water Boards Staff interested in joining future Champions Cohorts as a participant or Mentor or to ask questions are encouraged to join. [Join here!](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVjZDFhMDEtMjU1NS00ZmQ1LWE5YjktM2Q0NDJlN2QzNzY2%40thread.v2/0?context=%7b%22Tid%22%3a%22fe186a25-7d49-41e6-9941-05d2281d36c1%22%2c%22Oid%22%3a%22b80729e4-c1b6-4598-b868-8c4da13c5db8%22%7d)
+Office hours are open to all Water Boards Staff interested in joining future Champions Cohorts as a participant or Mentor or to ask questions to determine if joining a future Openscapes cohort is a good fit. [Water Boards Staff can Join here!](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVjZDFhMDEtMjU1NS00ZmQ1LWE5YjktM2Q0NDJlN2QzNzY2%40thread.v2/0?context=%7b%22Tid%22%3a%22fe186a25-7d49-41e6-9941-05d2281d36c1%22%2c%22Oid%22%3a%22b80729e4-c1b6-4598-b868-8c4da13c5db8%22%7d)
 
-**These are scheduled and facilitated by an Openscapes Lead every 3rd Tuesday of the month 10:30 - 11:30 AM (Jan - June 2026)**
+These are scheduled and facilitated by an Openscapes Lead **every 3 Tuesdays starting Jan 27, 2026 through Jun 30, 2026. All meetings will be from 10:30 am - 11:30 am.**
 
-Help us spread the word! Tell your colleagues about Openscapes & upcoming office hours! Please forward All Staff emails and/or links to meeting login info.
+Specific 2026 dates include: Jan 27, Feb 17, Mar 10, Apr 21, May 12, Jun 2, Jun 23
+
+Help us spread the word! Tell your colleagues about Openscapes & upcoming office hours! Please forward All Staff emails and/or links to meeting login info as they are distributed.
 
 ## Mentor Co-Working
 
-This will be a space for Water Boards Openscapes Mentors to work on tasks together and make steady progress on their Openscapes and/or open science goals. Join us by completing this [form!](https://forms.office.com/pages/responsepage.aspx?id=JWoY_kl95kGZQQXSKB02weQpB7i2wZhFuGiMTaE8XbhUMEw4SUZZTFZPQkQ5U01CQ1hYVU9STzNIRi4u&route=shorturl)
+Mentor Co-working is open to Water Boards Staff that have already engaged in Openscapes at the Water Boards in some way and are eligible to be a [Community Mentor](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/mentor_guidance.html#community-mentors). This will be a space for Water Boards Community Mentors to work on tasks together and make steady progress on their Openscapes and/or open science goals. [Water Boards Openscapes Community Mentors can join us by completing this form!](https://forms.office.com/pages/responsepage.aspx?id=JWoY_kl95kGZQQXSKB02weQpB7i2wZhFuGiMTaE8XbhUMEw4SUZZTFZPQkQ5U01CQ1hYVU9STzNIRi4u&route=shorturl)
 
-**We meet every 3rd Wednesday of the month @ 2:00 - 3:00 PM PST (Jan - May 2026). Potential topics we are considering for early 2026 co-working include share-outs on: communications regarding event planning and documentation**
+These are scheduled and facilitated by an Openscapes Lead **every 3rd Wednesday of the month Jan - May 2026. All Co-working sessions will be from 2:00 pm - 3:00 pm.**
+
+Potential topics we are considering for early 2026 co-working include share-outs on communications regarding event planning and documentation.
 
 Here are some other examples of co-working topics or ideas:
 
@@ -35,10 +69,14 @@ Here are some other examples of co-working topics or ideas:
 
 -   Help develop resources to support communication and engagement around Openscapes activities (e.g., slides, fact sheets, web updates, blog, etc.)
 
--   Work on your own thing, with friendly accountability and support Screen share, skill share, show & tell for cool skills, tech, resources you think others should know about
+-   Work on your own thing, with friendly accountability and support
+
+-   Screen share, skill share, show & tell for cool skills, tech, resources you think others should know about
 
 ## Community Calls
 
-In the spirit of fostering connections, community, and giving to one another, we periodically host Community Calls. This space is for us to discuss and explore topics relevant to Openscapes and all are welcome to join in a community call!
+In the spirit of fostering connections and building community, we periodically host Openscapes at the Water Boards Community Calls. This space is for us to discuss and explore topics relevant to Openscapes and all are welcome to join!
 
-Check back for our 2026 Community Call schedule.
+**Check back for our 2026 Community Call schedule.**
+
+Recordings and slides from past Community Calls are available on our [Resources Page](https://cawaterboarddatacenter.github.io/swrcb-openscapes/resources.html#community-calls).
