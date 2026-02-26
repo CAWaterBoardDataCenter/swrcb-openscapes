@@ -1,20 +1,34 @@
 ---
-title: "Is my team ready for Openscapes?"
+title: "Am I ready to participate in a Champions Cohort?"
 ---
 
-The Openscapes Champions Program is a remote-by-design, cohort-based mentorship program that supports teams of up to 6 colleagues to re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities. Teams will focus on their own work with their teams to identify where they are and where they want to go. It's important to note that individuals and teams do not have to have familiarity or expertise in open science or data science fields to benefit from the Openscapes Champions Program.
+The Openscapes Champions Program is a remote-by-design, cohort-based mentorship program that supports individuals and teams of up to 6 colleagues to re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities.
 
-Logistically, teams who apply to the 2023 cohort can be comprised of:
+Individuals and teams will focus on their workflows to identify where they are and where they want to go. It's important to note that individuals and teams do not have to have familiarity or expertise in open science or data science fields to benefit from the Openscapes Champions Program.
 
--   3-6 people;
--   Anyone across all Water Boards Regions, Divisions, or Offices, and job classifications;
--   Some team members external to the Water Boards, as long as these team members also fit the characteristics described below. It is ***strongly recommended*** that external team members account for fewer than 50% of the individuals on each team.
+Anyone across all Water Boards Regions, Divisions, or Offices, and job classifications is eligible to apply to join an Openscapes Champions Cohort at the Water Boards.
 
-Characteristics of teams that will get the most return on their investment into the Champions Program include:
+## Participant Requirements
 
--   Team members are given the approval and support they need from their management to dedicate the [**time required to actively participate and engage in the Openscapes Process**]{.underline}. The minimum and required time commitment is 2-4 hours/week over 10 weeks for meetings and associated work. For more information, see the [cohort process section](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/implementation.html#cohort-process) of the Implementation Cycle.
--   Teams that have at least one or two members who do some form of data management, analysis, visualization, or communication in their work on a regular basis. The more regular this work occurs (e.g. weekly is better than quarterly), and the more technically advanced they are (e.g. coding in R, Python or SQL is better than Excel), the more the entire team will get out of the process.
--   [**All**]{.underline} team members are interested in exploring the interconnected nature of open science and in taking time to reimagine data workflows and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative, inclusive, equitable, and kind teams and communities.
--   Teams want to evolve and invest in their culture, processes, and workflows so that they can embody the [better science for future us mindset](https://www.openscapes.org/blog/2021/09/15/better-science-for-future-us/).
+All individuals and team members are given the approval and support they need from their management to dedicate the [**time required to actively participate and engage in the Openscapes Process**]{.underline}. The minimum and required time commitment is 2-4 hours/week over 10 weeks for meetings and associated work.
+
+View [Upcoming Cohort pages](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/) for the dates and times of mandatory activities (e.g., Cohort Calls).
+
+## Guidance for all Participants
+
+Characteristics of individuals and teams that will get the most return on their investment into the Champions Program include:
+
+-   All individuals and team members are interested in exploring the interconnected nature of open science and in taking time to reimagine data workflows and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative, inclusive, equitable, and kind teams and communities.
+-   All individuals and team members want to evolve and invest in their culture, processes, and workflows so that they can embody the [better science for future us mindset](https://www.openscapes.org/blog/2021/09/15/better-science-for-future-us/).
     -   "Better science" means science that is more open, reproducible, efficient, and also more diverse, equitable, inclusive, kind.
     -   "Future us" is ourselves, teams, communities in the next hour, week, decades -- with a focus on onboarding ourselves and others to ongoing work.
+-   Teams that have at least one or two members who do some form of data management, analysis, visualization, or communication in their work on a regular basis. The more regular this work occurs (e.g., weekly is better than quarterly), and the more technically advanced they are (e.g. coding in R, Python or SQL is better than Excel), the more the entire team will get out of the process.
+
+## Guidance for Teams
+
+Teams who apply to an upcoming Openscapes Champions Cohort at the Water Boards can be comprised of:
+
+-   3-6 people that work on something together regularly
+-   Some team members external to the Water Boards, as long as these team members also fit the characteristics described below. It is ***strongly recommended*** that external team members account for fewer than 50% of the individuals on each team.
+
+Teams do not need to be a formal unit or group; they can be collaborating in other ways. What's important is that they share a curiosity and interest in improving something about how they work together.
