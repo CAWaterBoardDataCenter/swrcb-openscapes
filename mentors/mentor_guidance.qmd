@@ -6,16 +6,6 @@ The Openscapes Champions Program is a remote-by-design, cohort-based mentorship 
 
 Regardless of which Mentor path you choose, you can contribute to positive culture change and evolution within the Water Boards organization - a culture that continues to move towards embracing open data science practices and tools that are underpinned by principles of equity, inclusion, and kindness.
 
-*The best part of being a mentor* is that they get all of the exposure to Openscapes concepts, process, and larger community - without having to find additional time to meet with a team and complete the Pathway!
-
-## Mentor Requirements
-
-No preparation or skill set is required to be an Openscapes Mentor at the Water Boards - we'll onboard folks and teach them everything they need to know.
-
-Anyone across all Water Boards Regions, Divisions, or Offices, and job classifications can become an Openscapes Mentor.
-
-The [**ONLY requirement**]{.underline} is that mentors are given the approval and support they need from their management to dedicate the [**time required to actively support and engage in the Openscapes Process**]{.underline}.
-
 Characteristics of individuals that will get the most return on their investment into the Mentors Community include:
 
 -   Individuals who are curious, interested in learning about Openscapes, and open to trying new things!
@@ -25,11 +15,21 @@ Characteristics of individuals that will get the most return on their investment
 
 Cohort Mentors are critical to the success of each annual Openscapes cohort as they support the logistical and behind the scenes work required facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms). This form of mentorship requires supervisor approval, and a detailed time commitment further described below. For more information regarding detailed onboarding please see [Mentor Onboarding.](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/mentor_onboarding.html)
 
+*The best part of being a Cohort Mentor* is that they get all of the exposure to Openscapes concepts, process, and larger community - without having to find additional time to meet with a team and complete the Pathway!
+
+### Cohort Mentor Requirements
+
+No preparation or skill set is required to be a Cohort Mentor at the Water Boards - we'll onboard folks and teach them everything they need to know.
+
+Anyone across all Water Boards Regions, Divisions, or Offices, and job classifications can become a Cohort Mentor.
+
+The [**ONLY requirement**]{.underline} is that mentors are given the approval and support they need from their management to dedicate the [**time required to actively support and engage in the Openscapes Champions Process**]{.underline}.
+
 ### Cohort Mentor Time Commitment
 
-As a Cohort Mentor, the time commitment for is similar to cohort participants, with a couple of extra assignments - and it comes out to:
+As a Cohort Mentor, the time commitment is similar to cohort participants, with a couple of extra assignments - and it comes out to:
 
--   about a 1-3 hours per week during the main 9 week cohort
+-   about a 1-4 hours per week during the main 9 week cohort
 -   with an additional 1-2 months of onboarding and training before the cohort (1 hour every other week).
 
 Mentor assignments Include:
@@ -58,14 +58,18 @@ Mentor assignments Include:
 |                                      | 4 total          |                                                                  |
 +--------------------------------------+------------------+------------------------------------------------------------------+
 
-For specific cohort timelines, see the [cohort process section](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/implementation.html#cohort-process) of the Implementation Cycle.
-
 ## Community Mentors
 
 Community Mentors are also critical to the success and ongoing support of Openscapes at the Water Boards. If you have already engaged in the Openscapes Community at the Water Boards by particiating in a past Openscapes Champions Cohort as an individual or team member, or as a Cohort Mentor, you can continue to participate in Openscapes as a Community Mentor!
 
 Community Mentors support the Openscapes team through contributing to annual Community Calls, general outreach, and ongoing information sharing and skill building.
 
+### Community Mentor Requirements
+
+Community Mentors must have participated in a past Openscapes Champions cohort as a participant or a mentor.
+
 ### Community Mentor Time Commitment
 
-As a Community Mentor, you will have more flexibility regarding how and when you choose to support the Water Boards Openscapes community. On average, we recommend minimally attending 1-2 co-working sessions and/or an annual Community Call. During the co-working sessions you may decide to support the team through continued outreach, documentation development, and general information sharing. We estimate the time commitment averaging 5-15 hours annually at your discretion.
+As a Community Mentor, you will have more flexibility regarding how and when you choose to support the Water Boards Openscapes community. On average, we recommend minimally attending 1-2 co-working sessions and/or a Community Call.
+
+During the co-working sessions you may decide to support the team through continued outreach, documentation development, and general information sharing. We estimate the time commitment averaging 5-15 hours annually at your discretion.
