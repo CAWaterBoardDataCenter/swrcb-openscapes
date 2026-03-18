@@ -27,36 +27,12 @@ The [**ONLY requirement**]{.underline} is that mentors are given the approval an
 
 ### Cohort Mentor Time Commitment
 
-As a Cohort Mentor, the time commitment is similar to cohort participants, with a couple of extra assignments - and it comes out to:
+As a Cohort Mentor, the time commitment is similar to [cohort participants](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/team_guidance.html#participant-requirements), with a few extra assignments, which comes out to:
 
 -   about a 1-4 hours per week during the main 9 week cohort
 -   with an additional 1-2 months of onboarding and training before the cohort (1 hour every other week).
 
-Mentor assignments Include:
-
-+--------------------------------------+------------------+------------------------------------------------------------------+
-| **Activity**                         | **Time**         | **Frequency**                                                    |
-+--------------------------------------+------------------+------------------------------------------------------------------+
-| Seaside Chats (pre-cohort)           | 1 hr/chat        | Every other week (starts 1-2 months before Cohort Calls)         |
-|                                      |                  |                                                                  |
-|                                      | 3 total          |                                                                  |
-+--------------------------------------+------------------+------------------------------------------------------------------+
-| Cohort Calls                         | 2 hrs/call       | Every other week (alternating with Seaside chats)                |
-|                                      |                  |                                                                  |
-|                                      | 5 total          |                                                                  |
-+--------------------------------------+------------------+------------------------------------------------------------------+
-| Cohort Digests                       | \~1.5 hrs/Digest | Every other week, a day or so after each Cohort Call             |
-|                                      |                  |                                                                  |
-|                                      | 4 total          |                                                                  |
-+--------------------------------------+------------------+------------------------------------------------------------------+
-| Seaside Chats (during & post-cohort) | 1 hour/call      | Every other week (alternating with Cohort Calls & GitHub Clinic) |
-|                                      |                  |                                                                  |
-|                                      | 6 total          |                                                                  |
-+--------------------------------------+------------------+------------------------------------------------------------------+
-| Co-working Sessions (optional)       | 1 hr/session     | Every other week (alternating with Cohort Calls & GitHub Clinic) |
-|                                      |                  |                                                                  |
-|                                      | 4 total          |                                                                  |
-+--------------------------------------+------------------+------------------------------------------------------------------+
+![The estimated weekly and overall time commitment each cohort mentor may dedicate to Openscapes tasks. Required calls are indicated in dark blue; optional calls and tasks are indicated in lighter blue.](images/Openscapes_SWRCB_TimeCommitment_Mentor.png)
 
 ## Community Mentors
 
