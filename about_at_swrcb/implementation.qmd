@@ -6,9 +6,9 @@ The successful implementation of the [Champions Program](https://www.openscapes.
 
 1.  Internal Outreach and Education
 2.  Cohort Application Period
-3.  Pre-cohort Planning and Engagement (\~1 month)
-4.  Cohort Process (9 weeks + one follow-up 2-months after each cohort)
-5.  Reflection and Revision (\~1-2 months)
+3.  Pre-cohort Planning and Engagement
+4.  Cohort Process
+5.  Reflection and Revision
 
 ![Openscapes at the Water Board will be implemented via 5 phases in an annual cycle](images/Openscapes_SWRCB_AnnualCycle.png){fig-alt="Monthly Gantt chart of the Openscapes Annual Cycle, which consists of 5 phases. Internal outreach occurs in January-June. The application period occurs in May-June. Pre-cohort Planning and engagement occurs from July to mid-August. The cohort process occurs from late August to late October. Reflection and revision occurs in November and December."}
 
