@@ -27,10 +27,14 @@ The [**ONLY requirement**]{.underline} is that mentors are given the approval an
 
 ### Cohort Mentor Time Commitment
 
-As a Cohort Mentor, the time commitment is similar to [cohort participants](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/team_guidance.html#participant-requirements), with a few extra assignments, which comes out to:
+As a Cohort Mentor, the time commitment is similar to [cohort participants](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/team_guidance.html#participant-requirements), with a few extra assignments., which will require 1 to 4 hours per week. See the Mentor Time Commitment graphic below for more details.
 
--   about a 1-4 hours per week during the main 9 week cohort
--   with an additional 1-2 months of onboarding and training before the cohort (1 hour every other week).
+2026 Cohort Mentors will begin meeting with the instruction team via Seaside Chats the first week of July. This time will be used to onboard mentors into the process and prepare them to support Champions Cohort Calls, which will begin mid-August.
+
+**Mandatory** Cohort Mentor Seaside chats will occur every other week on the following days/times:
+
+-   [Tue AM Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2026T.html) Mentor Seaside Chats - Tuesdays from 10 am - 11 am, beginning July 7
+-   [Wed PM Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2026W.html) Mentor Seaside Chats - Wednesdays from 2 pm - 3 pm beginning July 8
 
 ![The estimated weekly and overall time commitment each cohort mentor may dedicate to Openscapes tasks. Required calls are indicated in dark blue; optional calls and tasks are indicated in lighter blue.](images/Openscapes_SWRCB_TimeCommitment_Mentor.png)
 
