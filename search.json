@@ -1,5 +1,185 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Water Boards Openscapes Leads\n\nAnna Holder, Open Data Science, Equity & Tribal Coordinator, OIMA\nDevan Burke, Environmental Scientist, OIMA\nElena Suglia, Environmental Scientist, OIMA\nTina Ures, Engineering Geologist, DWQ\n\nExecutive Sponsors\n\nGreg Gearheart, Deputy Director, OIMA\nAndrew Hamilton, Assistant Deputy Director, OIMA\nAnnalisa Kihara, Assistant Deputy Director (Groundwater Quality Branch), DWQ\nNick Martorano, Assistant Deputy Director (Surface Water Quality Branch), DWQ",
+    "crumbs": [
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "cohorts/swrcb_2024S.html",
+    "href": "cohorts/swrcb_2024S.html",
+    "title": "2024 Water Boards Cohort (Spring)",
+    "section": "",
+    "text": "Cohort Instruction Team: Anna Holder (OIMA), Devan Burke (OIMA)\nCohort Mentors: Lisa Hunt (Region 2), Nick Martorano (OIMA), michael ben Ortiz (OPP), Dan Wang (DDW)\nGuest Teachers: Corey Clatterbuck (California Coastal Commission), Julia Stewart Lowndes (Openscapes)\n\nCohort GitHub Webpage | Repository\n\nIn late-March - late-May 2024, the Water Boards cohort instructors and mentors will lead the third Openscapes Champions Cohort at the Water Boards! Spring 2024 Champions Cohort Teams include:\n\nBloomWatchers\nData Viz Team\nGOAT STORMS\n\n\n\n\n\n\n\nNoteParticipant quotes from the post-cohort survey\n\n\n\n“So grateful to get an invaluable experience like this so early in my career, I’ll definitely bring these lessons (and this community!) with me no matter where I end up :)”\n“I imagine incorporating many of the concepts into work moving forward, slowing down to speed up, documenting our work process for future us, and creating safe space for ideas and growth.”\n“The categories and topics [in the Pathway] were helpful to prompt our group’s thinking. For example, we started out discussing data and then realized, wow team culture and communication is something we haven’t thought about directly!”\n\n\nSee the timeline below for dates of mandatory 2024 Cohort activities.\n\n\n\n2024 Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)",
+    "crumbs": [
+      "Champions Cohorts",
+      "2024 Water Boards Cohort (Spring)"
+    ]
+  },
+  {
+    "objectID": "cohorts/team_guidance.html",
+    "href": "cohorts/team_guidance.html",
+    "title": "Am I ready to participate in a Champions Cohort?",
+    "section": "",
+    "text": "The Openscapes Champions Program is a remote-by-design, cohort-based mentorship program that supports individuals and teams of up to 6 colleagues to re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities.\nIndividuals and teams will focus on their workflows to identify where they are and where they want to go. It’s important to note that individuals and teams do not have to have familiarity or expertise in open science or data science fields to benefit from the Openscapes Champions Program.\nAnyone across all Water Boards Regions, Divisions, or Offices, and job classifications is eligible to apply to join an Openscapes Champions Cohort at the Water Boards.",
+    "crumbs": [
+      "Champions Cohorts",
+      "Am I ready to participate in a Champions Cohort?"
+    ]
+  },
+  {
+    "objectID": "cohorts/team_guidance.html#participant-requirements",
+    "href": "cohorts/team_guidance.html#participant-requirements",
+    "title": "Am I ready to participate in a Champions Cohort?",
+    "section": "Participant Requirements",
+    "text": "Participant Requirements\nAll individuals and team members are given the approval and support they need from their management to dedicate the time required to actively participate and engage in the Openscapes Process.\nDuring the course of a 9-week cohort, the time needed for participants to attend mandatory Cohort Calls and Seaside Chats as well as optional Co-working Sessions and individual reflection is described below.\nThe aggregate time participants will need to commit to the Cohort Process comes out to approximately 1-4 hours per week, depending on whether they take part in optional Co-working Sessions and reflection, and how the various calls fall on their calendars.\nSee the indivdual cohort pages for specific dates and times of mandatory meetings.\n\n\n\nThe estimated weekly and overall time commitment each individual in a cohort may dedicate to Openscapes tasks. Required calls are indicated in dark blue; optional calls and tasks are indicated in lighter blue.",
+    "crumbs": [
+      "Champions Cohorts",
+      "Am I ready to participate in a Champions Cohort?"
+    ]
+  },
+  {
+    "objectID": "cohorts/team_guidance.html#guidance-for-all-participants",
+    "href": "cohorts/team_guidance.html#guidance-for-all-participants",
+    "title": "Am I ready to participate in a Champions Cohort?",
+    "section": "Guidance for all Participants",
+    "text": "Guidance for all Participants\nCharacteristics of individuals and teams that will get the most return on their investment into the Champions Program include:\n\nAll individuals and team members are interested in exploring the interconnected nature of open science and in taking time to reimagine data workflows and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative, inclusive, equitable, and kind teams and communities.\nAll individuals and team members want to evolve and invest in their culture, processes, and workflows so that they can embody the better science for future us mindset.\n\n“Better science” means science that is more open, reproducible, efficient, and also more diverse, equitable, inclusive, kind.\n“Future us” is ourselves, teams, communities in the next hour, week, decades – with a focus on onboarding ourselves and others to ongoing work.\n\nTeams that have at least one or two members who do some form of data management, analysis, visualization, or communication in their work on a regular basis. The more regular this work occurs (e.g., weekly is better than quarterly), and the more technically advanced they are (e.g. coding in R, Python or SQL is better than Excel), the more the entire team will get out of the process.",
+    "crumbs": [
+      "Champions Cohorts",
+      "Am I ready to participate in a Champions Cohort?"
+    ]
+  },
+  {
+    "objectID": "cohorts/team_guidance.html#guidance-for-teams",
+    "href": "cohorts/team_guidance.html#guidance-for-teams",
+    "title": "Am I ready to participate in a Champions Cohort?",
+    "section": "Guidance for Teams",
+    "text": "Guidance for Teams\nTeams who apply to an upcoming Openscapes Champions Cohort at the Water Boards can be comprised of:\n\n3-6 people that work on something together regularly\nSome team members external to the Water Boards, as long as these team members also fit the characteristics described below. It is strongly recommended that external team members account for fewer than 50% of the individuals on each team.\n\nTeams do not need to be a formal unit or group; they can be collaborating in other ways. What’s important is that they share a curiosity and interest in improving something about how they work together.",
+    "crumbs": [
+      "Champions Cohorts",
+      "Am I ready to participate in a Champions Cohort?"
+    ]
+  },
+  {
+    "objectID": "cohorts/swrcb_2026W.html",
+    "href": "cohorts/swrcb_2026W.html",
+    "title": "2026 Water Boards Cohort (Wed PM)",
+    "section": "",
+    "text": "Cohort Instruction Team: Anna Holder (OIMA), Tina Ures (DWQ)\nCohort Mentors: TBD\nGuest Teachers: TBD\n\nCohort GitHub Webpage | Repository TBD\n\nOn Wednesday afternoons in mid-August - mid-October 2026, the Water Boards cohort instructors and mentors will lead the sixth Openscapes Champions Cohort at the Water Boards!\nThe 2026 Wednesday PM Champions Cohort Individuals and/or Teams include:\n\nTBD\n\nSee the timeline below for dates of mandatory Cohort activities:\n\n\n\n2026 Wed. PM Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)",
+    "crumbs": [
+      "Champions Cohorts",
+      "2026 Water Boards Cohort (Wed PM)"
+    ]
+  },
+  {
+    "objectID": "cohorts/swrcb_2024F.html",
+    "href": "cohorts/swrcb_2024F.html",
+    "title": "2024 Water Boards Cohort (Fall)",
+    "section": "",
+    "text": "Cohort Instruction Team: Anna Holder (OIMA), Tina Ures (DWQ)\nCohort Mentors: Madi Boynton (DWQ), Danielle Cantrell (DDW), TJ Middlemis-Clark (R6), michael ben Ortiz (OPP), Elena Suglia (OIMA), Val Zimmer (DWR)\nGuest Teachers: Stefanie Butland (Openscapes), Corey Clatterbuck (California Coastal Commission), Alena Reynolds (Skokomish Tribe DNR; Tribal Exchange Network)\n\nCohort GitHub Webpage | Repository\n\nIn mid-August - mid-October 2024, the Water Boards cohort instructors and mentors will lead the fourth Openscapes Champions Cohort at the Water Boards! Fall 2024 Champions Cohort Teams include:\n\nUST Evaluation Team\nWaTR (Water Telemetry Research)\n\nSee the timeline below for dates of mandatory 2024 Cohort activities.\n\n\n\n2024 Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)",
+    "crumbs": [
+      "Champions Cohorts",
+      "2024 Water Boards Cohort (Fall)"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Openscapes at the Water Boards",
+    "section": "",
+    "text": "The California State Water Resources Control Board (State Water Board) and the nine Regional Water Quality Control Boards (Regional Water Boards), collectively known as the California Water Boards (Water Boards), are dedicated to a single mission:\n\nTo preserve, enhance, and restore the quality of California’s water resources and drinking water for the protection of the environment, public health, and all beneficial uses, and to ensure proper water resource allocation and efficient use, for the benefit of present and future generations.\n\n\nIn recent years, the State Water Board has committed to a number of cultural and programmatic changes related to open data and racial equity. To successfully achieve the open data and equity outcomes we seek, it is crucial that we shift our perspectives, culture, and actions towards open science so that the principles are fully integrated.\nOpenscapes through their Champions Program, provides a framework for education, integration, and operationalization of open science, equity, communication, and kindness into individual and team collaborations and workflows. Teams that participate in the Champions Program are empowered to evolve and invest in their culture, processes, and workflows so that they can embody the better science for future us mindset.\nOpenscapes champions open science practices in environmental science to help uncover data-driven solutions faster. By introducing teams to open science tools specifically created to meet modern demands for collaborative data science, Openscapes creates the space for teams to invest in a positive open culture that enables better science in less time.\nSince in 2022, the Water Boards, in partnership with Openscapes, have been hosting annual Champions Cohorts and intend to use their Openscapes Implementation Strategy to continue to scale the Champions Program throughout the organization.\n\n\n\n\n\n\nImportant2026 Champions Cohort Application Period will Open May 1, 2026.\n\n\n\nOpenscapes at the Water Boards will host two Champions Cohorts from mid-August through mid-October 2026:\n\nFall 2026 Tue AM Cohort\nFall 2026 Wed PM Cohort\n\nWater Boards individuals and teams will be able to apply to join one one of the above cohorts as a Participant or Mentor from May 1, 2026 to June 30, 2026.\n\n\nTo stay informed of Openscapes activities, you can connect with them on Mastodon @openscapes or join their newsletter",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "about_at_swrcb/impacts.html",
+    "href": "about_at_swrcb/impacts.html",
+    "title": "Impacts",
+    "section": "",
+    "text": "Openscapes is an ongoing internal effort at the Water Boards, with immediate and long-term impacts across the organization. Below is a space of shared successes we’ve heard about or seen from teams who have joined a Champions Cohort at the Water Boards! If you would like to contribute to this list, please submit an issue to this Github repository!",
+    "crumbs": [
+      "About Openscapes at the Water Boards",
+      "Impacts"
+    ]
+  },
+  {
+    "objectID": "about_at_swrcb/impacts.html#individual-team-successes",
+    "href": "about_at_swrcb/impacts.html#individual-team-successes",
+    "title": "Impacts",
+    "section": "Individual team successes",
+    "text": "Individual team successes\n\nIn the Cohort, every team builds their Pathway – where are they in their work and where do they want to go? The Pathway is a living document and a place to share progress & successes!\n\n\n(The Pathway) helped us be more conscious of what can be improved and also how we can improve. We were already aware of the ‘problems’ before but now there is a plan for next steps that we can all agree upon.\n\n\nThe PFAS Free Forum – A bimonthly meeting among State & Regional board staff to share, coordinate, and learn about PFAS data & methods. As PFAS research and policy is rapidly changing, the team is also building a Sharepoint site to share PFAS resources and communicate asynchronously between forums.\nSWAMP Manual – a manual written by current SWAMP members for on & offboarding SWAMP team members at State Board.\nMentor-led meetings/facilitation/skill building/leadership\nOngoing optional co-working among SWAMP team members as an agenda-free space to work on common tasks, knowledge sharing/skill building, and opportunity to pause and reflect on Water Boards work.",
+    "crumbs": [
+      "About Openscapes at the Water Boards",
+      "Impacts"
+    ]
+  },
+  {
+    "objectID": "about_at_swrcb/impacts.html#qualitative-outcomes",
+    "href": "about_at_swrcb/impacts.html#qualitative-outcomes",
+    "title": "Impacts",
+    "section": "Qualitative outcomes",
+    "text": "Qualitative outcomes\n\nOpenscapes has encouraged me to manage my workflow better with “future me/us” in mind.\n\n\nImproved individual and team interactions\nFoster a culture of inclusion and belonging where discussion of values is safe and welcomed\n\nDirect connection to Goal 2B of the Water Boards Racial Equity Action Plan",
+    "crumbs": [
+      "About Openscapes at the Water Boards",
+      "Impacts"
+    ]
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Openscapes Leads will be presenting to various Water Boards groups to provide an introduction and overview of Openscapes and the 2026 Openscapes Champions process.\nContact Anna Holder via email or MS Teams Chat if you’d like us to present to your Water Boards Region, Division, Office, Branch, Section, Roundtable or other group meeting!\nPresentations currently scheduled include:\n\nJan 13: Water Quality Certs (401) Roundtable\nJan 14:\n\nNational Pollutant Discharge Elimination System (NPDES) Roundtable\nEnvironmental Justice Roundtable’s Racial Equity Data Subcommittee\n\nJan 20: DWQ Advancing Racial Equity Subcommittee Meeting\nJan 22:\n\nDivision of Drinking Water Resiliency and Data Branch (RaD) All-Staff\nForestry and Wildfire Resiliency Roundtable\n\nFeb 4: USTs Roundtable – Regional Boards Meeting\nFeb 10:\n\nPower BItes Lunch & Learn\nClimate Change Roundtable\n\nFeb 11:\n\nUSTs Roundtable – Local Oversight Program Meeting\nDivision of Water Quality All-Staff Meeting\n\nFeb 19: Integrated Report Roundtable\nFeb 24: Office of Sustainable Groundwater Management Program Meeting\nFeb 26: Division of Water Rights All-Staff Meeting\nMar 10: Surface Water Ambient Monitoring Program (SWAMP) Roundtable\nMar 12:\n\nStormwater Roundtable\nCannabis Cultivation Program Roundtable\nWaste Discharge Requirements Program Roundtable\n\nMar 24: Environmental Justice Roundtable\nApr 7: Enforcement Roundtable\nApr 9: Joint Total Maximum Daily Load (TMDL) & Nonpoint Source Roundtable\nApr 21:\n\nSite Cleanup / DoD Roundtable\nBasin Planning Roundtable\n\nApr 22: Recycled Water Roundtable\nMay 13: GIS & Data Science Roundtable",
+    "crumbs": [
+      "Events"
+    ]
+  },
+  {
+    "objectID": "events.html#road-show-presentations",
+    "href": "events.html#road-show-presentations",
+    "title": "Events",
+    "section": "",
+    "text": "Openscapes Leads will be presenting to various Water Boards groups to provide an introduction and overview of Openscapes and the 2026 Openscapes Champions process.\nContact Anna Holder via email or MS Teams Chat if you’d like us to present to your Water Boards Region, Division, Office, Branch, Section, Roundtable or other group meeting!\nPresentations currently scheduled include:\n\nJan 13: Water Quality Certs (401) Roundtable\nJan 14:\n\nNational Pollutant Discharge Elimination System (NPDES) Roundtable\nEnvironmental Justice Roundtable’s Racial Equity Data Subcommittee\n\nJan 20: DWQ Advancing Racial Equity Subcommittee Meeting\nJan 22:\n\nDivision of Drinking Water Resiliency and Data Branch (RaD) All-Staff\nForestry and Wildfire Resiliency Roundtable\n\nFeb 4: USTs Roundtable – Regional Boards Meeting\nFeb 10:\n\nPower BItes Lunch & Learn\nClimate Change Roundtable\n\nFeb 11:\n\nUSTs Roundtable – Local Oversight Program Meeting\nDivision of Water Quality All-Staff Meeting\n\nFeb 19: Integrated Report Roundtable\nFeb 24: Office of Sustainable Groundwater Management Program Meeting\nFeb 26: Division of Water Rights All-Staff Meeting\nMar 10: Surface Water Ambient Monitoring Program (SWAMP) Roundtable\nMar 12:\n\nStormwater Roundtable\nCannabis Cultivation Program Roundtable\nWaste Discharge Requirements Program Roundtable\n\nMar 24: Environmental Justice Roundtable\nApr 7: Enforcement Roundtable\nApr 9: Joint Total Maximum Daily Load (TMDL) & Nonpoint Source Roundtable\nApr 21:\n\nSite Cleanup / DoD Roundtable\nBasin Planning Roundtable\n\nApr 22: Recycled Water Roundtable\nMay 13: GIS & Data Science Roundtable",
+    "crumbs": [
+      "Events"
+    ]
+  },
+  {
+    "objectID": "events.html#openscapes-office-hours",
+    "href": "events.html#openscapes-office-hours",
+    "title": "Events",
+    "section": "Openscapes Office Hours",
+    "text": "Openscapes Office Hours\nOffice hours are open to all Water Boards Staff interested in joining future Champions Cohorts as a participant or Mentor or to ask questions to determine if joining a future Openscapes cohort is a good fit. Water Boards Staff can Join here!\nThese are scheduled and facilitated by an Openscapes Lead every 3 Tuesdays starting Jan 27, 2026 through Jun 30, 2026. All meetings will be from 10:30 am - 11:30 am.\nSpecific 2026 dates include: Jan 27, Feb 17, Mar 10, Apr 21, May 12, Jun 2, Jun 23\nHelp us spread the word! Tell your colleagues about Openscapes & upcoming office hours! Please forward All Staff emails and/or links to meeting login info as they are distributed.",
+    "crumbs": [
+      "Events"
+    ]
+  },
+  {
+    "objectID": "events.html#mentor-co-working",
+    "href": "events.html#mentor-co-working",
+    "title": "Events",
+    "section": "Mentor Co-Working",
+    "text": "Mentor Co-Working\nMentor Co-working is open to Water Boards Staff that have already engaged in Openscapes at the Water Boards in some way and are eligible to be a Community Mentor. This will be a space for Water Boards Community Mentors to work on tasks together and make steady progress on their Openscapes and/or open science goals. Water Boards Openscapes Community Mentors can join us by completing this form!\nThese are scheduled and facilitated by an Openscapes Lead every 3rd Wednesday of the month Jan - May 2026. All Co-working sessions will be from 2:00 pm - 3:00 pm.\nPotential topics we are considering for early 2026 co-working include share-outs on communications regarding event planning and documentation.\nHere are some other examples of co-working topics or ideas:\n\nShare and document stories related to successes / impacts you have experienced by participating in Openscapes at the Water Boards\nFind a common data / work challenge across mentors and work on solutions together\nHelp develop resources to support communication and engagement around Openscapes activities (e.g., slides, fact sheets, web updates, blog, etc.)\nWork on your own thing, with friendly accountability and support\nScreen share, skill share, show & tell for cool skills, tech, resources you think others should know about",
+    "crumbs": [
+      "Events"
+    ]
+  },
+  {
+    "objectID": "events.html#community-calls",
+    "href": "events.html#community-calls",
+    "title": "Events",
+    "section": "Community Calls",
+    "text": "Community Calls\nIn the spirit of fostering connections and building community, we periodically host Openscapes at the Water Boards Community Calls. This space is for us to discuss and explore topics relevant to Openscapes and all are welcome to join!\nCheck back for our 2026 Community Call schedule.\nRecordings and slides from past Community Calls are available on our Resources Page.",
+    "crumbs": [
+      "Events"
+    ]
+  },
+  {
     "objectID": "mentors/mentor_guidance.html",
     "href": "mentors/mentor_guidance.html",
     "title": "Am I ready to be an Openscapes Mentor?",
@@ -15,7 +195,7 @@
     "href": "mentors/mentor_guidance.html#cohort-mentors",
     "title": "Am I ready to be an Openscapes Mentor?",
     "section": "Cohort Mentors",
-    "text": "Cohort Mentors\nCohort Mentors are critical to the success of each annual Openscapes cohort as they support the logistical and behind the scenes work required facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms). This form of mentorship requires supervisor approval, and a detailed time commitment further described below. For more information regarding detailed onboarding please see Mentor Onboarding.\nThe best part of being a Cohort Mentor is that they get all of the exposure to Openscapes concepts, process, and larger community - without having to find additional time to meet with a team and complete the Pathway!\n\nCohort Mentor Requirements\nNo preparation or skill set is required to be a Cohort Mentor at the Water Boards - we’ll onboard folks and teach them everything they need to know.\nAnyone across all Water Boards Regions, Divisions, or Offices, and job classifications can become a Cohort Mentor.\nThe ONLY requirement is that mentors are given the approval and support they need from their management to dedicate the time required to actively support and engage in the Openscapes Champions Process.\n\n\nCohort Mentor Time Commitment\nAs a Cohort Mentor, the time commitment is similar to cohort participants, with a few extra assignments, which comes out to:\n\nabout a 1-4 hours per week during the main 9 week cohort\nwith an additional 1-2 months of onboarding and training before the cohort (1 hour every other week).\n\n\n\n\nThe estimated weekly and overall time commitment each cohort mentor may dedicate to Openscapes tasks. Required calls are indicated in dark blue; optional calls and tasks are indicated in lighter blue.",
+    "text": "Cohort Mentors\nCohort Mentors are critical to the success of each annual Openscapes cohort as they support the logistical and behind the scenes work required facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms). This form of mentorship requires supervisor approval, and a detailed time commitment further described below. For more information regarding detailed onboarding please see Mentor Onboarding.\nThe best part of being a Cohort Mentor is that they get all of the exposure to Openscapes concepts, process, and larger community - without having to find additional time to meet with a team and complete the Pathway!\n\nCohort Mentor Requirements\nNo preparation or skill set is required to be a Cohort Mentor at the Water Boards - we’ll onboard folks and teach them everything they need to know.\nAnyone across all Water Boards Regions, Divisions, or Offices, and job classifications can become a Cohort Mentor.\nThe ONLY requirement is that mentors are given the approval and support they need from their management to dedicate the time required to actively support and engage in the Openscapes Champions Process.\n\n\nCohort Mentor Time Commitment\nAs a Cohort Mentor, the time commitment is similar to cohort participants, with a few extra assignments., which will require 1 to 4 hours per week. See the Mentor Time Commitment graphic below for more details.\n2026 Cohort Mentors will begin meeting with the instruction team via Seaside Chats the first week of July. This time will be used to onboard mentors into the process and prepare them to support Champions Cohort Calls, which will begin mid-August.\nMandatory Cohort Mentor Seaside chats will occur every other week on the following days/times:\n\nTue AM Cohort Mentor Seaside Chats - Tuesdays from 10 am - 11 am, beginning July 7\nWed PM Cohort Mentor Seaside Chats - Wednesdays from 2 pm - 3 pm beginning July 8\n\n\n\n\nThe estimated weekly and overall time commitment each cohort mentor may dedicate to Openscapes tasks. Required calls are indicated in dark blue; optional calls and tasks are indicated in lighter blue.",
     "crumbs": [
       "Mentors Community",
       "Am I ready to be an Openscapes Mentor?"
@@ -73,36 +253,96 @@
     ]
   },
   {
-    "objectID": "about_at_swrcb/impacts.html",
-    "href": "about_at_swrcb/impacts.html",
-    "title": "Impacts",
+    "objectID": "mentors/mentor_onboarding.html",
+    "href": "mentors/mentor_onboarding.html",
+    "title": "Cohort Mentor Onboarding",
     "section": "",
-    "text": "Openscapes is an ongoing internal effort at the Water Boards, with immediate and long-term impacts across the organization. Below is a space of shared successes we’ve heard about or seen from teams who have joined a Champions Cohort at the Water Boards! If you would like to contribute to this list, please submit an issue to this Github repository!",
+    "text": "As you begin your Openscapes Cohort Mentor journey with the Water Boards - we want to be sure you have the resources you need to help you get started. Below is a non-comprehensive, but hopefully informative guide to onboarding as a mentor at the Water Boards. Please re-reference and contribute to revising this page throughout your time as a Water Boards Openscapes Champions Cohort Mentor!\n\n\n\n\n\n\nNoteNote for Community Mentors\n\n\n\nThis page is dedicated to Champions Cohort Mentor Onboarding. Since Community Mentors have already participated in an Openscapes Cohort or as a Cohort Mentor, you should already be familiar with much of the information below. Additional Community Mentor onboarding will be provided as needed or requested.\n\n\n\n\nWe have four Mentor Seaside Chats focused on onboarding and preparing you to support a Champions Cohort at the Water Boards. Here we detail the concepts, skills, and practices Mentors will experience and experiment with in each Mentor Seaside Chat.\n\n\n\n\nWe are all empowered and expected to practice the following behaviors:\n\nWe are guards of this brave space - As mentors and instructors we follow the Openscapes Code of Conduct. We do not tolerate any instances of hate, discrimination, or harassment from anyone participating in Openscapes at the Water Boards, including instructors, mentors, guest instructors, or participants. This applies to modes of interaction online including remote calls or meetings, teams chats and GitHub project repositories.\nWe ask questions - As mentors and instructors, we don’t have to know it all. Asking and learning together (even alongside participants) is welcome and encouraged. If a question has come up for you, it is probably on someone else’s mind, too!\nWe are part of the process - Our suggestions, resources, and conversations are a part of the process and deeply benefit our participants. If something comes to mind as we are learning together, we feel empowered speak up, offer suggestions, add to resources, content, and conversations when opportunities arise.\nWe practice active listening and asking powerful questions - We listen fully and deeply when other people are speaking and ask powerful questions to empower others to find their own solutions rather than suggesting ideas of what they should do. We also understand that these are skills that are learned and require practice to be strengthened over time.\n\nActive listening is a way of listening with the purpose of understanding the other persons perspective rather than to respond or provide solutions.\nPowerful questions are usually open ended questions that begin with “what”, and can never be answered with a simple yes or no.\n\nWe remember that we’re all learning and growing together & we don’t have to be an expert to teach - We each bring our own unique lens, perspective, and lived experience to the program - and we encourage each other to share that expertise with others when opportunities arise.\nWe say YES to Vulnerability; NO to Shame - We acknowledge that going through and supporting the Openscapes process can feel very vulnerable, and that’s OK! We understand that shaming ourselves or others for any reason is not acceptable. What’s important is that we all stay curious and embrace opportunities for learning and growth so that we can build trust in ourselves and each other.\n\n\n\n\nMentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms).\nYour responsibilities during each Mentors Seaside Chat will be some combination of:\n\nSupport Instruction team in agenda review and preparation of slide decks\nGo through / practice the “run of show” for upcoming cohort call(s)\nProvide feedback, bring up sticking points, etc.\n\nYour responsibilities during each Cohort Call will be some combination of:\n\nBe present in the space: close your email; update your Teams status to “do not disturb”\nSupport meeting logistics:\n\nMonitor chat\nTake notes in the shared doc\nManage breakout rooms\nManage and archive the meeting recording\n\nShare positive feedback or support (e.g., +1, emojis, reactions, etc.)\n\nYour responsibilities after each Cohort Call will be some combination of:\n\nDraft the previous call’s Digest\nShare the Digest with the Mentor team for review & feedback\nPost the Digest to GitHub and Openscapes Teams Channel\n\nYour task before our next Mentors Seaside Chat\nIf you haven’t already, please read the Openscapes Code of Conduct\n\n\n\n\nThe Water Boards Openscapes Instruction Team uses multiple platforms to communicate, edit, share, and save documents used for each Openscapes Cohort. Below is an overview of the platforms and their primary uses.\nDuring this meeting we will grant and test your access to all platforms. Direct links will be provided in our shared Seaside Chat Notes Doc.\n\n\n\nGoogle Drive (Internal & Select Extarnal Partner Access): used for Instruction Team planning and preparing cohorts, agendas, digest and where we keep our running notes for our Cohort Prep\nOneDrive (Internal Access): used for sharing/storing final meeting materials with individuals within each cohort. Once agendas and slides are finalized in Google, Openscapes Instructors (or Mentors) will save copies over to the OneDrive.\nGitHub (Internal or External Access): used for project management, issues, posting Digest, and GitHub skill building with each cohort. GitHub access settings are set so that anyone can view our repositories, but only select individuals will be able to edit or add materials.\n\n\n\n\n\nShared Seaside Chats Google Doc: we will use a Google doc to keep track of our Seaside Chat agendas and notes. We will add to this document during meeting and possibly also asynchronously in between meetings.\nMicrosoft Teams Chat: used for short/simple updates or conversations outside of meetings. This is our most frequent mode of asynchronous communications among mentors & the instruction team.\nOutlook Email: used for sharing more complex content, updates, or announcements\nOutlook Calendar: used to schedule all meetings\n\nRequired meetings: Cohort Calls, Mentor Seaside Chats\nOptional meetings: Co-working\n\nMicrosoft Teams Meetings: platform on which all meetings are held.\n\n\n\n\nGitHub is the main platform the Openscapes Instruction Team uses for project management and posting Digests for each Cohort. It’s important for Mentors to have some basic skills to navigate and post to GitHub. Some skills we will cover include:\n\nSetting up and logging into your GitHub Account\n\nCreate your free personal account GitHub account\nTips on choosing your username\n\nOverview of how we use GitHub for communicaion and coordination with Issues and Projects\nWhere to find what you will need as a Mentor\n\n\n\n\n\nMentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms). In this call, mentors will continue to learn by doing the following:\n\nPractice navigating between Google Drive, OneDrive, and GitHub\nPractice opening breaking out rooms, assigning attendees to rooms & sending announcements\nReview template Cohort Call Digests as well as associated development, review, and posting processes\nPractice using GitHub Issues\n\n\n\n\nWe will have time during this call to reflect and and review our practiced knowledge and skills we have been developing over the past three Mentor onboarding calls & go through a detailed run of show for our first Cohort Call by:\n\nQ&A on all previous concepts\nPractice/test teams, breakouts, etc.\nReview Cohort Call 1 agenda and go through run of show.\n\n\n\n\n\n\nOpenscapes at the Water Boards\nCalifornia Water Boards’ 2nd Annual Openscapes Champions Program - Reflections & Future (Dec 2023 Openscapes Blog)\nShifting institutional culture to develop climate solutions with Open Science (Sep 2023 preprint)\nOur path to better science in less time using open data science tools (Lowndes et al 2017)\n\nOptionally, you can also review the slides/video of a 2021 plenary at the SORTEE Conference\n\nHow coaching skills have made us better open data science mentors (May 2023)",
     "crumbs": [
-      "About Openscapes at the Water Boards",
-      "Impacts"
+      "Mentors Community",
+      "Cohort Mentor Onboarding"
     ]
   },
   {
-    "objectID": "about_at_swrcb/impacts.html#individual-team-successes",
-    "href": "about_at_swrcb/impacts.html#individual-team-successes",
-    "title": "Impacts",
-    "section": "Individual team successes",
-    "text": "Individual team successes\n\nIn the Cohort, every team builds their Pathway – where are they in their work and where do they want to go? The Pathway is a living document and a place to share progress & successes!\n\n\n(The Pathway) helped us be more conscious of what can be improved and also how we can improve. We were already aware of the ‘problems’ before but now there is a plan for next steps that we can all agree upon.\n\n\nThe PFAS Free Forum – A bimonthly meeting among State & Regional board staff to share, coordinate, and learn about PFAS data & methods. As PFAS research and policy is rapidly changing, the team is also building a Sharepoint site to share PFAS resources and communicate asynchronously between forums.\nSWAMP Manual – a manual written by current SWAMP members for on & offboarding SWAMP team members at State Board.\nMentor-led meetings/facilitation/skill building/leadership\nOngoing optional co-working among SWAMP team members as an agenda-free space to work on common tasks, knowledge sharing/skill building, and opportunity to pause and reflect on Water Boards work.",
+    "objectID": "mentors/mentor_onboarding.html#cohort-mentor-onboarding",
+    "href": "mentors/mentor_onboarding.html#cohort-mentor-onboarding",
+    "title": "Cohort Mentor Onboarding",
+    "section": "",
+    "text": "We have four Mentor Seaside Chats focused on onboarding and preparing you to support a Champions Cohort at the Water Boards. Here we detail the concepts, skills, and practices Mentors will experience and experiment with in each Mentor Seaside Chat.\n\n\n\n\nWe are all empowered and expected to practice the following behaviors:\n\nWe are guards of this brave space - As mentors and instructors we follow the Openscapes Code of Conduct. We do not tolerate any instances of hate, discrimination, or harassment from anyone participating in Openscapes at the Water Boards, including instructors, mentors, guest instructors, or participants. This applies to modes of interaction online including remote calls or meetings, teams chats and GitHub project repositories.\nWe ask questions - As mentors and instructors, we don’t have to know it all. Asking and learning together (even alongside participants) is welcome and encouraged. If a question has come up for you, it is probably on someone else’s mind, too!\nWe are part of the process - Our suggestions, resources, and conversations are a part of the process and deeply benefit our participants. If something comes to mind as we are learning together, we feel empowered speak up, offer suggestions, add to resources, content, and conversations when opportunities arise.\nWe practice active listening and asking powerful questions - We listen fully and deeply when other people are speaking and ask powerful questions to empower others to find their own solutions rather than suggesting ideas of what they should do. We also understand that these are skills that are learned and require practice to be strengthened over time.\n\nActive listening is a way of listening with the purpose of understanding the other persons perspective rather than to respond or provide solutions.\nPowerful questions are usually open ended questions that begin with “what”, and can never be answered with a simple yes or no.\n\nWe remember that we’re all learning and growing together & we don’t have to be an expert to teach - We each bring our own unique lens, perspective, and lived experience to the program - and we encourage each other to share that expertise with others when opportunities arise.\nWe say YES to Vulnerability; NO to Shame - We acknowledge that going through and supporting the Openscapes process can feel very vulnerable, and that’s OK! We understand that shaming ourselves or others for any reason is not acceptable. What’s important is that we all stay curious and embrace opportunities for learning and growth so that we can build trust in ourselves and each other.\n\n\n\n\nMentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms).\nYour responsibilities during each Mentors Seaside Chat will be some combination of:\n\nSupport Instruction team in agenda review and preparation of slide decks\nGo through / practice the “run of show” for upcoming cohort call(s)\nProvide feedback, bring up sticking points, etc.\n\nYour responsibilities during each Cohort Call will be some combination of:\n\nBe present in the space: close your email; update your Teams status to “do not disturb”\nSupport meeting logistics:\n\nMonitor chat\nTake notes in the shared doc\nManage breakout rooms\nManage and archive the meeting recording\n\nShare positive feedback or support (e.g., +1, emojis, reactions, etc.)\n\nYour responsibilities after each Cohort Call will be some combination of:\n\nDraft the previous call’s Digest\nShare the Digest with the Mentor team for review & feedback\nPost the Digest to GitHub and Openscapes Teams Channel\n\nYour task before our next Mentors Seaside Chat\nIf you haven’t already, please read the Openscapes Code of Conduct\n\n\n\n\nThe Water Boards Openscapes Instruction Team uses multiple platforms to communicate, edit, share, and save documents used for each Openscapes Cohort. Below is an overview of the platforms and their primary uses.\nDuring this meeting we will grant and test your access to all platforms. Direct links will be provided in our shared Seaside Chat Notes Doc.\n\n\n\nGoogle Drive (Internal & Select Extarnal Partner Access): used for Instruction Team planning and preparing cohorts, agendas, digest and where we keep our running notes for our Cohort Prep\nOneDrive (Internal Access): used for sharing/storing final meeting materials with individuals within each cohort. Once agendas and slides are finalized in Google, Openscapes Instructors (or Mentors) will save copies over to the OneDrive.\nGitHub (Internal or External Access): used for project management, issues, posting Digest, and GitHub skill building with each cohort. GitHub access settings are set so that anyone can view our repositories, but only select individuals will be able to edit or add materials.\n\n\n\n\n\nShared Seaside Chats Google Doc: we will use a Google doc to keep track of our Seaside Chat agendas and notes. We will add to this document during meeting and possibly also asynchronously in between meetings.\nMicrosoft Teams Chat: used for short/simple updates or conversations outside of meetings. This is our most frequent mode of asynchronous communications among mentors & the instruction team.\nOutlook Email: used for sharing more complex content, updates, or announcements\nOutlook Calendar: used to schedule all meetings\n\nRequired meetings: Cohort Calls, Mentor Seaside Chats\nOptional meetings: Co-working\n\nMicrosoft Teams Meetings: platform on which all meetings are held.\n\n\n\n\nGitHub is the main platform the Openscapes Instruction Team uses for project management and posting Digests for each Cohort. It’s important for Mentors to have some basic skills to navigate and post to GitHub. Some skills we will cover include:\n\nSetting up and logging into your GitHub Account\n\nCreate your free personal account GitHub account\nTips on choosing your username\n\nOverview of how we use GitHub for communicaion and coordination with Issues and Projects\nWhere to find what you will need as a Mentor\n\n\n\n\n\nMentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms). In this call, mentors will continue to learn by doing the following:\n\nPractice navigating between Google Drive, OneDrive, and GitHub\nPractice opening breaking out rooms, assigning attendees to rooms & sending announcements\nReview template Cohort Call Digests as well as associated development, review, and posting processes\nPractice using GitHub Issues\n\n\n\n\nWe will have time during this call to reflect and and review our practiced knowledge and skills we have been developing over the past three Mentor onboarding calls & go through a detailed run of show for our first Cohort Call by:\n\nQ&A on all previous concepts\nPractice/test teams, breakouts, etc.\nReview Cohort Call 1 agenda and go through run of show.",
     "crumbs": [
-      "About Openscapes at the Water Boards",
-      "Impacts"
+      "Mentors Community",
+      "Cohort Mentor Onboarding"
     ]
   },
   {
-    "objectID": "about_at_swrcb/impacts.html#qualitative-outcomes",
-    "href": "about_at_swrcb/impacts.html#qualitative-outcomes",
-    "title": "Impacts",
-    "section": "Qualitative outcomes",
-    "text": "Qualitative outcomes\n\nOpenscapes has encouraged me to manage my workflow better with “future me/us” in mind.\n\n\nImproved individual and team interactions\nFoster a culture of inclusion and belonging where discussion of values is safe and welcomed\n\nDirect connection to Goal 2B of the Water Boards Racial Equity Action Plan",
+    "objectID": "mentors/mentor_onboarding.html#useful-links",
+    "href": "mentors/mentor_onboarding.html#useful-links",
+    "title": "Cohort Mentor Onboarding",
+    "section": "",
+    "text": "Openscapes at the Water Boards\nCalifornia Water Boards’ 2nd Annual Openscapes Champions Program - Reflections & Future (Dec 2023 Openscapes Blog)\nShifting institutional culture to develop climate solutions with Open Science (Sep 2023 preprint)\nOur path to better science in less time using open data science tools (Lowndes et al 2017)\n\nOptionally, you can also review the slides/video of a 2021 plenary at the SORTEE Conference\n\nHow coaching skills have made us better open data science mentors (May 2023)",
     "crumbs": [
-      "About Openscapes at the Water Boards",
-      "Impacts"
+      "Mentors Community",
+      "Cohort Mentor Onboarding"
+    ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Here you will find a curated list of documents, presentations, and other resources related to the implementation and scaling of Openscapes at the Water Boards.\nAll Water Boards authors are bolded below.",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#community-calls",
+    "href": "resources.html#community-calls",
+    "title": "Resources",
+    "section": "Community Calls",
+    "text": "Community Calls\n Openscapes at the Water Boards Mentor Community Call Kick-off. Nov 2025. Anna Holder, Devan Burke, Elena Suglia, Tina Ures. Call Slides.",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#presentations",
+    "href": "resources.html#presentations",
+    "title": "Resources",
+    "section": "Presentations",
+    "text": "Presentations\n Fostering a Collaborative Culture & Intro to Openscapes at the Water Boards. Jan 2026. Anna Holder. CA Water Board Division of Drinking Water (DDW) Resiliency and Data Branch (RaD) All Staff.\n Intro to Openscapes at the Water Boards: Kinder Science for Future Us. Oct 2025. Anna Holder. CA Office of Data and Innovation (ODI) Data Science Community of Practice.\n Openscapes: Better science for future us. Aug 2024. Julia Lowndes, Devan Burke, Anna Holder. Internal CA Dept. of Water Resources (DWR) Environmental Coordination Committee (ECC) Open Forum.\n Water Boards Openscapes Program Update & Opportunities. May-Jun 2024. Anna Holder, Devan Burke, Tina Ures. Internal Division and Roundtable Presentations.\n Openscapes: Better science for future us. Mar 2024. Anna Holder, Devan Burke, Julia Lowndes. California Water Data Consortium Data for Lunch Series.\n Water Boards Openscapes Program Update & Opportunities. Dec 2023. Anna Holder, Devan Burke, Tina Ures. Internal Division of Water Quality (DWQ) All Staff Presentation.\n Water Boards Openscapes Champions Update & Opportunities. Nov 2023. Anna Holder, Devan Burke, Tina Ures. Internal Deputy Management Committee (DMC) Presentation.\n Openscapes Opportunities at the California Water Boards. Mar - Jun 2023. Anna Holder, Corey Clatterbuck, Devan Burke, Tina Ures. Internal Roundtable Presentations.\n Openscapes Opportunities at the California Water Boards. Feb 2023. Anna Holder, Corey Clatterbuck, Devan Burke, Tina Ures. Internal Deputy Management Committee (DMC) Presentation.\n Better Science for Future Us: Openscapes stories and approaches for the Year of Open Science. Jan 2023. Julia Lowndes, Erin Robinson, Ileana Fenwick, Adyan Rios, Josh London, Corey Clatterbuck, Luis Lopez, Cassandra Nickles. Earth Science Information Partners (ESIP) Meeting.\n Better Science for Future Us: Planning for the Year of Open Science. Jan 2022. Julia Lowndes, Erin Robinson, Aaron Friesz, Ileana Fenwick, Amy Steiker, Eli Holmes, Anna Holder. Earth Science Information Partners (ESIP) Meeting.",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#blog-posts",
+    "href": "resources.html#blog-posts",
+    "title": "Resources",
+    "section": "Blog Posts",
+    "text": "Blog Posts\n Coaching the Openscapes team at the California Water Boards. Oct 24, 2025. Julie Lowndes, Anna Holder, Devan Burke, Tina Ures, Elena Suglia, Greg Gearheart.\n California Water Boards’ 2nd Annual Openscapes Champions Program - Reflections & Future. Dec 13, 2023. Anna Holder, Devan Burke, Tina Ures.\n 3 Approaches for the Year of Open Science. Mar 16, 2023. Corey Clatterbuck, Ileana Fenwick, Josh London, Luis Lopez, Cassie Nickles, Adyan Rios, Stefanie Butland, Julie Lowndes, Erin Robinson.\n Adapting the Champions Program for the California Water Boards. Dec 2, 2022. Corey Clatterbuck, Anna Holder.\n 3 Takeways for Planning for the Year of Open Science. Feb 17, 2022. Aaron Friesz, Ileana Fenwick, Eli Holmes, Anna Holder, Amy Steiker, Erin Robinson, Julia Lowndes.\n California Water Board Mentor Perspectives. Dec 7, 2021. Anna Holder, Corey Clatterbuck.\n Identifying Common Approaches and Needs for Fisheries Dependent Data. Nov 12, 2021. Gavin Fay, Andy Jones, Anna Holder, Julia Lowndes.\n Strengthening Scientific Workflow and Team Collaboration at NOAA Fisheries. Nov 12, 2021. Eli Holmes, Eric Ward, Hélène Scalliet, Corey Clatterbuck, Julia Lowndes.\nVisit the Openscapes website to see all Openscapes Blog Posts",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#openscapes-literature",
+    "href": "resources.html#openscapes-literature",
+    "title": "Resources",
+    "section": "Openscapes Literature",
+    "text": "Openscapes Literature\nJulia Stewart Lowndes, Anna M. Holder, Emily H. Markowitz, Corey Clatterbuck, Amanda L. Bradford, Kathryn Doering, Molly H. Stevens, Stefanie Butland, Devan Burke, Sean Kross, Jeffrey W. Hollister, Christine Stawitz, Margaret C. Siple, Adyan Rios, Jessica Nicole Welch, Bai Li, Farnaz Nojavan, Alexandra Davis, Erin Steiner, Josh M. London, Ileana Fenwick, Alexis Hunzinger, Juliette Verstaen, Elizabeth Holmes, Makhan Virdi, Andrew P. Barrett, Erin Robinson. 2024. Shifting institutional culture to develop climate solutions with Open Science. Ecology and Evolution, 14, e11341.\nRobinson, Julia S. Stewart Lowndes. 2022. The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices. EarthArXiv Preprint.\nJulia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, Benjamin S. Halpern. 2019. Our path to better science in less time using open data science tools. Nature Ecology and Evolution 1, 0160.\nJulia S. Stewart Lowndes. 2019. Open software means kinder science. Scientific American.\nJulia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen, Chelsea L. Wood. 2019. Supercharge your research: a ten-week plan for open data science Nature Career Column. 31 October 2019",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#documents",
+    "href": "resources.html#documents",
+    "title": "Resources",
+    "section": "Documents",
+    "text": "Documents\n California Water Boards Openscapes Implementation Strategy. Feb 2022. Greg Gearheart, Anna Holder, Corey Clatterbuck, Devan Burke, Tina Ures.",
+    "crumbs": [
+      "Resources"
     ]
   },
   {
@@ -176,216 +416,6 @@
     ]
   },
   {
-    "objectID": "cohorts/swrcb_2026W.html",
-    "href": "cohorts/swrcb_2026W.html",
-    "title": "2026 Water Boards Cohort (Wed PM)",
-    "section": "",
-    "text": "Cohort Instruction Team: Anna Holder (OIMA), Tina Ures (DWQ)\nCohort Mentors: TBD\nGuest Teachers: TBD\n\nCohort GitHub Webpage | Repository TBD\n\nOn Wednesday afternoons in mid-August - mid-October 2026, the Water Boards cohort instructors and mentors will lead the sixth Openscapes Champions Cohort at the Water Boards!\nThe 2026 Wednesday PM Champions Cohort Individuals and/or Teams include:\n\nTBD\n\nSee the timeline below for dates of mandatory Cohort activities:\n\n\n\n2026 Wed. PM Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)",
-    "crumbs": [
-      "Champions Cohorts",
-      "2026 Water Boards Cohort (Wed PM)"
-    ]
-  },
-  {
-    "objectID": "cohorts/swrcb_2026T.html",
-    "href": "cohorts/swrcb_2026T.html",
-    "title": "2026 Water Boards Cohort (Tue AM)",
-    "section": "",
-    "text": "Cohort Instruction Team: Anna Holder (OIMA), Tina Ures (DWQ)\nCohort Mentors: TBD\nGuest Teachers: TBD\n\nCohort GitHub Webpage | Repository TBD\n\nOn Tuesday mornings in mid-August - mid-October 2026, the Water Boards cohort instructors and mentors will lead the fifth Openscapes Champions Cohort at the Water Boards!\nThe 2026 Tuesday AM Champions Cohort Individuals and/or Teams include:\n\nTBD\n\nSee the timeline below for dates of mandatory Cohort activities:\n\n\n\n2026 Tue. AM Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)",
-    "crumbs": [
-      "Champions Cohorts",
-      "2026 Water Boards Cohort (Tue AM)"
-    ]
-  },
-  {
-    "objectID": "cohorts/swrcb_2024S.html",
-    "href": "cohorts/swrcb_2024S.html",
-    "title": "2024 Water Boards Cohort (Spring)",
-    "section": "",
-    "text": "Cohort Instruction Team: Anna Holder (OIMA), Devan Burke (OIMA)\nCohort Mentors: Lisa Hunt (Region 2), Nick Martorano (OIMA), michael ben Ortiz (OPP), Dan Wang (DDW)\nGuest Teachers: Corey Clatterbuck (California Coastal Commission), Julia Stewart Lowndes (Openscapes)\n\nCohort GitHub Webpage | Repository\n\nIn late-March - late-May 2024, the Water Boards cohort instructors and mentors will lead the third Openscapes Champions Cohort at the Water Boards! Spring 2024 Champions Cohort Teams include:\n\nBloomWatchers\nData Viz Team\nGOAT STORMS\n\n\n\n\n\n\n\nNoteParticipant quotes from the post-cohort survey\n\n\n\n“So grateful to get an invaluable experience like this so early in my career, I’ll definitely bring these lessons (and this community!) with me no matter where I end up :)”\n“I imagine incorporating many of the concepts into work moving forward, slowing down to speed up, documenting our work process for future us, and creating safe space for ideas and growth.”\n“The categories and topics [in the Pathway] were helpful to prompt our group’s thinking. For example, we started out discussing data and then realized, wow team culture and communication is something we haven’t thought about directly!”\n\n\nSee the timeline below for dates of mandatory 2024 Cohort activities.\n\n\n\n2024 Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)",
-    "crumbs": [
-      "Champions Cohorts",
-      "2024 Water Boards Cohort (Spring)"
-    ]
-  },
-  {
-    "objectID": "cohorts/swrcb_2023.html",
-    "href": "cohorts/swrcb_2023.html",
-    "title": "2023 Water Boards Cohort",
-    "section": "",
-    "text": "Cohort Instruction Team: Anna Holder (OIMA), Devan Burke (OIMA), Tina Ures (DWQ)\nGuest Teachers: Julia Stewart Lowndes (Openscapes), Corey Clatterbuck (California Coastal Commission), Emily Markowitz (NOAA Fisheries)\n\nCohort GitHub Webpage | Repository\n\nIn mid-August-mid-October 2023, the Water Boards cohort instructors and mentors will lead second Openscapes Champions Cohort at the Water Boards! 2023 Champions Cohort Teams include:\n\nConservation Data Squad\nData for Equity\nRegDev Web Wizards\nReLEPtrons\nWaterbears\nWater Data Detectives\n\n\n\n\n\n\n\nNoteParticipant quotes from the post-cohort survey\n\n\n\n“Normally, I really am resistant to types of trainings and seminars about abstract concepts of the way of work. It feels really intangible and false, kind of like corporate nonsense. But this program was the opposite of that. It was applied. It was by people like me for people like me.”\n“Openscapes is one of few experiences beyond university that have been so organized, structured, guided, and constructive in developing my collaboration skills.”\n“The biggest impact is to have the vulnerability to present incomplete or in-process work in order to get the most out of collaboration. I’m hesitant to share messy work product, but this program has shown me the benefit of bringing others in when it’s messy, and how that helps.”\n\n\nSee the timeline below for dates of mandatory 2023 Cohort activities.\n\n\n\n2023 Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)",
-    "crumbs": [
-      "Champions Cohorts",
-      "2023 Water Boards Cohort"
-    ]
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Water Boards Openscapes Leads\n\nAnna Holder, Open Data Science, Equity & Tribal Coordinator, OIMA\nDevan Burke, Environmental Scientist, OIMA\nElena Suglia, Environmental Scientist, OIMA\nTina Ures, Engineering Geologist, DWQ\n\nExecutive Sponsors\n\nGreg Gearheart, Deputy Director, OIMA\nAndrew Hamilton, Assistant Deputy Director, OIMA\nAnnalisa Kihara, Assistant Deputy Director (Groundwater Quality Branch), DWQ\nNick Martorano, Assistant Deputy Director (Surface Water Quality Branch), DWQ",
-    "crumbs": [
-      "Contact"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Openscapes at the Water Boards",
-    "section": "",
-    "text": "The California State Water Resources Control Board (State Water Board) and the nine Regional Water Quality Control Boards (Regional Water Boards), collectively known as the California Water Boards (Water Boards), are dedicated to a single mission:\n\nTo preserve, enhance, and restore the quality of California’s water resources and drinking water for the protection of the environment, public health, and all beneficial uses, and to ensure proper water resource allocation and efficient use, for the benefit of present and future generations.\n\n\nIn recent years, the State Water Board has committed to a number of cultural and programmatic changes related to open data and racial equity. To successfully achieve the open data and equity outcomes we seek, it is crucial that we shift our perspectives, culture, and actions towards open science so that the principles are fully integrated.\nOpenscapes through their Champions Program, provides a framework for education, integration, and operationalization of open science, equity, communication, and kindness into individual and team collaborations and workflows. Teams that participate in the Champions Program are empowered to evolve and invest in their culture, processes, and workflows so that they can embody the better science for future us mindset.\nOpenscapes champions open science practices in environmental science to help uncover data-driven solutions faster. By introducing teams to open science tools specifically created to meet modern demands for collaborative data science, Openscapes creates the space for teams to invest in a positive open culture that enables better science in less time.\nSince in 2022, the Water Boards, in partnership with Openscapes, have been hosting annual Champions Cohorts and intend to use their Openscapes Implementation Strategy to continue to scale the Champions Program throughout the organization.\n\n\n\n\n\n\nImportant2026 Champions Cohort Application Period will Open May 1, 2026.\n\n\n\nOpenscapes at the Water Boards will host two Champions Cohorts from mid-August through mid-October 2026:\n\nFall 2026 Tue AM Cohort\nFall 2026 Wed PM Cohort\n\nWater Boards individuals and teams will be able to apply to join one one of the above cohorts as a Participant or Mentor from May 1, 2026 to June 30, 2026.\n\n\nTo stay informed of Openscapes activities, you can connect with them on Mastodon @openscapes or join their newsletter",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "cohorts/index.html",
-    "href": "cohorts/index.html",
-    "title": "Water Boards Champions Cohorts",
-    "section": "",
-    "text": "The Water Boards Openscapes Champions Program is a mentorship and professional development opportunity for individuals and teams at the Water Boards.\n\n\n2026 Fall Water Boards Cohorts: From mid-August through mid-October 2026, the Water Boards will host two Champions Cohorts.\n\nFall 2026 Tue AM Cohort\nFall 2026 Wed PM Cohort\n\nWater Boards individuals and teams can apply to join these cohorts as mentors or participants starting May 1, 2026. Applications will close on Jun 30, 2026. To learn more:\n\nCheck out: Am I ready to be an Openscapes Mentor?\nCheck out: Is my team ready for Openscapes? which also applies to individuals who would like to apply to participate.\nAttend one of the Roadshow Presentations scheduled for Jan - May 2026\nJoin an Openscapes Office Hour to ask questions and see if applying for a 2026 cohort is a good fit for you!\n\n\n\n\n\n\n\nCohort\n2024 Fall\n2024 Spring\n2023 Fall\n2022 Fall\n\n\n\n\nNumber of Teams\n3\n3\n6\n3\n\n\nPercent Water Boards Regions, Divisions, or Offices (RDOs) Represented\n27%\n27%\n36%\n9%\n\n\nNumber of RDOs Represented\n6\n6\n8\n2\n\n\nNumber of Individuals (Team Members + Instructors + Mentors)\n22\n19\n31\n19\n\n\n\n\n\n\nNumber of individual participants (Team Members = Left; Instructors and Mentors = Right) in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort. See RDO definitions below.\n\n\n\nWater Boards Region, Division, or Office Acronyms or Abbreviations and their definitions\n\n\n\n\n\n\nAcronym or Abbreviation\nDefinition\n\n\n\n\nRDO\nWater Boards Region, Division, or Office\n\n\nDAS\nDivision of Administrative Services\n\n\nDDW\nDivision of Drinking Water\n\n\nDFA\nDivision of Financial Assistance\n\n\nDIT\nDivision of Information Technology\n\n\nDWQ\nDivision of Water Quality\n\n\nDWR\nDivision of Water Rights\n\n\nOCC\nOffice of Chief Counsel\n\n\nOE\nOffice of Enforcement\n\n\nOIMA\nOffice of Information Management and Analysis\n\n\nOLA\nOffice of Legislative Affairs\n\n\nOPA\nOffice of Public Affairs\n\n\nOPP\nOffice of Public Participation\n\n\nORPP\nOffice of Research, Planning, and Performance\n\n\nR1\nRegion 1 – North Coast Regional Water Quality Control Board\n\n\nR2\nRegion 2 – San Francisco Regional Water Quality Control Board\n\n\nR3\nRegion 3 – Central Coast Regional Water Quality Control Board\n\n\nR4\nRegion 4 – Los Angeles Regional Water Quality Control Board\n\n\nR5\nRegion 5 – Central Valley Regional Water Quality Control Board\n\n\nR6\nRegion 6 – Lahontan Regional Water Quality Control Board\n\n\nR7\nRegion 7 – Colorado River Regional Water Quality Control Board\n\n\nR8\nRegion 8 – Santa Ana Regional Water Quality Control Board\n\n\nR9\nRegion 9 – San Diego Regional Water Quality Control Board\n\n\nWater Boards\nCalifornia State Water Resources Control Board and Regional Water Quality Control Boards, collectively",
-    "crumbs": [
-      "Champions Cohorts"
-    ]
-  },
-  {
-    "objectID": "cohorts/index.html#champions-cohorts",
-    "href": "cohorts/index.html#champions-cohorts",
-    "title": "Water Boards Champions Cohorts",
-    "section": "",
-    "text": "The Water Boards Openscapes Champions Program is a mentorship and professional development opportunity for individuals and teams at the Water Boards.\n\n\n2026 Fall Water Boards Cohorts: From mid-August through mid-October 2026, the Water Boards will host two Champions Cohorts.\n\nFall 2026 Tue AM Cohort\nFall 2026 Wed PM Cohort\n\nWater Boards individuals and teams can apply to join these cohorts as mentors or participants starting May 1, 2026. Applications will close on Jun 30, 2026. To learn more:\n\nCheck out: Am I ready to be an Openscapes Mentor?\nCheck out: Is my team ready for Openscapes? which also applies to individuals who would like to apply to participate.\nAttend one of the Roadshow Presentations scheduled for Jan - May 2026\nJoin an Openscapes Office Hour to ask questions and see if applying for a 2026 cohort is a good fit for you!\n\n\n\n\n\n\n\nCohort\n2024 Fall\n2024 Spring\n2023 Fall\n2022 Fall\n\n\n\n\nNumber of Teams\n3\n3\n6\n3\n\n\nPercent Water Boards Regions, Divisions, or Offices (RDOs) Represented\n27%\n27%\n36%\n9%\n\n\nNumber of RDOs Represented\n6\n6\n8\n2\n\n\nNumber of Individuals (Team Members + Instructors + Mentors)\n22\n19\n31\n19\n\n\n\n\n\n\nNumber of individual participants (Team Members = Left; Instructors and Mentors = Right) in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort. See RDO definitions below.\n\n\n\nWater Boards Region, Division, or Office Acronyms or Abbreviations and their definitions\n\n\n\n\n\n\nAcronym or Abbreviation\nDefinition\n\n\n\n\nRDO\nWater Boards Region, Division, or Office\n\n\nDAS\nDivision of Administrative Services\n\n\nDDW\nDivision of Drinking Water\n\n\nDFA\nDivision of Financial Assistance\n\n\nDIT\nDivision of Information Technology\n\n\nDWQ\nDivision of Water Quality\n\n\nDWR\nDivision of Water Rights\n\n\nOCC\nOffice of Chief Counsel\n\n\nOE\nOffice of Enforcement\n\n\nOIMA\nOffice of Information Management and Analysis\n\n\nOLA\nOffice of Legislative Affairs\n\n\nOPA\nOffice of Public Affairs\n\n\nOPP\nOffice of Public Participation\n\n\nORPP\nOffice of Research, Planning, and Performance\n\n\nR1\nRegion 1 – North Coast Regional Water Quality Control Board\n\n\nR2\nRegion 2 – San Francisco Regional Water Quality Control Board\n\n\nR3\nRegion 3 – Central Coast Regional Water Quality Control Board\n\n\nR4\nRegion 4 – Los Angeles Regional Water Quality Control Board\n\n\nR5\nRegion 5 – Central Valley Regional Water Quality Control Board\n\n\nR6\nRegion 6 – Lahontan Regional Water Quality Control Board\n\n\nR7\nRegion 7 – Colorado River Regional Water Quality Control Board\n\n\nR8\nRegion 8 – Santa Ana Regional Water Quality Control Board\n\n\nR9\nRegion 9 – San Diego Regional Water Quality Control Board\n\n\nWater Boards\nCalifornia State Water Resources Control Board and Regional Water Quality Control Boards, collectively",
-    "crumbs": [
-      "Champions Cohorts"
-    ]
-  },
-  {
-    "objectID": "cohorts/swrcb_2024F.html",
-    "href": "cohorts/swrcb_2024F.html",
-    "title": "2024 Water Boards Cohort (Fall)",
-    "section": "",
-    "text": "Cohort Instruction Team: Anna Holder (OIMA), Tina Ures (DWQ)\nCohort Mentors: Madi Boynton (DWQ), Danielle Cantrell (DDW), TJ Middlemis-Clark (R6), michael ben Ortiz (OPP), Elena Suglia (OIMA), Val Zimmer (DWR)\nGuest Teachers: Stefanie Butland (Openscapes), Corey Clatterbuck (California Coastal Commission), Alena Reynolds (Skokomish Tribe DNR; Tribal Exchange Network)\n\nCohort GitHub Webpage | Repository\n\nIn mid-August - mid-October 2024, the Water Boards cohort instructors and mentors will lead the fourth Openscapes Champions Cohort at the Water Boards! Fall 2024 Champions Cohort Teams include:\n\nUST Evaluation Team\nWaTR (Water Telemetry Research)\n\nSee the timeline below for dates of mandatory 2024 Cohort activities.\n\n\n\n2024 Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)",
-    "crumbs": [
-      "Champions Cohorts",
-      "2024 Water Boards Cohort (Fall)"
-    ]
-  },
-  {
-    "objectID": "cohorts/team_guidance.html",
-    "href": "cohorts/team_guidance.html",
-    "title": "Am I ready to participate in a Champions Cohort?",
-    "section": "",
-    "text": "The Openscapes Champions Program is a remote-by-design, cohort-based mentorship program that supports individuals and teams of up to 6 colleagues to re-imagine data analysis and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive communities.\nIndividuals and teams will focus on their workflows to identify where they are and where they want to go. It’s important to note that individuals and teams do not have to have familiarity or expertise in open science or data science fields to benefit from the Openscapes Champions Program.\nAnyone across all Water Boards Regions, Divisions, or Offices, and job classifications is eligible to apply to join an Openscapes Champions Cohort at the Water Boards.",
-    "crumbs": [
-      "Champions Cohorts",
-      "Am I ready to participate in a Champions Cohort?"
-    ]
-  },
-  {
-    "objectID": "cohorts/team_guidance.html#participant-requirements",
-    "href": "cohorts/team_guidance.html#participant-requirements",
-    "title": "Am I ready to participate in a Champions Cohort?",
-    "section": "Participant Requirements",
-    "text": "Participant Requirements\nAll individuals and team members are given the approval and support they need from their management to dedicate the time required to actively participate and engage in the Openscapes Process.\nDuring the course of a 9-week cohort, the time needed for participants to attend mandatory Cohort Calls and Seaside Chats as well as optional Co-working Sessions and individual reflection is described below.\nThe aggregate time participants will need to commit to the Cohort Process comes out to approximately 1-4 hours per week, depending on whether they take part in optional Co-working Sessions and reflection, and how the various calls fall on their calendars.\nSee the indivdual cohort pages for specific dates and times of mandatory meetings.\n\n\n\nThe estimated weekly and overall time commitment each individual in a cohort may dedicate to Openscapes tasks. Required calls are indicated in dark blue; optional calls and tasks are indicated in lighter blue.",
-    "crumbs": [
-      "Champions Cohorts",
-      "Am I ready to participate in a Champions Cohort?"
-    ]
-  },
-  {
-    "objectID": "cohorts/team_guidance.html#guidance-for-all-participants",
-    "href": "cohorts/team_guidance.html#guidance-for-all-participants",
-    "title": "Am I ready to participate in a Champions Cohort?",
-    "section": "Guidance for all Participants",
-    "text": "Guidance for all Participants\nCharacteristics of individuals and teams that will get the most return on their investment into the Champions Program include:\n\nAll individuals and team members are interested in exploring the interconnected nature of open science and in taking time to reimagine data workflows and stewardship as a collaborative effort, develop modern skills that are of immediate value to them, and cultivate collaborative, inclusive, equitable, and kind teams and communities.\nAll individuals and team members want to evolve and invest in their culture, processes, and workflows so that they can embody the better science for future us mindset.\n\n“Better science” means science that is more open, reproducible, efficient, and also more diverse, equitable, inclusive, kind.\n“Future us” is ourselves, teams, communities in the next hour, week, decades – with a focus on onboarding ourselves and others to ongoing work.\n\nTeams that have at least one or two members who do some form of data management, analysis, visualization, or communication in their work on a regular basis. The more regular this work occurs (e.g., weekly is better than quarterly), and the more technically advanced they are (e.g. coding in R, Python or SQL is better than Excel), the more the entire team will get out of the process.",
-    "crumbs": [
-      "Champions Cohorts",
-      "Am I ready to participate in a Champions Cohort?"
-    ]
-  },
-  {
-    "objectID": "cohorts/team_guidance.html#guidance-for-teams",
-    "href": "cohorts/team_guidance.html#guidance-for-teams",
-    "title": "Am I ready to participate in a Champions Cohort?",
-    "section": "Guidance for Teams",
-    "text": "Guidance for Teams\nTeams who apply to an upcoming Openscapes Champions Cohort at the Water Boards can be comprised of:\n\n3-6 people that work on something together regularly\nSome team members external to the Water Boards, as long as these team members also fit the characteristics described below. It is strongly recommended that external team members account for fewer than 50% of the individuals on each team.\n\nTeams do not need to be a formal unit or group; they can be collaborating in other ways. What’s important is that they share a curiosity and interest in improving something about how they work together.",
-    "crumbs": [
-      "Champions Cohorts",
-      "Am I ready to participate in a Champions Cohort?"
-    ]
-  },
-  {
-    "objectID": "cohorts/swrcb_2022.html",
-    "href": "cohorts/swrcb_2022.html",
-    "title": "2022 Water Boards Cohort",
-    "section": "",
-    "text": "Cohort Instructors: Corey Clatterbuck (OIMA), Anna Holder (OIMA)\nCohort Mentors: Devan Burke (OIMA), Tina Ures (DWQ)\nGuest Teachers: Julia Stewart Lowndes (Openscapes), Ileana Fenwick (UNC Chapel Hill)\n\nCohort GitHub Webpage | Repository\nBlog Post\n\nIn mid-August-mid-October 2022, the Water Boards cohort instructors and mentors led the first Openscapes Champions Cohort at the Water Boards. While cohorts are typically led by the Openscapes team, this was the first to be led by former Openscapes mentors and the first Champions Cohort at a US state government agency. Because we were piloting the program, only 3 teams participated in the process:\n\nThe PFAS Free Team was a cross-unit project team within the Water Board Division of Water Quality.\nThe SWAMP Team was a unit within the Water Board Office of Information Management and Analysis.\nThe Performance Report Team was a project team within the Water Board Office of Information Management and Analysis.\n\nNormalizing language, process, and changing behaviors and actions to support more open and equitable workflows and mindsets can be a challenging shift for teams. Despite these challenges, the post-cohort survey suggested that ultimately, Openscapes did help individuals adopt an open mindset towards their work, their teams, and themselves - and that teams are now evolving their processes, behaviors, and actions to be more open, inclusive, and kind!\n\n\n\n\n\n\nNoteParticipant quotes from the post-cohort survey\n\n\n\n“It has been a great opportunity for me to slow down and take the time to evaluate / check-in on my work and team workflow / processes. Many of the things we discussed are totally in line with my personal philosophies / approaches but I haven’t really put time into thinking about how to establish those things through documentation. I tend to be an individual worker bee and appreciate the co-working concepts and getting more comfortable in that shared space to do work!”\n“How important it is to…give people the space to work and try new things. I think I’ve better internalized that it’s okay to share imperfect work.”\n“Now that more staff have been exposed to the Openscapes principles, I think I will be more comfortable suggesting the use of tools like Git / GitHub and code-based workflows. In general, I will also be more comfortable suggesting that we use better project management practices and think about things like documentation / reproducibility as fundamental parts of our work, and not just make those an afterthought.”\n\n\nSee the timeline below for dates of mandatory 2022 Cohort activities.\n\n\n\n2022 Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)",
-    "crumbs": [
-      "Champions Cohorts",
-      "2022 Water Boards Cohort"
-    ]
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Here you will find a curated list of documents, presentations, and other resources related to the implementation and scaling of Openscapes at the Water Boards.\nAll Water Boards authors are bolded below.",
-    "crumbs": [
-      "Resources"
-    ]
-  },
-  {
-    "objectID": "resources.html#community-calls",
-    "href": "resources.html#community-calls",
-    "title": "Resources",
-    "section": "Community Calls",
-    "text": "Community Calls\n Openscapes at the Water Boards Mentor Community Call Kick-off. Nov 2025. Anna Holder, Devan Burke, Elena Suglia, Tina Ures. Call Slides.",
-    "crumbs": [
-      "Resources"
-    ]
-  },
-  {
-    "objectID": "resources.html#presentations",
-    "href": "resources.html#presentations",
-    "title": "Resources",
-    "section": "Presentations",
-    "text": "Presentations\n Fostering a Collaborative Culture & Intro to Openscapes at the Water Boards. Jan 2026. Anna Holder. CA Water Board Division of Drinking Water (DDW) Resiliency and Data Branch (RaD) All Staff.\n Intro to Openscapes at the Water Boards: Kinder Science for Future Us. Oct 2025. Anna Holder. CA Office of Data and Innovation (ODI) Data Science Community of Practice.\n Openscapes: Better science for future us. Aug 2024. Julia Lowndes, Devan Burke, Anna Holder. Internal CA Dept. of Water Resources (DWR) Environmental Coordination Committee (ECC) Open Forum.\n Water Boards Openscapes Program Update & Opportunities. May-Jun 2024. Anna Holder, Devan Burke, Tina Ures. Internal Division and Roundtable Presentations.\n Openscapes: Better science for future us. Mar 2024. Anna Holder, Devan Burke, Julia Lowndes. California Water Data Consortium Data for Lunch Series.\n Water Boards Openscapes Program Update & Opportunities. Dec 2023. Anna Holder, Devan Burke, Tina Ures. Internal Division of Water Quality (DWQ) All Staff Presentation.\n Water Boards Openscapes Champions Update & Opportunities. Nov 2023. Anna Holder, Devan Burke, Tina Ures. Internal Deputy Management Committee (DMC) Presentation.\n Openscapes Opportunities at the California Water Boards. Mar - Jun 2023. Anna Holder, Corey Clatterbuck, Devan Burke, Tina Ures. Internal Roundtable Presentations.\n Openscapes Opportunities at the California Water Boards. Feb 2023. Anna Holder, Corey Clatterbuck, Devan Burke, Tina Ures. Internal Deputy Management Committee (DMC) Presentation.\n Better Science for Future Us: Openscapes stories and approaches for the Year of Open Science. Jan 2023. Julia Lowndes, Erin Robinson, Ileana Fenwick, Adyan Rios, Josh London, Corey Clatterbuck, Luis Lopez, Cassandra Nickles. Earth Science Information Partners (ESIP) Meeting.\n Better Science for Future Us: Planning for the Year of Open Science. Jan 2022. Julia Lowndes, Erin Robinson, Aaron Friesz, Ileana Fenwick, Amy Steiker, Eli Holmes, Anna Holder. Earth Science Information Partners (ESIP) Meeting.",
-    "crumbs": [
-      "Resources"
-    ]
-  },
-  {
-    "objectID": "resources.html#blog-posts",
-    "href": "resources.html#blog-posts",
-    "title": "Resources",
-    "section": "Blog Posts",
-    "text": "Blog Posts\n Coaching the Openscapes team at the California Water Boards. Oct 24, 2025. Julie Lowndes, Anna Holder, Devan Burke, Tina Ures, Elena Suglia, Greg Gearheart.\n California Water Boards’ 2nd Annual Openscapes Champions Program - Reflections & Future. Dec 13, 2023. Anna Holder, Devan Burke, Tina Ures.\n 3 Approaches for the Year of Open Science. Mar 16, 2023. Corey Clatterbuck, Ileana Fenwick, Josh London, Luis Lopez, Cassie Nickles, Adyan Rios, Stefanie Butland, Julie Lowndes, Erin Robinson.\n Adapting the Champions Program for the California Water Boards. Dec 2, 2022. Corey Clatterbuck, Anna Holder.\n 3 Takeways for Planning for the Year of Open Science. Feb 17, 2022. Aaron Friesz, Ileana Fenwick, Eli Holmes, Anna Holder, Amy Steiker, Erin Robinson, Julia Lowndes.\n California Water Board Mentor Perspectives. Dec 7, 2021. Anna Holder, Corey Clatterbuck.\n Identifying Common Approaches and Needs for Fisheries Dependent Data. Nov 12, 2021. Gavin Fay, Andy Jones, Anna Holder, Julia Lowndes.\n Strengthening Scientific Workflow and Team Collaboration at NOAA Fisheries. Nov 12, 2021. Eli Holmes, Eric Ward, Hélène Scalliet, Corey Clatterbuck, Julia Lowndes.\nVisit the Openscapes website to see all Openscapes Blog Posts",
-    "crumbs": [
-      "Resources"
-    ]
-  },
-  {
-    "objectID": "resources.html#openscapes-literature",
-    "href": "resources.html#openscapes-literature",
-    "title": "Resources",
-    "section": "Openscapes Literature",
-    "text": "Openscapes Literature\nJulia Stewart Lowndes, Anna M. Holder, Emily H. Markowitz, Corey Clatterbuck, Amanda L. Bradford, Kathryn Doering, Molly H. Stevens, Stefanie Butland, Devan Burke, Sean Kross, Jeffrey W. Hollister, Christine Stawitz, Margaret C. Siple, Adyan Rios, Jessica Nicole Welch, Bai Li, Farnaz Nojavan, Alexandra Davis, Erin Steiner, Josh M. London, Ileana Fenwick, Alexis Hunzinger, Juliette Verstaen, Elizabeth Holmes, Makhan Virdi, Andrew P. Barrett, Erin Robinson. 2024. Shifting institutional culture to develop climate solutions with Open Science. Ecology and Evolution, 14, e11341.\nRobinson, Julia S. Stewart Lowndes. 2022. The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices. EarthArXiv Preprint.\nJulia S. Stewart Lowndes, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, Benjamin S. Halpern. 2019. Our path to better science in less time using open data science tools. Nature Ecology and Evolution 1, 0160.\nJulia S. Stewart Lowndes. 2019. Open software means kinder science. Scientific American.\nJulia S. Stewart Lowndes, Halley E. Froehlich, Allison Horst, Nishad Jayasundara, Malin L. Pinsky, Adrian C. Stier, Nina O. Therkildsen, Chelsea L. Wood. 2019. Supercharge your research: a ten-week plan for open data science Nature Career Column. 31 October 2019",
-    "crumbs": [
-      "Resources"
-    ]
-  },
-  {
-    "objectID": "resources.html#documents",
-    "href": "resources.html#documents",
-    "title": "Resources",
-    "section": "Documents",
-    "text": "Documents\n California Water Boards Openscapes Implementation Strategy. Feb 2022. Greg Gearheart, Anna Holder, Corey Clatterbuck, Devan Burke, Tina Ures.",
-    "crumbs": [
-      "Resources"
-    ]
-  },
-  {
     "objectID": "about_at_swrcb/implementation.html",
     "href": "about_at_swrcb/implementation.html",
     "title": "Implementation Cycle",
@@ -452,53 +482,56 @@
     ]
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
+    "objectID": "cohorts/swrcb_2022.html",
+    "href": "cohorts/swrcb_2022.html",
+    "title": "2022 Water Boards Cohort",
     "section": "",
-    "text": "Openscapes Leads will be presenting to various Water Boards groups to provide an introduction and overview of Openscapes and the 2026 Openscapes Champions process.\nContact Anna Holder via email or MS Teams Chat if you’d like us to present to your Water Boards Region, Division, Office, Branch, Section, Roundtable or other group meeting!\nPresentations currently scheduled include:\n\nJan 13: Water Quality Certs (401) Roundtable\nJan 14:\n\nNational Pollutant Discharge Elimination System (NPDES) Roundtable\nEnvironmental Justice Roundtable’s Racial Equity Data Subcommittee\n\nJan 20: DWQ Advancing Racial Equity Subcommittee Meeting\nJan 22:\n\nDivision of Drinking Water Resiliency and Data Branch (RaD) All-Staff\nForestry and Wildfire Resiliency Roundtable\n\nFeb 4: USTs Roundtable – Regional Boards Meeting\nFeb 10:\n\nPower BItes Lunch & Learn\nClimate Change Roundtable\n\nFeb 11:\n\nUSTs Roundtable – Local Oversight Program Meeting\nDivision of Water Quality All-Staff Meeting\n\nFeb 19: Integrated Report Roundtable\nFeb 24: Office of Sustainable Groundwater Management Program Meeting\nFeb 26: Division of Water Rights All-Staff Meeting\nMar 10: Surface Water Ambient Monitoring Program (SWAMP) Roundtable\nMar 12:\n\nStormwater Roundtable\nCannabis Cultivation Program Roundtable\nWaste Discharge Requirements Program Roundtable\n\nMar 24: Environmental Justice Roundtable\nApr 7: Enforcement Roundtable\nApr 9: Joint Total Maximum Daily Load (TMDL) & Nonpoint Source Roundtable\nApr 21:\n\nSite Cleanup / DoD Roundtable\nBasin Planning Roundtable\n\nApr 22: Recycled Water Roundtable\nMay 13: GIS & Data Science Roundtable",
+    "text": "Cohort Instructors: Corey Clatterbuck (OIMA), Anna Holder (OIMA)\nCohort Mentors: Devan Burke (OIMA), Tina Ures (DWQ)\nGuest Teachers: Julia Stewart Lowndes (Openscapes), Ileana Fenwick (UNC Chapel Hill)\n\nCohort GitHub Webpage | Repository\nBlog Post\n\nIn mid-August-mid-October 2022, the Water Boards cohort instructors and mentors led the first Openscapes Champions Cohort at the Water Boards. While cohorts are typically led by the Openscapes team, this was the first to be led by former Openscapes mentors and the first Champions Cohort at a US state government agency. Because we were piloting the program, only 3 teams participated in the process:\n\nThe PFAS Free Team was a cross-unit project team within the Water Board Division of Water Quality.\nThe SWAMP Team was a unit within the Water Board Office of Information Management and Analysis.\nThe Performance Report Team was a project team within the Water Board Office of Information Management and Analysis.\n\nNormalizing language, process, and changing behaviors and actions to support more open and equitable workflows and mindsets can be a challenging shift for teams. Despite these challenges, the post-cohort survey suggested that ultimately, Openscapes did help individuals adopt an open mindset towards their work, their teams, and themselves - and that teams are now evolving their processes, behaviors, and actions to be more open, inclusive, and kind!\n\n\n\n\n\n\nNoteParticipant quotes from the post-cohort survey\n\n\n\n“It has been a great opportunity for me to slow down and take the time to evaluate / check-in on my work and team workflow / processes. Many of the things we discussed are totally in line with my personal philosophies / approaches but I haven’t really put time into thinking about how to establish those things through documentation. I tend to be an individual worker bee and appreciate the co-working concepts and getting more comfortable in that shared space to do work!”\n“How important it is to…give people the space to work and try new things. I think I’ve better internalized that it’s okay to share imperfect work.”\n“Now that more staff have been exposed to the Openscapes principles, I think I will be more comfortable suggesting the use of tools like Git / GitHub and code-based workflows. In general, I will also be more comfortable suggesting that we use better project management practices and think about things like documentation / reproducibility as fundamental parts of our work, and not just make those an afterthought.”\n\n\nSee the timeline below for dates of mandatory 2022 Cohort activities.\n\n\n\n2022 Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)",
     "crumbs": [
-      "Events"
+      "Champions Cohorts",
+      "2022 Water Boards Cohort"
     ]
   },
   {
-    "objectID": "events.html#road-show-presentations",
-    "href": "events.html#road-show-presentations",
-    "title": "Events",
+    "objectID": "cohorts/swrcb_2026T.html",
+    "href": "cohorts/swrcb_2026T.html",
+    "title": "2026 Water Boards Cohort (Tue AM)",
     "section": "",
-    "text": "Openscapes Leads will be presenting to various Water Boards groups to provide an introduction and overview of Openscapes and the 2026 Openscapes Champions process.\nContact Anna Holder via email or MS Teams Chat if you’d like us to present to your Water Boards Region, Division, Office, Branch, Section, Roundtable or other group meeting!\nPresentations currently scheduled include:\n\nJan 13: Water Quality Certs (401) Roundtable\nJan 14:\n\nNational Pollutant Discharge Elimination System (NPDES) Roundtable\nEnvironmental Justice Roundtable’s Racial Equity Data Subcommittee\n\nJan 20: DWQ Advancing Racial Equity Subcommittee Meeting\nJan 22:\n\nDivision of Drinking Water Resiliency and Data Branch (RaD) All-Staff\nForestry and Wildfire Resiliency Roundtable\n\nFeb 4: USTs Roundtable – Regional Boards Meeting\nFeb 10:\n\nPower BItes Lunch & Learn\nClimate Change Roundtable\n\nFeb 11:\n\nUSTs Roundtable – Local Oversight Program Meeting\nDivision of Water Quality All-Staff Meeting\n\nFeb 19: Integrated Report Roundtable\nFeb 24: Office of Sustainable Groundwater Management Program Meeting\nFeb 26: Division of Water Rights All-Staff Meeting\nMar 10: Surface Water Ambient Monitoring Program (SWAMP) Roundtable\nMar 12:\n\nStormwater Roundtable\nCannabis Cultivation Program Roundtable\nWaste Discharge Requirements Program Roundtable\n\nMar 24: Environmental Justice Roundtable\nApr 7: Enforcement Roundtable\nApr 9: Joint Total Maximum Daily Load (TMDL) & Nonpoint Source Roundtable\nApr 21:\n\nSite Cleanup / DoD Roundtable\nBasin Planning Roundtable\n\nApr 22: Recycled Water Roundtable\nMay 13: GIS & Data Science Roundtable",
+    "text": "Cohort Instruction Team: Anna Holder (OIMA), Tina Ures (DWQ)\nCohort Mentors: TBD\nGuest Teachers: TBD\n\nCohort GitHub Webpage | Repository TBD\n\nOn Tuesday mornings in mid-August - mid-October 2026, the Water Boards cohort instructors and mentors will lead the fifth Openscapes Champions Cohort at the Water Boards!\nThe 2026 Tuesday AM Champions Cohort Individuals and/or Teams include:\n\nTBD\n\nSee the timeline below for dates of mandatory Cohort activities:\n\n\n\n2026 Tue. AM Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)",
     "crumbs": [
-      "Events"
+      "Champions Cohorts",
+      "2026 Water Boards Cohort (Tue AM)"
     ]
   },
   {
-    "objectID": "events.html#openscapes-office-hours",
-    "href": "events.html#openscapes-office-hours",
-    "title": "Events",
-    "section": "Openscapes Office Hours",
-    "text": "Openscapes Office Hours\nOffice hours are open to all Water Boards Staff interested in joining future Champions Cohorts as a participant or Mentor or to ask questions to determine if joining a future Openscapes cohort is a good fit. Water Boards Staff can Join here!\nThese are scheduled and facilitated by an Openscapes Lead every 3 Tuesdays starting Jan 27, 2026 through Jun 30, 2026. All meetings will be from 10:30 am - 11:30 am.\nSpecific 2026 dates include: Jan 27, Feb 17, Mar 10, Apr 21, May 12, Jun 2, Jun 23\nHelp us spread the word! Tell your colleagues about Openscapes & upcoming office hours! Please forward All Staff emails and/or links to meeting login info as they are distributed.",
+    "objectID": "cohorts/index.html",
+    "href": "cohorts/index.html",
+    "title": "Water Boards Champions Cohorts",
+    "section": "",
+    "text": "The Water Boards Openscapes Champions Program is a mentorship and professional development opportunity for individuals and teams at the Water Boards.\n\n\n2026 Fall Water Boards Cohorts: From mid-August through mid-October 2026, the Water Boards will host two Champions Cohorts.\n\nFall 2026 Tue AM Cohort\nFall 2026 Wed PM Cohort\n\nWater Boards individuals and teams can apply to join these cohorts as mentors or participants starting May 1, 2026. Applications will close on Jun 30, 2026. To learn more:\n\nCheck out: Am I ready to be an Openscapes Mentor?\nCheck out: Is my team ready for Openscapes? which also applies to individuals who would like to apply to participate.\nAttend one of the Roadshow Presentations scheduled for Jan - May 2026\nJoin an Openscapes Office Hour to ask questions and see if applying for a 2026 cohort is a good fit for you!\n\n\n\n\n\n\n\nCohort\n2024 Fall\n2024 Spring\n2023 Fall\n2022 Fall\n\n\n\n\nNumber of Teams\n3\n3\n6\n3\n\n\nPercent Water Boards Regions, Divisions, or Offices (RDOs) Represented\n27%\n27%\n36%\n9%\n\n\nNumber of RDOs Represented\n6\n6\n8\n2\n\n\nNumber of Individuals (Team Members + Instructors + Mentors)\n22\n19\n31\n19\n\n\n\n\n\n\nNumber of individual participants (Team Members = Left; Instructors and Mentors = Right) in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort. See RDO definitions below.\n\n\n\nWater Boards Region, Division, or Office Acronyms or Abbreviations and their definitions\n\n\n\n\n\n\nAcronym or Abbreviation\nDefinition\n\n\n\n\nRDO\nWater Boards Region, Division, or Office\n\n\nDAS\nDivision of Administrative Services\n\n\nDDW\nDivision of Drinking Water\n\n\nDFA\nDivision of Financial Assistance\n\n\nDIT\nDivision of Information Technology\n\n\nDWQ\nDivision of Water Quality\n\n\nDWR\nDivision of Water Rights\n\n\nOCC\nOffice of Chief Counsel\n\n\nOE\nOffice of Enforcement\n\n\nOIMA\nOffice of Information Management and Analysis\n\n\nOLA\nOffice of Legislative Affairs\n\n\nOPA\nOffice of Public Affairs\n\n\nOPP\nOffice of Public Participation\n\n\nORPP\nOffice of Research, Planning, and Performance\n\n\nR1\nRegion 1 – North Coast Regional Water Quality Control Board\n\n\nR2\nRegion 2 – San Francisco Regional Water Quality Control Board\n\n\nR3\nRegion 3 – Central Coast Regional Water Quality Control Board\n\n\nR4\nRegion 4 – Los Angeles Regional Water Quality Control Board\n\n\nR5\nRegion 5 – Central Valley Regional Water Quality Control Board\n\n\nR6\nRegion 6 – Lahontan Regional Water Quality Control Board\n\n\nR7\nRegion 7 – Colorado River Regional Water Quality Control Board\n\n\nR8\nRegion 8 – Santa Ana Regional Water Quality Control Board\n\n\nR9\nRegion 9 – San Diego Regional Water Quality Control Board\n\n\nWater Boards\nCalifornia State Water Resources Control Board and Regional Water Quality Control Boards, collectively",
     "crumbs": [
-      "Events"
+      "Champions Cohorts"
     ]
   },
   {
-    "objectID": "events.html#mentor-co-working",
-    "href": "events.html#mentor-co-working",
-    "title": "Events",
-    "section": "Mentor Co-Working",
-    "text": "Mentor Co-Working\nMentor Co-working is open to Water Boards Staff that have already engaged in Openscapes at the Water Boards in some way and are eligible to be a Community Mentor. This will be a space for Water Boards Community Mentors to work on tasks together and make steady progress on their Openscapes and/or open science goals. Water Boards Openscapes Community Mentors can join us by completing this form!\nThese are scheduled and facilitated by an Openscapes Lead every 3rd Wednesday of the month Jan - May 2026. All Co-working sessions will be from 2:00 pm - 3:00 pm.\nPotential topics we are considering for early 2026 co-working include share-outs on communications regarding event planning and documentation.\nHere are some other examples of co-working topics or ideas:\n\nShare and document stories related to successes / impacts you have experienced by participating in Openscapes at the Water Boards\nFind a common data / work challenge across mentors and work on solutions together\nHelp develop resources to support communication and engagement around Openscapes activities (e.g., slides, fact sheets, web updates, blog, etc.)\nWork on your own thing, with friendly accountability and support\nScreen share, skill share, show & tell for cool skills, tech, resources you think others should know about",
+    "objectID": "cohorts/index.html#champions-cohorts",
+    "href": "cohorts/index.html#champions-cohorts",
+    "title": "Water Boards Champions Cohorts",
+    "section": "",
+    "text": "The Water Boards Openscapes Champions Program is a mentorship and professional development opportunity for individuals and teams at the Water Boards.\n\n\n2026 Fall Water Boards Cohorts: From mid-August through mid-October 2026, the Water Boards will host two Champions Cohorts.\n\nFall 2026 Tue AM Cohort\nFall 2026 Wed PM Cohort\n\nWater Boards individuals and teams can apply to join these cohorts as mentors or participants starting May 1, 2026. Applications will close on Jun 30, 2026. To learn more:\n\nCheck out: Am I ready to be an Openscapes Mentor?\nCheck out: Is my team ready for Openscapes? which also applies to individuals who would like to apply to participate.\nAttend one of the Roadshow Presentations scheduled for Jan - May 2026\nJoin an Openscapes Office Hour to ask questions and see if applying for a 2026 cohort is a good fit for you!\n\n\n\n\n\n\n\nCohort\n2024 Fall\n2024 Spring\n2023 Fall\n2022 Fall\n\n\n\n\nNumber of Teams\n3\n3\n6\n3\n\n\nPercent Water Boards Regions, Divisions, or Offices (RDOs) Represented\n27%\n27%\n36%\n9%\n\n\nNumber of RDOs Represented\n6\n6\n8\n2\n\n\nNumber of Individuals (Team Members + Instructors + Mentors)\n22\n19\n31\n19\n\n\n\n\n\n\nNumber of individual participants (Team Members = Left; Instructors and Mentors = Right) in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort. See RDO definitions below.\n\n\n\nWater Boards Region, Division, or Office Acronyms or Abbreviations and their definitions\n\n\n\n\n\n\nAcronym or Abbreviation\nDefinition\n\n\n\n\nRDO\nWater Boards Region, Division, or Office\n\n\nDAS\nDivision of Administrative Services\n\n\nDDW\nDivision of Drinking Water\n\n\nDFA\nDivision of Financial Assistance\n\n\nDIT\nDivision of Information Technology\n\n\nDWQ\nDivision of Water Quality\n\n\nDWR\nDivision of Water Rights\n\n\nOCC\nOffice of Chief Counsel\n\n\nOE\nOffice of Enforcement\n\n\nOIMA\nOffice of Information Management and Analysis\n\n\nOLA\nOffice of Legislative Affairs\n\n\nOPA\nOffice of Public Affairs\n\n\nOPP\nOffice of Public Participation\n\n\nORPP\nOffice of Research, Planning, and Performance\n\n\nR1\nRegion 1 – North Coast Regional Water Quality Control Board\n\n\nR2\nRegion 2 – San Francisco Regional Water Quality Control Board\n\n\nR3\nRegion 3 – Central Coast Regional Water Quality Control Board\n\n\nR4\nRegion 4 – Los Angeles Regional Water Quality Control Board\n\n\nR5\nRegion 5 – Central Valley Regional Water Quality Control Board\n\n\nR6\nRegion 6 – Lahontan Regional Water Quality Control Board\n\n\nR7\nRegion 7 – Colorado River Regional Water Quality Control Board\n\n\nR8\nRegion 8 – Santa Ana Regional Water Quality Control Board\n\n\nR9\nRegion 9 – San Diego Regional Water Quality Control Board\n\n\nWater Boards\nCalifornia State Water Resources Control Board and Regional Water Quality Control Boards, collectively",
     "crumbs": [
-      "Events"
+      "Champions Cohorts"
     ]
   },
   {
-    "objectID": "events.html#community-calls",
-    "href": "events.html#community-calls",
-    "title": "Events",
-    "section": "Community Calls",
-    "text": "Community Calls\nIn the spirit of fostering connections and building community, we periodically host Openscapes at the Water Boards Community Calls. This space is for us to discuss and explore topics relevant to Openscapes and all are welcome to join!\nCheck back for our 2026 Community Call schedule.\nRecordings and slides from past Community Calls are available on our Resources Page.",
+    "objectID": "cohorts/swrcb_2023.html",
+    "href": "cohorts/swrcb_2023.html",
+    "title": "2023 Water Boards Cohort",
+    "section": "",
+    "text": "Cohort Instruction Team: Anna Holder (OIMA), Devan Burke (OIMA), Tina Ures (DWQ)\nGuest Teachers: Julia Stewart Lowndes (Openscapes), Corey Clatterbuck (California Coastal Commission), Emily Markowitz (NOAA Fisheries)\n\nCohort GitHub Webpage | Repository\n\nIn mid-August-mid-October 2023, the Water Boards cohort instructors and mentors will lead second Openscapes Champions Cohort at the Water Boards! 2023 Champions Cohort Teams include:\n\nConservation Data Squad\nData for Equity\nRegDev Web Wizards\nReLEPtrons\nWaterbears\nWater Data Detectives\n\n\n\n\n\n\n\nNoteParticipant quotes from the post-cohort survey\n\n\n\n“Normally, I really am resistant to types of trainings and seminars about abstract concepts of the way of work. It feels really intangible and false, kind of like corporate nonsense. But this program was the opposite of that. It was applied. It was by people like me for people like me.”\n“Openscapes is one of few experiences beyond university that have been so organized, structured, guided, and constructive in developing my collaboration skills.”\n“The biggest impact is to have the vulnerability to present incomplete or in-process work in order to get the most out of collaboration. I’m hesitant to share messy work product, but this program has shown me the benefit of bringing others in when it’s messy, and how that helps.”\n\n\nSee the timeline below for dates of mandatory 2023 Cohort activities.\n\n\n\n2023 Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)",
     "crumbs": [
-      "Events"
+      "Champions Cohorts",
+      "2023 Water Boards Cohort"
     ]
   },
   {
@@ -549,38 +582,5 @@
     "title": "Contributor Covenant Code of Conduct",
     "section": "",
     "text": "This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html\nFor answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq"
-  },
-  {
-    "objectID": "mentors/mentor_onboarding.html",
-    "href": "mentors/mentor_onboarding.html",
-    "title": "Cohort Mentor Onboarding",
-    "section": "",
-    "text": "As you begin your Openscapes Cohort Mentor journey with the Water Boards - we want to be sure you have the resources you need to help you get started. Below is a non-comprehensive, but hopefully informative guide to onboarding as a mentor at the Water Boards. Please re-reference and contribute to revising this page throughout your time as a Water Boards Openscapes Champions Cohort Mentor!\n\n\n\n\n\n\nNoteNote for Community Mentors\n\n\n\nThis page is dedicated to Champions Cohort Mentor Onboarding. Since Community Mentors have already participated in an Openscapes Cohort or as a Cohort Mentor, you should already be familiar with much of the information below. Additional Community Mentor onboarding will be provided as needed or requested.\n\n\n\n\nWe have four Mentor Seaside Chats focused on onboarding and preparing you to support a Champions Cohort at the Water Boards. Here we detail the concepts, skills, and practices Mentors will experience and experiment with in each Mentor Seaside Chat.\n\n\n\n\nWe are all empowered and expected to practice the following behaviors:\n\nWe are guards of this brave space - As mentors and instructors we follow the Openscapes Code of Conduct. We do not tolerate any instances of hate, discrimination, or harassment from anyone participating in Openscapes at the Water Boards, including instructors, mentors, guest instructors, or participants. This applies to modes of interaction online including remote calls or meetings, teams chats and GitHub project repositories.\nWe ask questions - As mentors and instructors, we don’t have to know it all. Asking and learning together (even alongside participants) is welcome and encouraged. If a question has come up for you, it is probably on someone else’s mind, too!\nWe are part of the process - Our suggestions, resources, and conversations are a part of the process and deeply benefit our participants. If something comes to mind as we are learning together, we feel empowered speak up, offer suggestions, add to resources, content, and conversations when opportunities arise.\nWe practice active listening and asking powerful questions - We listen fully and deeply when other people are speaking and ask powerful questions to empower others to find their own solutions rather than suggesting ideas of what they should do. We also understand that these are skills that are learned and require practice to be strengthened over time.\n\nActive listening is a way of listening with the purpose of understanding the other persons perspective rather than to respond or provide solutions.\nPowerful questions are usually open ended questions that begin with “what”, and can never be answered with a simple yes or no.\n\nWe remember that we’re all learning and growing together & we don’t have to be an expert to teach - We each bring our own unique lens, perspective, and lived experience to the program - and we encourage each other to share that expertise with others when opportunities arise.\nWe say YES to Vulnerability; NO to Shame - We acknowledge that going through and supporting the Openscapes process can feel very vulnerable, and that’s OK! We understand that shaming ourselves or others for any reason is not acceptable. What’s important is that we all stay curious and embrace opportunities for learning and growth so that we can build trust in ourselves and each other.\n\n\n\n\nMentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms).\nYour responsibilities during each Mentors Seaside Chat will be some combination of:\n\nSupport Instruction team in agenda review and preparation of slide decks\nGo through / practice the “run of show” for upcoming cohort call(s)\nProvide feedback, bring up sticking points, etc.\n\nYour responsibilities during each Cohort Call will be some combination of:\n\nBe present in the space: close your email; update your Teams status to “do not disturb”\nSupport meeting logistics:\n\nMonitor chat\nTake notes in the shared doc\nManage breakout rooms\nManage and archive the meeting recording\n\nShare positive feedback or support (e.g., +1, emojis, reactions, etc.)\n\nYour responsibilities after each Cohort Call will be some combination of:\n\nDraft the previous call’s Digest\nShare the Digest with the Mentor team for review & feedback\nPost the Digest to GitHub and Openscapes Teams Channel\n\nYour task before our next Mentors Seaside Chat\nIf you haven’t already, please read the Openscapes Code of Conduct\n\n\n\n\nThe Water Boards Openscapes Instruction Team uses multiple platforms to communicate, edit, share, and save documents used for each Openscapes Cohort. Below is an overview of the platforms and their primary uses.\nDuring this meeting we will grant and test your access to all platforms. Direct links will be provided in our shared Seaside Chat Notes Doc.\n\n\n\nGoogle Drive (Internal & Select Extarnal Partner Access): used for Instruction Team planning and preparing cohorts, agendas, digest and where we keep our running notes for our Cohort Prep\nOneDrive (Internal Access): used for sharing/storing final meeting materials with individuals within each cohort. Once agendas and slides are finalized in Google, Openscapes Instructors (or Mentors) will save copies over to the OneDrive.\nGitHub (Internal or External Access): used for project management, issues, posting Digest, and GitHub skill building with each cohort. GitHub access settings are set so that anyone can view our repositories, but only select individuals will be able to edit or add materials.\n\n\n\n\n\nShared Seaside Chats Google Doc: we will use a Google doc to keep track of our Seaside Chat agendas and notes. We will add to this document during meeting and possibly also asynchronously in between meetings.\nMicrosoft Teams Chat: used for short/simple updates or conversations outside of meetings. This is our most frequent mode of asynchronous communications among mentors & the instruction team.\nOutlook Email: used for sharing more complex content, updates, or announcements\nOutlook Calendar: used to schedule all meetings\n\nRequired meetings: Cohort Calls, Mentor Seaside Chats\nOptional meetings: Co-working\n\nMicrosoft Teams Meetings: platform on which all meetings are held.\n\n\n\n\nGitHub is the main platform the Openscapes Instruction Team uses for project management and posting Digests for each Cohort. It’s important for Mentors to have some basic skills to navigate and post to GitHub. Some skills we will cover include:\n\nSetting up and logging into your GitHub Account\n\nCreate your free personal account GitHub account\nTips on choosing your username\n\nOverview of how we use GitHub for communicaion and coordination with Issues and Projects\nWhere to find what you will need as a Mentor\n\n\n\n\n\nMentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms). In this call, mentors will continue to learn by doing the following:\n\nPractice navigating between Google Drive, OneDrive, and GitHub\nPractice opening breaking out rooms, assigning attendees to rooms & sending announcements\nReview template Cohort Call Digests as well as associated development, review, and posting processes\nPractice using GitHub Issues\n\n\n\n\nWe will have time during this call to reflect and and review our practiced knowledge and skills we have been developing over the past three Mentor onboarding calls & go through a detailed run of show for our first Cohort Call by:\n\nQ&A on all previous concepts\nPractice/test teams, breakouts, etc.\nReview Cohort Call 1 agenda and go through run of show.\n\n\n\n\n\n\nOpenscapes at the Water Boards\nCalifornia Water Boards’ 2nd Annual Openscapes Champions Program - Reflections & Future (Dec 2023 Openscapes Blog)\nShifting institutional culture to develop climate solutions with Open Science (Sep 2023 preprint)\nOur path to better science in less time using open data science tools (Lowndes et al 2017)\n\nOptionally, you can also review the slides/video of a 2021 plenary at the SORTEE Conference\n\nHow coaching skills have made us better open data science mentors (May 2023)",
-    "crumbs": [
-      "Mentors Community",
-      "Cohort Mentor Onboarding"
-    ]
-  },
-  {
-    "objectID": "mentors/mentor_onboarding.html#cohort-mentor-onboarding",
-    "href": "mentors/mentor_onboarding.html#cohort-mentor-onboarding",
-    "title": "Cohort Mentor Onboarding",
-    "section": "",
-    "text": "We have four Mentor Seaside Chats focused on onboarding and preparing you to support a Champions Cohort at the Water Boards. Here we detail the concepts, skills, and practices Mentors will experience and experiment with in each Mentor Seaside Chat.\n\n\n\n\nWe are all empowered and expected to practice the following behaviors:\n\nWe are guards of this brave space - As mentors and instructors we follow the Openscapes Code of Conduct. We do not tolerate any instances of hate, discrimination, or harassment from anyone participating in Openscapes at the Water Boards, including instructors, mentors, guest instructors, or participants. This applies to modes of interaction online including remote calls or meetings, teams chats and GitHub project repositories.\nWe ask questions - As mentors and instructors, we don’t have to know it all. Asking and learning together (even alongside participants) is welcome and encouraged. If a question has come up for you, it is probably on someone else’s mind, too!\nWe are part of the process - Our suggestions, resources, and conversations are a part of the process and deeply benefit our participants. If something comes to mind as we are learning together, we feel empowered speak up, offer suggestions, add to resources, content, and conversations when opportunities arise.\nWe practice active listening and asking powerful questions - We listen fully and deeply when other people are speaking and ask powerful questions to empower others to find their own solutions rather than suggesting ideas of what they should do. We also understand that these are skills that are learned and require practice to be strengthened over time.\n\nActive listening is a way of listening with the purpose of understanding the other persons perspective rather than to respond or provide solutions.\nPowerful questions are usually open ended questions that begin with “what”, and can never be answered with a simple yes or no.\n\nWe remember that we’re all learning and growing together & we don’t have to be an expert to teach - We each bring our own unique lens, perspective, and lived experience to the program - and we encourage each other to share that expertise with others when opportunities arise.\nWe say YES to Vulnerability; NO to Shame - We acknowledge that going through and supporting the Openscapes process can feel very vulnerable, and that’s OK! We understand that shaming ourselves or others for any reason is not acceptable. What’s important is that we all stay curious and embrace opportunities for learning and growth so that we can build trust in ourselves and each other.\n\n\n\n\nMentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms).\nYour responsibilities during each Mentors Seaside Chat will be some combination of:\n\nSupport Instruction team in agenda review and preparation of slide decks\nGo through / practice the “run of show” for upcoming cohort call(s)\nProvide feedback, bring up sticking points, etc.\n\nYour responsibilities during each Cohort Call will be some combination of:\n\nBe present in the space: close your email; update your Teams status to “do not disturb”\nSupport meeting logistics:\n\nMonitor chat\nTake notes in the shared doc\nManage breakout rooms\nManage and archive the meeting recording\n\nShare positive feedback or support (e.g., +1, emojis, reactions, etc.)\n\nYour responsibilities after each Cohort Call will be some combination of:\n\nDraft the previous call’s Digest\nShare the Digest with the Mentor team for review & feedback\nPost the Digest to GitHub and Openscapes Teams Channel\n\nYour task before our next Mentors Seaside Chat\nIf you haven’t already, please read the Openscapes Code of Conduct\n\n\n\n\nThe Water Boards Openscapes Instruction Team uses multiple platforms to communicate, edit, share, and save documents used for each Openscapes Cohort. Below is an overview of the platforms and their primary uses.\nDuring this meeting we will grant and test your access to all platforms. Direct links will be provided in our shared Seaside Chat Notes Doc.\n\n\n\nGoogle Drive (Internal & Select Extarnal Partner Access): used for Instruction Team planning and preparing cohorts, agendas, digest and where we keep our running notes for our Cohort Prep\nOneDrive (Internal Access): used for sharing/storing final meeting materials with individuals within each cohort. Once agendas and slides are finalized in Google, Openscapes Instructors (or Mentors) will save copies over to the OneDrive.\nGitHub (Internal or External Access): used for project management, issues, posting Digest, and GitHub skill building with each cohort. GitHub access settings are set so that anyone can view our repositories, but only select individuals will be able to edit or add materials.\n\n\n\n\n\nShared Seaside Chats Google Doc: we will use a Google doc to keep track of our Seaside Chat agendas and notes. We will add to this document during meeting and possibly also asynchronously in between meetings.\nMicrosoft Teams Chat: used for short/simple updates or conversations outside of meetings. This is our most frequent mode of asynchronous communications among mentors & the instruction team.\nOutlook Email: used for sharing more complex content, updates, or announcements\nOutlook Calendar: used to schedule all meetings\n\nRequired meetings: Cohort Calls, Mentor Seaside Chats\nOptional meetings: Co-working\n\nMicrosoft Teams Meetings: platform on which all meetings are held.\n\n\n\n\nGitHub is the main platform the Openscapes Instruction Team uses for project management and posting Digests for each Cohort. It’s important for Mentors to have some basic skills to navigate and post to GitHub. Some skills we will cover include:\n\nSetting up and logging into your GitHub Account\n\nCreate your free personal account GitHub account\nTips on choosing your username\n\nOverview of how we use GitHub for communicaion and coordination with Issues and Projects\nWhere to find what you will need as a Mentor\n\n\n\n\n\nMentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms). In this call, mentors will continue to learn by doing the following:\n\nPractice navigating between Google Drive, OneDrive, and GitHub\nPractice opening breaking out rooms, assigning attendees to rooms & sending announcements\nReview template Cohort Call Digests as well as associated development, review, and posting processes\nPractice using GitHub Issues\n\n\n\n\nWe will have time during this call to reflect and and review our practiced knowledge and skills we have been developing over the past three Mentor onboarding calls & go through a detailed run of show for our first Cohort Call by:\n\nQ&A on all previous concepts\nPractice/test teams, breakouts, etc.\nReview Cohort Call 1 agenda and go through run of show.",
-    "crumbs": [
-      "Mentors Community",
-      "Cohort Mentor Onboarding"
-    ]
-  },
-  {
-    "objectID": "mentors/mentor_onboarding.html#useful-links",
-    "href": "mentors/mentor_onboarding.html#useful-links",
-    "title": "Cohort Mentor Onboarding",
-    "section": "",
-    "text": "Openscapes at the Water Boards\nCalifornia Water Boards’ 2nd Annual Openscapes Champions Program - Reflections & Future (Dec 2023 Openscapes Blog)\nShifting institutional culture to develop climate solutions with Open Science (Sep 2023 preprint)\nOur path to better science in less time using open data science tools (Lowndes et al 2017)\n\nOptionally, you can also review the slides/video of a 2021 plenary at the SORTEE Conference\n\nHow coaching skills have made us better open data science mentors (May 2023)",
-    "crumbs": [
-      "Mentors Community",
-      "Cohort Mentor Onboarding"
-    ]
   }
 ]
