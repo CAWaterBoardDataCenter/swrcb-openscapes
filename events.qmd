@@ -19,16 +19,15 @@ Presentations currently scheduled include:
 -   Jan 22:
     -   Division of Drinking Water Resiliency and Data Branch (RaD) All-Staff
     -   Forestry and Wildfire Resiliency Roundtable
+-   Feb 3: Office of Public Engagement Equity and Tribal Affairs (OPEETA) All-Staff Meeting
 -   Feb 4: USTs Roundtable – Regional Boards Meeting
 -   Feb 10:
     -   Power BItes Lunch & Learn
     -   Climate Change Roundtable
--   Feb 11:
-    -   USTs Roundtable – Local Oversight Program Meeting
-    -   Division of Water Quality All-Staff Meeting
+-   Feb 11: Division of Water Quality All-Staff Meeting
 -   Feb 19: Integrated Report Roundtable
--   Feb 24: Office of Sustainable Groundwater Management Program Meeting
 -   Feb 26: Division of Water Rights All-Staff Meeting
+-   Mar 3: Office of Sustainable Groundwater Management (OSGM) Program Meeting
 -   Mar 10: Surface Water Ambient Monitoring Program (SWAMP) Roundtable
 -   Mar 12:
     -   Stormwater Roundtable
@@ -42,6 +41,7 @@ Presentations currently scheduled include:
     -   Basin Planning Roundtable
 -   Apr 22: Recycled Water Roundtable
 -   May 13: GIS & Data Science Roundtable
+-   Jun 18: Tribal Coordinators Meeting
 
 ## Openscapes Office Hours
 
