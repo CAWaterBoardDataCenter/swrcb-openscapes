@@ -6,6 +6,30 @@ title: "Water Boards Champions Cohorts"
 
 The Water Boards Openscapes Champions Program is a mentorship and professional development opportunity for individuals and teams at the Water Boards.
 
+::: callout-tip
+## Apply to join a Fall 2026 Cohort by Jun 30, 2026!
+
+The [Openscapes at the Water Boards](https://cawaterboarddatacenter.github.io/swrcb-openscapes/) Team is excited to invite individuals and teams at the Water Boards to apply to participate in an [Openscapes Champions Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/) this fall! **If you are looking to increase open and inclusive science practices in your work, this is the opportunity for you!**
+
+[Before you apply, be sure to review:]{.underline}
+
+-   [Am I ready to participate in a Champions Cohort?](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/team_guidance.html)
+-   [Am I ready to be an Openscapes Mentor?](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/mentor_guidance.html)
+-   Fall 2026 Cohort Timelines - make sure you're available during mandatory cohort calls
+    -   [Tue AM Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2026T.html) will meet on Tuesdays from 10 am - 12 pm
+    -   [Wed PM Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2026W.html) will meet on Wednesdays from 2 pm - 4 pm
+
+[Do you still have questions? Join an upcoming [Openscapes Office Hour](#0)!]{.underline}
+
+-   Office Hours are from 10:30 am - 11:30 am on the following Tuesdays - Apr 21, May 12, Jun 2, Jun 23
+-   All office hours are held via MS Teams ([join link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVjZDFhMDEtMjU1NS00ZmQ1LWE5YjktM2Q0NDJlN2QzNzY2%40thread.v2/0?context=%7b%22Tid%22%3a%22fe186a25-7d49-41e6-9941-05d2281d36c1%22%2c%22Oid%22%3a%22b80729e4-c1b6-4598-b868-8c4da13c5db8%22%7d))
+-   Office Hours are open to all Water Boards Staff interested in joining future Champions Cohorts as a participant or mentor to ask questions and determine if joining a cohort is a good fit for them/their team.
+
+**Nominate yourself or your team by filling out this [Microsoft Form](https://forms.cloud.microsoft/g/cqVP38yC7L) by June 30th, 2026.**
+
+We will confirm participation in early July.
+:::
+
 ### Current and Upcoming Cohorts
 
 2026 Fall Water Boards Cohorts: From mid-August through mid-October 2026, the Water Boards will host two Champions Cohorts.
@@ -23,7 +47,7 @@ Water Boards individuals and teams can apply to join these cohorts as mentors or
 ### Water Boards Cohorts Summary
 
 | Cohort | [2024 Fall](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024F.html) | [2024 Spring](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024S.html) | [2023 Fall](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2023.html) | [2022 Fall](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2022.html) |
-|---------------:|--------------|--------------|--------------|--------------|
+|--------------:|---------------|---------------|---------------|---------------|
 | Number of Teams | 3 | 3 | 6 | 3 |
 | Percent Water Boards Regions, Divisions, or Offices (RDOs) Represented | 27% | 27% | 36% | 9% |
 | Number of RDOs Represented | 6 | 6 | 8 | 2 |
@@ -32,7 +56,7 @@ Water Boards individuals and teams can apply to join these cohorts as mentors or
 ![Number of individual participants (Team Members = Left; Instructors and Mentors = Right) in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort. See RDO definitions below.](images/annual-rdo.png)
 
 | Acronym or Abbreviation | Definition |
-|------------------|------------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | RDO | Water Boards Region, Division, or Office |
 | DAS | Division of Administrative Services |
 | DDW | Division of Drinking Water |
