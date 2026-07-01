@@ -6,20 +6,9 @@ title: "Water Boards Champions Cohorts"
 
 The Water Boards Openscapes Champions Program is a mentorship and professional development opportunity for individuals and teams at the Water Boards.
 
-
 ### Current and Upcoming Cohorts
 
-2026 Fall Water Boards Cohorts: From mid-August through mid-October 2026, the Water Boards will host two Champions Cohorts.
-
--   [Fall 2026 Tue AM Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2026T.html)
--   [Fall 2026 Wed PM Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2026W.html)
-
-Water Boards individuals and teams can apply to join these cohorts as mentors or participants starting May 1, 2026. Applications will close on Jun 30, 2026. To learn more:
-
--   Check out: [Am I ready to be an Openscapes Mentor?](https://cawaterboarddatacenter.github.io/swrcb-openscapes/mentors/mentor_guidance.html#cohort-mentors)
--   Check out: [Is my team ready for Openscapes?](https://cawaterboarddatacenter.github.io/swrcb-openscapes/about_at_swrcb/team_guidance.html) which also applies to individuals who would like to apply to participate.
--   Attend one of the [Roadshow Presentations](https://cawaterboarddatacenter.github.io/swrcb-openscapes/events.html#road-show-presentations) scheduled for Jan - May 2026
--   Join an [Openscapes Office Hour](https://cawaterboarddatacenter.github.io/swrcb-openscapes/events.html#openscapes-office-hours) to ask questions and see if applying for a 2026 cohort is a good fit for you!
+The [Fall 2026 Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2026T.html) will run from mid-August through mid-October 2026.
 
 ### Water Boards Cohorts Summary
 
@@ -33,7 +22,7 @@ Water Boards individuals and teams can apply to join these cohorts as mentors or
 ![Number of individual participants (Team Members = Left; Instructors and Mentors = Right) in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort. See RDO definitions below.](images/annual-rdo.png)
 
 | Acronym or Abbreviation | Definition |
-|-------------------|-----------------------------------------------------|
+|--------------------|----------------------------------------------------|
 | RDO | Water Boards Region, Division, or Office |
 | DAS | Division of Administrative Services |
 | DDW | Division of Drinking Water |

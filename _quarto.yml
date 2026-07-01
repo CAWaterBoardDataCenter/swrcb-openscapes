@@ -53,7 +53,6 @@ website:
         contents: 
           - cohorts/team_guidance.qmd
           - cohorts/swrcb_2026T.qmd
-          - cohorts/swrcb_2026W.qmd
           - cohorts/swrcb_2024F.qmd
           - cohorts/swrcb_2024S.qmd
           - cohorts/swrcb_2023.qmd
