@@ -70,20 +70,24 @@ During this meeting we will grant and test your access to all platforms. Direct 
 
 #### Storing and Sharing Materials
 
--   **Google Drive (Internal & Select Extarnal Partner Access):** used for Instruction Team planning and preparing cohorts, agendas, digest and where we keep our running notes for our Cohort Prep
+-   **Google Drive (Internal & Select External Partner Access):** used for Instruction Team planning and preparing cohort communications, draft agendas and slides. Mentors won't need to access these files directly, but may view them via screen sharing and co-working with instructors.
 
--   **OneDrive (Internal Access):** used for sharing/storing final meeting materials with individuals within each cohort. Once agendas and slides are finalized in Google, Openscapes Instructors (or Mentors) will save copies over to the OneDrive.
+-   **OneDrive (Internal Only Access):** used for sharing/storing final meeting materials with individuals within each cohort. Once agendas and slides are finalized in Google, Openscapes Instructors will save copies over to the OneDrive. Mentors will gain access to two folders:
+
+    -   **Mentor Materials Folder** - will only be shared with mentors and will contain all of the planning documents we need to prepare for the cohort, including our shared Mentor Seaside Chat Document.
+
+    -   **Meeting Materials Folder** - will be shared with the entire cohort and will contain final agendas, slides, and meeting recordings.
 
 -   **GitHub (Internal or External Access):** used for project management, issues, posting Digest, and GitHub skill building with each cohort. GitHub access settings are set so that anyone can view our repositories, but only select individuals will be able to edit or add materials.
 
 #### Communication Norms
 
--   **Shared Seaside Chats Google Doc**: we will use a Google doc to keep track of our Seaside Chat agendas and notes. We will add to this document during meeting and possibly also asynchronously in between meetings.
+-   **Shared Seaside Chats Doc**: we will use a MS Word doc to keep track of our Seaside Chat agendas and notes. We will add to this document during meetings and possibly also asynchronously in between meetings.
 -   **Microsoft Teams Chat:** used for short/simple updates or conversations outside of meetings. This is our most frequent mode of asynchronous communications among mentors & the instruction team.
 -   **Outlook Email**: used for sharing more complex content, updates, or announcements
 -   **Outlook Calendar**: used to schedule all meetings
     -   Required meetings: Cohort Calls, Mentor Seaside Chats
-    -   Optional meetings: Co-working
+    -   Optional meetings: Co-working, 2-month Check-in
 -   **Microsoft Teams Meetings**: platform on which all meetings are held.
 
 #### Intro to GitHub
@@ -93,14 +97,14 @@ GitHub is the main platform the Openscapes Instruction Team uses for project man
 -   Setting up and logging into your GitHub Account
     -   [Create your free personal account GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
     -   [Tips on choosing your username](https://happygitwithr.com/github-acct.html#username-advice)
--   Overview of how we use GitHub for communicaion and coordination with Issues and Projects
+-   Overview of how we use GitHub for communication and coordination with Issues and Projects
 -   Where to find what you will need as a Mentor
 
 ### Call 3: Intro to Mentorship in Practice
 
 Mentors are critical to the success of each cohort as they support the logistical and behind the scenes work required to facilitate and support teams and individuals within each cohort (e.g. note taking, breakout rooms). In this call, mentors will continue to learn by doing the following:
 
--   Practice navigating between Google Drive, OneDrive, and GitHub
+-   Practice navigating between OneDrive folders and GitHub
 -   Practice opening breaking out rooms, assigning attendees to rooms & sending announcements
 -   Review template Cohort Call Digests as well as associated development, review, and posting processes
 -   Practice using GitHub Issues
