@@ -6,7 +6,7 @@ title: "2026 Water Boards Cohort"
 
 *Cohort Mentors:* Magnolia Busse (DWQ), John Herrera (DIT)
 
-*Guest Teachers:* [Shannon Rankin](https://shannonrankin.github.io/me/) (NOAA Fisheries), Gregor Siegmund (UCLA), Rachael Blake & Kate Wing (Intertidal)
+*Guest Teachers:* [Shannon Rankin](https://shannonrankin.github.io/me/) (NOAA Fisheries), [Gregor Siegmund](https://gregor-fausto.github.io/) (UCLA), Rachael Blake & Kate Wing (Intertidal)
 
 Cohort GitHub [Webpage](https://openscapes.github.io/2026-swrcb-fall/) \| [Repository](https://github.com/Openscapes/2026-swrcb-fall)
 
