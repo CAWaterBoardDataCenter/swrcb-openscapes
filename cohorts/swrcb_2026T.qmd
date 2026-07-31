@@ -4,18 +4,19 @@ title: "2026 Water Boards Cohort"
 
 *Cohort Instruction Team:* Anna Holder (OIMA), Tina Ures (DWQ)
 
-*Cohort Mentors:* TBD
+*Cohort Mentors:* Magnolia Busse (DWQ), John Herrera (DIT)
 
-*Guest Teachers:* TBD
+*Guest Teachers:* [Shannon Rankin](https://shannonrankin.github.io/me/) (NOAA Fisheries), Gregor Siegmund (UCLA), Rachael Blake & Kate Wing (Intertidal)
 
--   Cohort GitHub Webpage \| Repository TBD
+Cohort GitHub [Webpage](https://openscapes.github.io/2026-swrcb-fall/) \| [Repository](https://github.com/Openscapes/2026-swrcb-fall)
 
 On Tuesday mornings in mid-August - mid-October 2026, the Water Boards cohort instructors and mentors will lead the fifth Openscapes Champions Cohort at the Water Boards!
 
-The 2026 Tuesday AM Champions Cohort Individuals and/or Teams include:
+The Fall 2026 Champions Cohort Participants include:
 
--   TBD
+-   Individuals: TBD
+-   Teams: TBD
 
 See the timeline below for dates of mandatory Cohort activities:
 
-![2026 Tue. AM Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)](images/swrcb2026t-cohort-timeline.png){fig-alt="Timeline displaying milestones for the implementation of the 2026 Tue. AM Water Boards Cohort: Jan through Jun pre-cohort engagement (including office hours), Jun 30 Application Deadline, Aug 10-20 1:1 meetings, Cohort calls on Aug 25, Sep 8, Sep 22, Oct 6, Oct 20, with seaside chats and co-working sessions scheduled on weeks alternate to Cohort calls, and the 2-month check-in scheduled for Dec 15"}
+![Fall 2026 Cohort Implementation Timeline, which includes specific dates for mandatory cohort activities (1:1 Meetings, Cohort Calls, 2-month check-in)](images/swrcb2026t-cohort-timeline.png){fig-alt="Timeline displaying milestones for the implementation of the 2026 Tue. AM Water Boards Cohort: Jan through Jun pre-cohort engagement (including office hours), Jun 30 Application Deadline, Aug 10-20 1:1 meetings, Cohort calls on Aug 25, Sep 8, Sep 22, Oct 6, Oct 20, with seaside chats and co-working sessions scheduled on weeks alternate to Cohort calls, and the 2-month check-in scheduled for Dec 15"}
