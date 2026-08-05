@@ -26,8 +26,8 @@ rdo_long$Cohort <- gsub("^.{0,1}", "", rdo_long$Cohort)
 # Add a column to specify the type of individuals represented
 rdo_long$IndividualType <- ""
 
-# If Cohort ends in "IM", make IndividualType = "Instructors + Mentors", else  "Team Members"
-rdo_long$IndividualType <- ifelse(grepl("IM", rdo_long$Cohort), "Instructors + Mentors", "Team Members")
+# If Cohort ends in "IM", make IndividualType = "Instructors + Mentors", else  "Team Members + Individuals"
+rdo_long$IndividualType <- ifelse(grepl("IM", rdo_long$Cohort), "Instructors + Mentors", "Team Members + Individuals")
 
 # Remove "IM" from Cohort years
 rdo_long$Cohort <- gsub("\\IM$","", rdo_long$Cohort)
@@ -36,10 +36,10 @@ rdo_long$Cohort <- gsub("\\IM$","", rdo_long$Cohort)
 ggplot(rdo_long, aes(fill=Cohort, x=Count, y=RDO)) + 
   geom_bar(position="stack", stat="identity") +
   theme(legend.position="top") +
-  xlab("Number of Individuals") + 
+  xlab("Number of People") + 
   ylab("Water Boards Region, Division, or Office (RDO)") +
   scale_fill_viridis(discrete = TRUE, option = "viridis") +
-  facet_wrap(~factor(IndividualType, c("Team Members", "Instructors + Mentors")), 
+  facet_wrap(~factor(IndividualType, c("Team Members + Individuals", "Instructors + Mentors")), 
              scales = "free") +
   scale_x_continuous(n.breaks=6)
 
