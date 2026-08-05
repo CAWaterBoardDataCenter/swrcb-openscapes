@@ -12,40 +12,43 @@ The [Fall 2026 Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes
 
 ### Water Boards Cohorts Summary
 
-| Cohort | [2024 Fall](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024F.html) | [2024 Spring](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024S.html) | [2023 Fall](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2023.html) | [2022 Fall](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2022.html) |
-|--------------:|---------------|---------------|---------------|---------------|
-| Number of Teams | 3 | 3 | 6 | 3 |
-| Percent Water Boards Regions, Divisions, or Offices (RDOs) Represented | 27% | 27% | 36% | 9% |
-| Number of RDOs Represented | 6 | 6 | 8 | 2 |
-| Number of Individuals (Team Members + Instructors + Mentors) | 22 | 19 | 31 | 19 |
+| Cohort | [2026 Fall](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2026T.html) | [2024 Fall](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024F.html) | [2024 Spring](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024S.html) | [2023 Fall](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2023.html) | [2022 Fall](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2022.html) |
+|-------------:|-------|-------|---------|-------|-------|
+| Number of Teams | 7 | 3 | 3 | 6 | 3 |
+| Number of Individuals | 11 | NA | NA | NA | NA |
+| **Total Number of Participants in Cohort** (Team Members,  Individuals, Mentors, Instructors) | **45** | **22** | **19** | **31** | **19** |
+| Percent Water Boards Regions, Divisions, or Offices (RDOs) Represented | 46% | 25% | 25% | 33% | 8% |
+| Number of RDOs Represented | 11 | 6 | 6 | 8 | 2 |
 
 ![Number of individual participants (Team Members = Left; Instructors and Mentors = Right) in each Water Boards Region, Division, or Office (RDO) by Water Boards Openscapes Cohort. See RDO definitions below.](images/annual-rdo.png)
 
 | Acronym or Abbreviation | Definition |
-|--------------------|----------------------------------------------------|
-| RDO | Water Boards Region, Division, or Office |
-| DAS | Division of Administrative Services |
-| DDW | Division of Drinking Water |
-| DFA | Division of Financial Assistance |
-| DIT | Division of Information Technology |
-| DWQ | Division of Water Quality |
-| DWR | Division of Water Rights |
-| OCC | Office of Chief Counsel |
-| OE | Office of Enforcement |
-| OIMA | Office of Information Management and Analysis |
-| OLA | Office of Legislative Affairs |
-| OPA | Office of Public Affairs |
-| OPP | Office of Public Participation |
-| ORPP | Office of Research, Planning, and Performance |
-| R1 | Region 1 -- North Coast Regional Water Quality Control Board |
-| R2 | Region 2 -- San Francisco Regional Water Quality Control Board |
-| R3 | Region 3 -- Central Coast Regional Water Quality Control Board |
-| R4 | Region 4 -- Los Angeles Regional Water Quality Control Board |
-| R5 | Region 5 -- Central Valley Regional Water Quality Control Board |
-| R6 | Region 6 -- Lahontan Regional Water Quality Control Board |
-| R7 | Region 7 -- Colorado River Regional Water Quality Control Board |
-| R8 | Region 8 -- Santa Ana Regional Water Quality Control Board |
-| R9 | Region 9 -- San Diego Regional Water Quality Control Board |
+|---------------------|---------------------------------------------------|
+| RDO | Water Boards [R]{.underline}egion, [D]{.underline}ivision, or [O]{.underline}ffice |
+| AHO | [A]{.underline}dministrative [H]{.underline}earings [O]{.underline}ffice |
+| COMs | [Com]{.underline}munication[s]{.underline} Office |
+| DAS | [D]{.underline}ivision of [A]{.underline}dministrative [S]{.underline}ervices |
+| DDW | [D]{.underline}ivision of [D]{.underline}rinking [W]{.underline}ater |
+| DFA | [D]{.underline}ivision of [F]{.underline}inancial [A]{.underline}ssistance |
+| DIT | [D]{.underline}ivision of [I]{.underline}nformation [T]{.underline}echnology |
+| DWQ | [D]{.underline}ivision of [W]{.underline}ater [Q]{.underline}uality |
+| DWR | [D]{.underline}ivision of [W]{.underline}ater [R]{.underline}ights |
+| OCC | [O]{.underline}ffice of [C]{.underline}hief [C]{.underline}ounsel |
+| OE | [O]{.underline}ffice of [E]{.underline}nforcement |
+| OIMA | [O]{.underline}ffice of [I]{.underline}nformation [M]{.underline}anagement and [A]{.underline}nalysis |
+| OLA | [O]{.underline}ffice of [L]{.underline}egislative [A]{.underline}ffairs |
+| OPEETA | [O]{.underline}ffice of [P]{.underline}ublic [E]{.underline}ngagement, [E]{.underline}quity & [T]{.underline}ribal [A]{.underline}ffairs |
+| ORPP | [O]{.underline}ffice of [R]{.underline}esearch, [P]{.underline}lanning, and [P]{.underline}erformance |
+| OSGM | [O]{.underline}ffice of [S]{.underline}ustainable [G]{.underline}roundwater [M]{.underline}anagement |
+| R1 | [R]{.underline}egion [1]{.underline} -- North Coast Regional Water Quality Control Board |
+| R2 | [R]{.underline}egion [2]{.underline} -- San Francisco Regional Water Quality Control Board |
+| R3 | [R]{.underline}egion [3]{.underline} -- Central Coast Regional Water Quality Control Board |
+| R4 | [R]{.underline}egion [4]{.underline} -- Los Angeles Regional Water Quality Control Board |
+| R5 | [R]{.underline}egion [5]{.underline} -- Central Valley Regional Water Quality Control Board |
+| R6 | [R]{.underline}egion [6]{.underline} -- Lahontan Regional Water Quality Control Board |
+| R7 | [R]{.underline}egion [7]{.underline} -- Colorado River Regional Water Quality Control Board |
+| R8 | [R]{.underline}egion [8]{.underline} -- Santa Ana Regional Water Quality Control Board |
+| R9 | [R]{.underline}egion [9]{.underline} -- San Diego Regional Water Quality Control Board |
 | Water Boards | California State Water Resources Control Board and Regional Water Quality Control Boards, collectively |
 
 : Water Boards Region, Division, or Office Acronyms or Abbreviations and their definitions

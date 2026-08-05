@@ -15,7 +15,7 @@ library(viridis)
 rdo = read.csv(here("cohorts/annual-rdo.csv"))
 
 # Convert from wide to long format
-rdo_long <- gather(rdo, Cohort, Count, 'X2022_F':'X2024_FIM')
+rdo_long <- gather(rdo, Cohort, Count, 'X2022_F':'X2026_FIM')
 
 # Convert RDO to a factor
 rdo_long$RDO <- factor(rdo_long$RDO, levels=rev(unique(rdo_long$RDO)))
